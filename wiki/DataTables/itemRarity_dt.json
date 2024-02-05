@@ -1,0 +1,92 @@
+[
+    {
+      "Type": "DataTable",
+      "Name": "Item_Rarity_DataTable",
+      "Class": "UScriptClass'DataTable'",
+      "Properties": {
+        "RowStruct": {
+          "ObjectName": "UserDefinedStruct'Rarity_Struct'",
+          "ObjectPath": "TheBloodline/Content/Blueprints/Rarity_Struct.0"
+        }
+      },
+      "Rows": {
+        "EtherealOil": {
+          "Item_2_36BDD6B24F37D11AAC16C8921B4B494E": {
+            "ObjectName": "BlueprintGeneratedClass'EtherealOil_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/NecromancerThemedItems/EtherealOil.0"
+          },
+          "Rarity_5_9915E5494978065ED910DFB677048560": 3
+        },
+        "SpiritEssence": {
+          "Item_2_36BDD6B24F37D11AAC16C8921B4B494E": {
+            "ObjectName": "BlueprintGeneratedClass'SpiritEssence_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/NecromancerThemedItems/SpiritEssence.0"
+          },
+          "Rarity_5_9915E5494978065ED910DFB677048560": 2
+        },
+        "HumanBones": {
+          "Item_2_36BDD6B24F37D11AAC16C8921B4B494E": {
+            "ObjectName": "BlueprintGeneratedClass'Human_Bones_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Human_Bones.0"
+          },
+          "Rarity_5_9915E5494978065ED910DFB677048560": 1
+        },
+        "HumanTooth": {
+          "Item_2_36BDD6B24F37D11AAC16C8921B4B494E": {
+            "ObjectName": "BlueprintGeneratedClass'HumanTooth_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/NecromancerThemedItems/HumanTooth.0"
+          },
+          "Rarity_5_9915E5494978065ED910DFB677048560": 1
+        },
+        "DeathSeal": {
+          "Item_2_36BDD6B24F37D11AAC16C8921B4B494E": {
+            "ObjectName": "BlueprintGeneratedClass'DeathSeal_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/NecromancerThemedItems/DeathSeal.0"
+          },
+          "Rarity_5_9915E5494978065ED910DFB677048560": 5
+        },
+        "BoneDust": {
+          "Item_2_36BDD6B24F37D11AAC16C8921B4B494E": {
+            "ObjectName": "BlueprintGeneratedClass'BoneDust_Item_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/BoneDust_Item.0"
+          },
+          "Rarity_5_9915E5494978065ED910DFB677048560": 1
+        },
+        "Skull": {
+          "Item_2_36BDD6B24F37D11AAC16C8921B4B494E": {
+            "ObjectName": "BlueprintGeneratedClass'Skull_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Skull.0"
+          },
+          "Rarity_5_9915E5494978065ED910DFB677048560": 1
+        },
+        "PreachersGem": {
+          "Item_2_36BDD6B24F37D11AAC16C8921B4B494E": {
+            "ObjectName": "BlueprintGeneratedClass'PreachersGem_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/NecromancerThemedItems/PreachersGem.0"
+          },
+          "Rarity_5_9915E5494978065ED910DFB677048560": 4
+        },
+        "DivineFavor": {
+          "Item_2_36BDD6B24F37D11AAC16C8921B4B494E": {
+            "ObjectName": "BlueprintGeneratedClass'DivineFavor_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/DivineFavor.0"
+          },
+          "Rarity_5_9915E5494978065ED910DFB677048560": 3
+        },
+        "BronzeKey": {
+          "Item_2_36BDD6B24F37D11AAC16C8921B4B494E": {
+            "ObjectName": "BlueprintGeneratedClass'BronzeKey_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/BronzeKey.3"
+          },
+          "Rarity_5_9915E5494978065ED910DFB677048560": 3
+        },
+        "BronzeDagger": {
+          "Item_2_36BDD6B24F37D11AAC16C8921B4B494E": {
+            "ObjectName": "BlueprintGeneratedClass'BronzeDagger_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Weapons/Daggers/BronzeDagger.2"
+          },
+          "Rarity_5_9915E5494978065ED910DFB677048560": 1
+        }
+      }
+    }
+  ]

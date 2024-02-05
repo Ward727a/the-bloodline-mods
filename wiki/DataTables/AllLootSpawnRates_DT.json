@@ -1,0 +1,2758 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "AllLootSpawnRates",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "UserDefinedStruct'LootTableSpawnRateStruct'",
+        "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/LootTableSpawnRateStruct.0"
+      }
+    },
+    "Rows": {
+      "BasicIronSpatha": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Basic Iron Spatha",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'1HSWORD_BasicIronSpatha_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Weapons/1HandedWeapons/1HSWORD_BasicIronSpatha.8"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator1",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 3,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.057,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "Human"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "Wheat": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Wheat",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'Wheat_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Wheat.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator3",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.05,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "GoblinPick": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Goblin Pick",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'1H_AXE_GoblinPick_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Weapons/1HandedWeapons/1H_AXE_GoblinPick.2"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator1",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 8,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.092,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "Goblin"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "DwarvenShortsword": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Dwarven Shortsword",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'1HSWORD_DwarvenBlade_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Weapons/1HandedWeapons/1HSWORD_DwarvenBlade.7"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator1",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 5,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.5,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "Dwarf"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "KnightsBroadsword": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Knight's Broadsword",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'1HSWORD_KnightsBroadsword_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Weapons/1HandedWeapons/1HSWORD_KnightsBroadsword.9"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator1",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 18,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.005,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "Human"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "CopperRapier": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Copper Rapier",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'CopperRapier_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Weapons/1HandedWeapons/CopperRapier.9"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator1",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 8,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.09,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "Human"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "BanditsAxe": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Bandit's Axe",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'1H_AXE_BanditsAxe_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Weapons/1HandedWeapons/1H_AXE_BanditsAxe.7"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator1",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 2,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.09,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "Human"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "BlacksmithsHammer": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Blacksmith's Hammer",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'1H_Hammer_BlacksmithsHammer_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Weapons/1HandedWeapons/1H_Hammer_BlacksmithsHammer.7"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator1",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 5,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.082,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "Human"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "SturdyWarhammer": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Sturdy Warhammer",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'SmallWarhammer_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Weapons/Copper1HWeapons/SmallWarhammer.6"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator1",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 18,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.001,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "Human"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "ChippedIronHatchet": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Chipped Iron Hatchet",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'ChippedIronHatchet_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Weapons/1HandedWeapons/ChippedIronHatchet.7"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator1",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 7,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.072,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "Human"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "StoneMace": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Stone Mace",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'1HMACE_StoneMace_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Weapons/1HandedWeapons/1HMACE_StoneMace.7"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator1",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 8,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.084,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "Human",
+          "Goblin"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "AskillianGladus": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "AskillianGladus",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'1HSWORD_AskillianGladus_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Weapons/1HandedWeapons/1HSWORD_AskillianGladus.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator1",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 18,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.0095,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "Human"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "BalancedStraightsword": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Balanced Straightsword",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'1HSWORD_BalancedIronArmingSword_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Weapons/1HandedWeapons/1HSWORD_BalancedIronArmingSword.4"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator1",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 9,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.192,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "Human"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "AskillianSpatha": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Askillian Spatha",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'1HSWORD_AskillianSpatha_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Weapons/1HandedWeapons/1HSWORD_AskillianSpatha.5"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator1",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 9,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.0,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "Human"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "BoneClub": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Bone Club",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'1HSWORD_BoneClub_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Weapons/1HandedWeapons/1HSWORD_BoneClub.2"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator1",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 9,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.07,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "Goblin",
+          "Undead"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "CurveguardLongsword": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Curveguard Longsword",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'1HSWORD_CurveguardLongsword_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Weapons/1HandedWeapons/1HSWORD_CurveguardLongsword.2"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator1",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 7,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.062,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "Human"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "IronDagesseSword": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Iron Dagesse Sword",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'1HSWORD_DagesseSword_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Weapons/1HandedWeapons/1HSWORD_DagesseSword.2"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator1",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 11,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.07,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "Human"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "DefendersStraightsword": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Defenders Straightsword",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'1HSWORD_DefendersStraightsword_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Weapons/1HandedWeapons/1HSWORD_DefendersStraightsword.2"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator1",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 15,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.08,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "Human"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "DwarvenDecoratedShortblade": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Dwarven Decorated Shortblade",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'1HSWORD_DwarvenBlade_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Weapons/1HandedWeapons/1HSWORD_DwarvenBlade.7"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator1",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 15,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.07,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "Dwarf"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "DwarvenMace": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Dwarven Mace",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'1HSWORD_DwarvenHammer_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Weapons/1HandedWeapons/1HSWORD_DwarvenHammer.7"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator1",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 18,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.007,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "Dwarf"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "DwarvenKhopesh": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Dwarven Khopesh",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'1HSWORD_DwarvenJaggedBlade_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Weapons/1HandedWeapons/1HSWORD_DwarvenJaggedBlade.7"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator1",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 18,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.008,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "Dwarf"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "EldernArmingSword": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Eldern Arming Sword",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'1HSWORD_EldernArmingSword_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Weapons/1HandedWeapons/1HSWORD_EldernArmingSword.3"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator1",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 12,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.0069,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "Human"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "EldernOfficersSword": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Eldern Officer Sword",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'1HSWORD_EldernOfficerSword_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Weapons/1HandedWeapons/1HSWORD_EldernOfficerSword.2"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator1",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 13,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.008,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "Human"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "FootmansShortSpatha": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Footman's Short Spatha",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'1HSWORD_FootmanShortSpatha_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Weapons/1HandedWeapons/1HSWORD_FootmanShortSpatha.7"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator1",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 4,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.07,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "Human"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "FootmansShortsword": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Footman's Shortsword",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'1HSWORD_FootmanShortsword_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Weapons/1HandedWeapons/1HSWORD_FootmanShortsword.2"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator1",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 3,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.07,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "Human"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "GoblinBroadsword": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Goblin Broadsword",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'Goblin_Broadsword_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Weapons/Copper1HWeapons/Goblin_Broadsword.6"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator1",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 10,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.07,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "Goblin"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "GoblinMachete": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Goblin Machete",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'1HSWORD_GoblinMachete_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Weapons/1HandedWeapons/1HSWORD_GoblinMachete.2"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator1",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 4,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.06,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "Goblin"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "HeavyLongsword": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Heavy Longsword",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'1HSWORD_HeavyLongsword_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Weapons/1HandedWeapons/1HSWORD_HeavyLongsword.2"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator1",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 13,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.005,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "Human"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "InfantryArmingSword": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Infantry Arming Sword",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'1HSWORD_InfatryArmingSword_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Weapons/1HandedWeapons/1HSWORD_InfatryArmingSword.2"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator1",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 4,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.086,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "Human"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "IronStraightsword": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Iron Straightsword",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'1HSWORD_IronStraightsword_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Weapons/1HandedWeapons/1HSWORD_IronStraightsword.7"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator1",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 5,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.06,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "Human"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "ObsidionShortblade": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Obsidion Shortblade",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'1HSWORD_ObsidianSword_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Weapons/1HandedWeapons/1HSWORD_ObsidianSword.2"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator1",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 18,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.002,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "Human",
+          "Undead"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "OfficersCutlass": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Officer's Cutlass",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'1HSWORD_OfficersCutlass_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Weapons/1HandedWeapons/1HSWORD_OfficersCutlass.2"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator1",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 13,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.007,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "Human"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "ProfessionalsRapier": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Professional's Rapier",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'1HSWORD_ProfessionalsRapier_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Weapons/1HandedWeapons/1HSWORD_ProfessionalsRapier.5"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator1",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 11,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.005,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "Human"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "RoyalLongsword": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Royal Longsword",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'1HSWORD_RoyalLongsword_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Weapons/1HandedWeapons/1HSWORD_RoyalLongsword.2"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator1",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 18,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.007,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "Human"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "RustyLongsword": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Rusty Longsword",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'1HSWORD_RustyLongsword_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Weapons/1HandedWeapons/1HSWORD_RustyLongsword.2"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator1",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 5,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.08,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "Human"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "SharpLongsword": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Sharp Longsword",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'1HSWORD_SharpLongsword_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Weapons/1HandedWeapons/1HSWORD_SharpLongsword.4"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator1",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 10,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.08,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "Human"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "BladedMace": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Bladed Mace",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'1HWEAPON_BladedMace_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Weapons/1HandedWeapons/1HWEAPON_BladedMace.2"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator1",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 20,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.005,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "Human"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "Stick": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Stick",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'1HWEAPON_OldReliable_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Weapons/1HandedWeapons/1HWEAPON_OldReliable.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator1",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 3,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.007,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "Human"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "FryingPan": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Frying Pan",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'1HWEAPON_OldReliable1_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Weapons/1HandedWeapons/1HWEAPON_OldReliable1.7"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator1",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 2,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.06,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "Human",
+          "Goblin"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "RoundMace": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Round Mace",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'1HWEAPON_RoundMace_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Weapons/1HandedWeapons/1HWEAPON_RoundMace.6"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator1",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 10,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.0036,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "Human"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "SpikedIronMace": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Spiked Iron Mace",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'1HWEAPON_SpikedIronMace_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Weapons/1HandedWeapons/1HWEAPON_SpikedIronMAce.5"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator1",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 10,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.042,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "Human"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "BanditsClub": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Bandit's Club",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'Bandit_SpikedClub_1H_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Weapons/1HandedWeapons/Bandit_SpikedClub_1H.2"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator1",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 9,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.032,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "Human"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "GoblkinShivs": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Goblin Shivs",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'GoblinShivs_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Weapons/Daggers/GoblinShivs.6"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator1",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 3,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.074,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "Goblin"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "Apple": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Apple",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'Apple_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Apple.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator3",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.05,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "Potato": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Potato",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'Potato_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Potato.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator3",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.05,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "Bread": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Bread",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'Bread_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Bread.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator3",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.05,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "Cherries": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Cherries",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'Cherries_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Cherries.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator3",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.05,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "Flour": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Flour",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'Flour_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Flour.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator3",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.05,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "CoffeeBeans": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "CoffeeBeans",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'Coffee_Beans_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Coffee_Beans.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator3",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.05,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "Baguette": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Baguette",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'Baguette_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Baguette.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator3",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.05,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "BasicWine": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Basic Wine",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'BasicWine_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/BasicWine.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator3",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.05,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "BlockOfCheese": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Block of Cheese",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'BlockOfCheese_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/BlockOfCheese.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator3",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.05,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "Butter": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Butter",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'Butter_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Butter.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator3",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.05,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "Cabbage": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Cabbage",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'Cabbage_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Cabbage.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator3",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.05,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "Carrot": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Carrot",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'Carrot_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Carrot.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator3",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.05,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "Donut": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Donut",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'Donut_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Donut.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator3",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.01,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "DruidsStew": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Druid's Stew",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'DruidsStew_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/DruidsStew.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator3",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.01,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "FishSandwich": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Fish Sandwich",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'FishSandwich_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/FishSandwich.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator3",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.01,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "CarrotCake": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Carrot Cake",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'CarrotCake_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/CarrotCake.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator3",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.01,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "CheeseMelt": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Cheese Melt",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'CheeseMelt_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/CheeseMelt.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator3",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.01,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "CherryPie": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Cherry Pie",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'CherryPie_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/CherryPie.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator3",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.005,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "CreamyCoffee": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Creamy Coffee",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'CreamyCoffee_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/CreamyCoffee.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator3",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.005,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "CupOfCoffee": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Cup of Coffee",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'CreamyCoffee_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/CreamyCoffee.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator3",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.008,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "GarlicBread": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Garlic Bread",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'GarlicBread_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/GarlicBread.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator3",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.009,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "Grapes": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Grapes",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'Grapes_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Grapes.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator3",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.05,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "Milk": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Milk",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'Milk_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Milk.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator3",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.05,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "Onion": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Onion",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'Onion_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Onion.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator3",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.05,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "PotatoBread": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Potato Bread",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'PotatoBread_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/PotatoBread.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator3",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.009,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "Pretzel": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Pretzel",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'Pretzel_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Pretzel.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator3",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.009,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "SaltyStew": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Salty Stew",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'SaltyStew_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/SaltyStew.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator3",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.009,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "Sausage": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Sausage",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'Sausage_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Sausage.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator3",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.009,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "BearPelt": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Bear Pelt",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'Bear_Pelt_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Generic_Loot/Bear_Pelt.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator10",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.01,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "Feather": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Feather",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'Feather_Loot_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Generic_Loot/Feather_Loot.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator10",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.05,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "Lute": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Lute",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'Lute_Instrument_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Generic_Loot/Lute_Instrument.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator10",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.005,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "PrayerStones": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Prayer Stones",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'PrayerStones_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Generic_Loot/PrayerStones.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator10",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.01,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "Tomb"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "LargeHealthPotion": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Large Health Potion",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'LargeHealthPotion_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GenericPotions/LargeHealthPotion.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator10",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.001,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "Tomb",
+          "General"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "LargeManaPotion": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Large Mana Potion",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'LargeManaPotion_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GenericPotions/LargeManaPotion.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator10",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.001,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "Tomb",
+          "General"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "LargeStaminaPotion": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Large Stamina Potion",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'LargeStaminaPotion_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GenericPotions/LargeStaminaPotion.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator10",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.001,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "Tomb",
+          "General"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "MediumHealthPotion": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Medium Health Potion",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'MediumHealthPotion_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GenericPotions/MediumHealthPotion.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator10",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.002,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "Tomb",
+          "General"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "MediumManaPotion": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Medium Mana Potion",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'MediumManaPotion_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GenericPotions/MediumManaPotion.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator10",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.002,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "Tomb",
+          "General"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "MediumStaminaPotion": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Medium Stamina Potion",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'MediumStaminaPotion_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GenericPotions/MediumStaminaPotion.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator10",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.002,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "Tomb",
+          "General"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "SmallHealthPotion": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Small Health Potion",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'SmallHealthPotion_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GenericPotions/SmallHealthPotion.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator10",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.0035,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "Tomb",
+          "General"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "SmallManaPotion": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Small Mana Potion",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'SmallManaPotion_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GenericPotions/SmallManaPotion.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator10",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.0035,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "Tomb",
+          "General"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "SmallStaminaPotion": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Small Stamina Potion",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'SmallStaminaPotion_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GenericPotions/SmallStaminaPotion.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator10",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.0035,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "BansheeLily": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Banshee Lily",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'BansheeLily_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Herbs_And_Roots/BansheeLily.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator10",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.01,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "BranchBlossom": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Branch Blossom",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'BranchBlossom_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Herbs_And_Roots/BranchBlossom.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator10",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.005,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General",
+          "Herb"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "CommonReed": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Common Reed",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'CommonReed_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Herbs_And_Roots/CommonReed.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator10",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.05,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General",
+          "Herb"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "LilyPad": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Lily Pad",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'LilyPad_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Herbs_And_Roots/LilyPad.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator10",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.03,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General",
+          "Herb"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "LoveMeNotFlower": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Lily Pad",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'LoveMeNotFlower_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Herbs_And_Roots/LoveMeNotFlower.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator10",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.05,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General",
+          "Herb"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "MoonglowIndigo": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Moonglow Indigo",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'MoonglowIndigo_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Herbs_And_Roots/MoonglowIndigo.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator10",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.01,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General",
+          "Herb"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "RoseDaisy": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Rose Raisy",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'RoseDaisey_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Herbs_And_Roots/RoseDaisey.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator10",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.03,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General",
+          "Herb"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "WitchesKnell": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Witches Knell",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'WitchesKnell_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Herbs_And_Roots/WitchesKnell.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator10",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.01,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "Tomb",
+          "Herb"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "PortalCoin": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "PortalCoin",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'PortalCoin_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/MagicalItems/PortalCoin.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator10",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.001,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "Blastmine": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Blastmine",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'Blastmine_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/MechanicalItems/Blastmine.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator10",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.005,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General",
+          "Engineer"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "EngineersSpringboard": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Engineers Springboard",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'EngineersSpringboard_Item_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/MechanicalItems/EngineersSpringboard_Item.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator10",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.007,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General",
+          "Engineer"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "Hoverlight": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Hoverlight",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'Hoverlight_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/MechanicalItems/Hoverlight.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator10",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.01,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General",
+          "Engineer"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "MagneticCoil": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Magnetic Coil",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'MagneticCoil_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/MechanicalItems/MagneticCoil.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator10",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.012,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General",
+          "Engineer"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "MagnifyingLens": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Magnifying Lens",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'MagnifyingLens_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/MechanicalItems/MagnifyingLens.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator10",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.015,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General",
+          "Engineer"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "SparkPlug": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Spark Plug",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'SparkPlug_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/MechanicalItems/SparkPlug.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator10",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.012,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General",
+          "Engineer"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "SmallPropeller": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Small Propeller",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'SmallPropeller_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/MechanicalItems/SmallPropeller.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator10",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.01,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General",
+          "Engineer"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "SmallGyroscopicStabilizer": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Small Gyroscopic Stabilizer",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'SmallGryoscopicStabilizer_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/MechanicalItems/SmallGryoscopicStabilizer.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator10",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.005,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General",
+          "Engineer"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "AzureLover": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Azure Lover",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'AzureLover_Mushroom_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Mushrooms/AzureLover_Mushroom.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator10",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.001,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General",
+          "Herb"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "Buffshroom": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Buffshroom",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'Buffshroom_Mushroom_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Mushrooms/Buffshroom_Mushroom.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator10",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.01,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General",
+          "Herb"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "DruidsightCap": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Druidsight Cap",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'DruidsightCap_Mushroom_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Mushrooms/DruidsightCap_Mushroom.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator10",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.005,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General",
+          "Herb"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "FlyAgaric": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Fly Agaric",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'FlyAgaric_Mushroom_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Mushrooms/FlyAgaric_Mushroom.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator10",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.007,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General",
+          "Herb"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "GildedBoletus": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Gilded Boletus",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'GildedBoletus_Mushroom_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Mushrooms/GildedBoletus_Mushroom.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator10",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.003,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General",
+          "Herb"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "GoblinMold": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "GoblinMold",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'GoblinMold_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Mushrooms/GoblinMold.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator10",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.02,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General",
+          "Herb"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "GrowGloom": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Grow Gloom",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'GrowGloom_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Mushrooms/GrowGloom.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator10",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.01,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General",
+          "Herb"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "Jetshroom": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Jetshroom",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'JetShroom_Mushroom_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Mushrooms/JetShroom_Mushroom.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator10",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.01,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General",
+          "Herb"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "LumberConopilus": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Lumber Conopilus",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'LumberConopilus_Mushroom_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Mushrooms/LumberConopilus_Mushroom.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator10",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.007,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General",
+          "Herb"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "MapleEntoloma": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Maple Entoloma",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'MapleEntoloma_Mushroom_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Mushrooms/MapleEntoloma_Mushroom.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator10",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.05,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General",
+          "Herb"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "SanguineRussula": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Sanguine Russula",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'SanguineRussula_Mushroom_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Mushrooms/SanguineRussula_Mushroom.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator10",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.06,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General",
+          "Herb"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "ShrinkShroom": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Shrink Shroom",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'ShrinkShroom_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Mushrooms/ShrinkShroom.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator10",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.005,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General",
+          "Herb"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "SkullcapMushroom": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Skullcap Mushroom",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'Skullcap_Mushroom_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Mushrooms/Skullcap_Mushroom.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator10",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.025,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "Tomb"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "Stone": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Stone",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'Stone_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Ore_And_Ingots/Stone.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator10",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.035,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General",
+          "Ore"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "ChunkOfCoal": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Chunk of Coal",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'ChunkOfCoal_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Ore_And_Ingots/ChunkOfCoal.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator10",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.025,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General",
+          "Ore"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "CopperIngot": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Copper Ingot",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'CopperIngot_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Ore_And_Ingots/CopperIngot.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator10",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.01,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General",
+          "Ore"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "CopperOre": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Copper Ore",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'CopperOre_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Ore_And_Ingots/CopperOre.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator10",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.015,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General",
+          "Ore"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "GoldOre": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Gold Ore",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'GoldOore_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Ore_And_Ingots/GoldOore.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator10",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.001,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "Tomb",
+          "General"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "IronIngot": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Iron Ingot",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'IronIngot_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Ore_And_Ingots/IronIngot.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator1",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.0075,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General",
+          "Ore"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "IronOre": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Iron Ore",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'IronOre_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Ore_And_Ingots/IronOre.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator10",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.01,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General",
+          "Ore"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "SilverOre": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Silver Ore",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'SilverOre_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Ore_And_Ingots/SilverOre.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator10",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.003,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General",
+          "Ore"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "UnyieldingChitin": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Unyielding Chitin",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'UnyieldingChitin_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Ore_And_Ingots/UnyieldingChitin.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator1",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.005,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General",
+          "Ore",
+          "Herb"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "Corn": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Corn",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'Corn_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Vegetables/Corn.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator3",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.05,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "Arrow": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Arrow",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'Arrow_Item_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Arrow_Item.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator1",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.05,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General",
+          "Ammo"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "Arrow_General": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Arrow",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'Arrow_Item_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Arrow_Item.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator10",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.05,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General",
+          "Ammo"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "Bullet": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Arrow",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'Bullet_Item_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Bullet_Item.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator1",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.05,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General",
+          "Ammo"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "Bullet_General": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Arrow",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'Bullet_Item_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Bullet_Item.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator10",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.05,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General",
+          "Ammo"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "GoblinNecklace": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Goblin Necklace",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'GoblinNecklace_Item_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/GoblinNecklace_Item.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator10",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.01,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "Goblin"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "GoblinFang": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Goblin Fang",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'GoblinFang_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/GoblinFang.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator10",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.02,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "Goblin"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "HumanBone": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Human Bone",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'Human_Bones_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Human_Bones.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator10",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.005,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "Undead",
+          "Tomb"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "HumanTooth": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Human Tooth",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'HumanTooth_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/NecromancerThemedItems/HumanTooth.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator10",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.005,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "Undead",
+          "Tomb"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "BoneDust": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Bone Dust",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'BoneDust_Item_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/BoneDust_Item.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator10",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.01,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "Undead",
+          "Tomb"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "Blastpowder": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Blastpowder",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'Blastpowder_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Blastpowder.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator10",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.02,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General",
+          "Ore"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "Blaststone": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Blaststone",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'Blaststone_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Blaststone.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator10",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.01,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General",
+          "Ore"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "CopperShilling": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Copper Shilling",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'Copper_Shilling_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Copper_Shilling.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator10",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.025,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "Undead",
+          "Tomb"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "ChickenMeat": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "ChickenMeat",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'ChickenMeat_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/ChickenMeat.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator3",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.05,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "CheeseWheel": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Cheese Wheel",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'CheeseWheel_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/CheeseWheel.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator3",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.01,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "ExplosiveGrenade": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "ExplosiveGrenade",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'ExplosiveGrenade_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/ExplosiveGrenade.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator10",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.005,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "GoldShilling": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Gold Shilling",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'Gold_Shilling_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Gold_Shilling.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator10",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.001,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "Undead",
+          "Tomb"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "GreenSlime": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Green Slime",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'GreenSlime_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/GreenSlime.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator10",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.001,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "Honey": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Honey",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'Honey_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Honey.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator3",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.02,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "RabbitMeat": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Rabbit Meat",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'RabbitMeat_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/RabbitMeat.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator3",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.01,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "SilverShilling": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Silver Shilling",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'Silver_Shilling_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Silver_Shilling.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator10",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.002,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "Undead",
+          "Tomb"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "Skull": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Skull",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'Skull_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Skull.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator10",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.02,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "Undead",
+          "Tomb"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "SoulsapperMine": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Soulsapper Mine",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'SoulsapperMine_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/SoulsapperMine.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator10",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.002,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "SpikeGrenade": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Spike Grenade",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'SpikeGrenade_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/SpikeGrenade.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator10",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.0005,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "WoodenToySword": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Wooden Toy Sword",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'WoodenToySword_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Weapons/1HandedWeapons/WoodenToySword.7"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator1",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.0095,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "Human",
+          "Tomb"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "BronzeDaggers": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Bronze Daggers",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'BronzeDagger_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Weapons/Daggers/BronzeDagger.2"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator1",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 3,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.086,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "Human",
+          "Tomb"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "MakeshiftClub": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "MakeshiftClub",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'MakeshiftClub_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Weapons/1HandedWeapons/MakeshiftClub.7"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator1",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 3,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.048,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "Human",
+          "Goblin"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "ForgeHammer": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Forge Hammer",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'Forge_Hammer_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Weapons/1HandedWeapons/Forge_Hammer.4"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator1",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 3,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.052,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "Human",
+          "Dwarf"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "WoodenClub": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Wooden Club",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'1HWEAPON_WoodenClub_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Weapons/1HandedWeapons/1HWEAPON_WoodenClub.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator1",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 3,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.084,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "Human",
+          "Goblin"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "GoblinAxe": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Goblin Axe",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'Goblin_Axe_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Weapons/1HandedWeapons/Goblin_Axe.9"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator1",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 3,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.086,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "Goblin"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "HuntingDaggers": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Hunting Daggers",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'HuntingDagger_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Weapons/Daggers/HuntingDagger.2"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator1",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 3,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.09,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "Human",
+          "Tomb"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "StandardIronStraightSword": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Standard Iron Straightsword",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'1HSWORD_StandardLongsword_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Weapons/1HandedWeapons/1HSWORD_StandardLongsword.5"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator1",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.048,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "Human",
+          "Tomb"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "SingleEdgeShortsword": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Single Edge Straightsword",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'SingleEdgeIronShortsword_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Weapons/1HandedWeapons/SingleEdgeIronShortsword.9"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator1",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 4,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.068,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "Human"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "StraightDaggers": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Straight Daggers",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'StraightDagger_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Weapons/Daggers/StraightDagger.6"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator1",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 5,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.07,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "Human",
+          "Tomb"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "GoblinMace": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Goblin Mace",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'GoblinMace_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Weapons/1HandedWeapons/GoblinMace.4"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator1",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 4,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.09,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "Goblin"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "AtacmiteFalchion": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Atacmite Falchion",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'AtacmiteFalchion_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Weapons/1HandedWeapons/AtacmiteFalchion.7"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator1",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 8,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.04,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "Human",
+          "Tomb"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "DwarvenHammer": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "DwarvenHammer",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'Dwarven_Hammer_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Weapons/1HandedWeapons/Dwarven_Hammer.4"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator1",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 11,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.03,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "Dwarf"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "UndeadDaggers": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Undead Daggers",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'Undead_Daggers_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Weapons/Daggers/Undead_Daggers.6"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator1",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 12,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.03,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "Undead",
+          "Tomb"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "UndeadSword": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Undead Sword",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'Undead_Sword_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Weapons/1HandedWeapons/Undead_Sword.2"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator1",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 9,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.04,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "Undead",
+          "Tomb"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "EtherealSlicer": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "EtherealSlicer",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'1H_EtherealSlicer_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Weapons/1HandedWeapons/1H_EtherealSlicer.2"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator1",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.038,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "Ethereal"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "EtherealClaymore": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Ethereal Claymore",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'2HSword_EtherealClaymore_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Weapons/2H_Weapons/2HSword_EtherealClaymore.9"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator1",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.038,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "Ethereal"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "EtherrealShortblades": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Etherreal Shortblades",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'EtherealShortblade_Daggers_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Weapons/Daggers/EtherealShortblade_Daggers.6"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator1",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.038,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "Ethereal"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "UndeadMace": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Undead Mace",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'UndeadMace_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Weapons/1HandedWeapons/UndeadMace.8"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator1",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 12,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.04,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "Undead",
+          "Tomb"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "UndeadSpear": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "None",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'UndeadSpear_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Weapons/Spears/UndeadSpear.2"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator1",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 12,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.038,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "Undead",
+          "Tomb"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "UndeadPistol": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Undead Pistol",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'Undead_Pistol_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Weapons/Guns/Undead_Pistol.5"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator1",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 15,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.03,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "Undead",
+          "Tomb"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "UndeadRifle": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Undead Rifle",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'UndeadRifle_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Weapons/Guns/UndeadRifle.2"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator1",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 15,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.015,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "Undead",
+          "Tomb"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "UndeadStaff": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Undead Staff",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'UndeadStaff_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Weapons/Staves/UndeadStaff.31"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator1",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 12,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.038,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "Undead",
+          "Tomb"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "EtherealStaff": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Ethereal Staff",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'EtherealStaff_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Weapons/Staves/EtherealStaff.31"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator1",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.03,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "Ethereal"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "Shovel": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Shovel",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'Shovel_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Weapons/Spears/Shovel.6"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator10",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.01,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General",
+          "Tomb"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "Pickaxe": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Pickaxe",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'MiningPickaxe_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Weapons/2H_Weapons/TwoHanded_Tool_Weapons/MiningPickaxe.5"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator10",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.01,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General",
+          "Mining"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "TheSunbringer": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "The Sunbringer",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'TheSunbreaker_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Weapons/Halberds/TheSunbreaker.24"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator1",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 50,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.0,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "WheatSeeds": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Wheat Seeds",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'WheatSeeds_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/WheatSeeds.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator3",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.05,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "PotatoSeeds": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Potato Seeds",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'PotatoSeeds_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/PotatoSeeds.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator3",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.05,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "BirchLog": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Birch Log",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'Birch_Log_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Birch_Log.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator10",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.05,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "AshLog": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Ash Log",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'Ash_Log_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Ash_Log.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator10",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.025,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "PineLog": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Pine Log",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'Pine_Log_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Pine_Log.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator10",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.075,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "PackOfNails": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Pack of Nails",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'PackOfNails_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/PackOfNails.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator1",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.02,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "CopperTrigger": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Copper Trigger",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'Trigger_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Trigger.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator10",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.01,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General",
+          "Dwarf"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "BundleOfTwigs": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "BundleOfTwigs",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'BundleOfTwigs_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/BundleOfTwigs.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator10",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.02,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "GoldIngot": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Gold Ingot",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'GoldIngot_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Ore_And_Ingots/GoldIngot.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator10",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.01,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General",
+          "Mining"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "DivineFavor": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Divine Favor",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'DivineFavor_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/DivineFavor.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator10",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.0,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "SpiritEssence": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Spirit Essence",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'SpiritEssence_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/NecromancerThemedItems/SpiritEssence.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator10",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.0,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "EtherealOil": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Ethereal Oil",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'EtherealOil_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/NecromancerThemedItems/EtherealOil.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator10",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.01,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "Tomb",
+          "Undead"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "OldParchment": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Old Parchment",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'OldParchment_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/OldParchment.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator10",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.01,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General",
+          "Tomb",
+          "Undead",
+          "Bandit",
+          "Human"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "HumanBones": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Human Bones",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'Human_Bones_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Human_Bones.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator10",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.01,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "Undead",
+          "Tomb",
+          "Goblin"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "GlassBottle": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Glass Bottle",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'GlassBottle_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GlassBottle.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator10",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.01,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "General"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      },
+      "EtherealArchstone": {
+        "ItemName_2_7E8FD8904105500A987034A4C75EDAAF": "Ethereal Archstone",
+        "ItemClass_5_203CD4F9484CC279D4FD63AF10DEE390": {
+          "ObjectName": "BlueprintGeneratedClass'EtherealArchstone_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/EtherealArchstone.0"
+        },
+        "ItemType_21_32E53DC240775EEC5A13978EE7D22257": "E_ItemType::NewEnumerator10",
+        "Level_8_BC7F58564778D6FFA9DB66969C7D5BA1": 1,
+        "BaseSpawnRate_11_02519CFB40E760EAADD107B7CE206ED6": 0.01,
+        "Tags_15_6EC5E714481DB149B105E0A8B6A199CB": [
+          "Mining"
+        ],
+        "LocationTags_17_4B94E34F4126CC6C0D63F489781D739C": []
+      }
+    }
+  }
+]

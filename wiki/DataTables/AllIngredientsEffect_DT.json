@@ -1,0 +1,691 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "AllIngredientEffects",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "UserDefinedStruct'PotionIngredient_Struct'",
+        "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/UI/Inventory/PotionIngredient_Struct.0"
+      }
+    },
+    "Rows": {
+      "Gildleaf": {
+        "Item_2_3D72375040D25731D39CB88702B5EDD4": {
+          "ObjectName": "BlueprintGeneratedClass'Gildleaf_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Herbs_And_Roots/Gildleaf.0"
+        },
+        "CooledEffect_14_835296DD4512D855EE97989F1ADAAB75": [
+          {
+            "Restore Mana": 15.0
+          }
+        ],
+        "HeatedEffect_15_BEC9A708422B684129F1E4B5C222E772": [
+          {
+            "Restore Stamina": 15.0
+          }
+        ],
+        "ChoppedEffect_16_721175154B5818AF3DF4C895D49408CE": [
+          {
+            "Restore Health": 35.0
+          }
+        ],
+        "GroundEffect_18_386BBC8443AA5552BC4F888FF510DCAA": [
+          {
+            "Boost Stamina Regeneration": 25.0
+          }
+        ]
+      },
+      "DruidsightMushroom": {
+        "Item_2_3D72375040D25731D39CB88702B5EDD4": {
+          "ObjectName": "BlueprintGeneratedClass'DruidsightCap_Mushroom_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Mushrooms/DruidsightCap_Mushroom.0"
+        },
+        "CooledEffect_14_835296DD4512D855EE97989F1ADAAB75": [
+          {
+            "Restore Mana": 25.0
+          }
+        ],
+        "HeatedEffect_15_BEC9A708422B684129F1E4B5C222E772": [
+          {
+            "Boost Foraging EXP": 35.0
+          }
+        ],
+        "ChoppedEffect_16_721175154B5818AF3DF4C895D49408CE": [
+          {
+            "Druidsight": 60.0
+          }
+        ],
+        "GroundEffect_18_386BBC8443AA5552BC4F888FF510DCAA": [
+          {
+            "Improve Jump": 10.0
+          }
+        ]
+      },
+      "BoneDust": {
+        "Item_2_3D72375040D25731D39CB88702B5EDD4": {
+          "ObjectName": "BlueprintGeneratedClass'BoneDust_Item_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/BoneDust_Item.0"
+        },
+        "CooledEffect_14_835296DD4512D855EE97989F1ADAAB75": [
+          {
+            "Boost Mana Regeneration": 15.0
+          }
+        ],
+        "HeatedEffect_15_BEC9A708422B684129F1E4B5C222E772": [
+          {
+            "Boost Health Regeneration": 60.0
+          }
+        ],
+        "ChoppedEffect_16_721175154B5818AF3DF4C895D49408CE": [
+          {
+            "Restore Health": 15.0
+          }
+        ],
+        "GroundEffect_18_386BBC8443AA5552BC4F888FF510DCAA": [
+          {
+            "Restore Mana": 25.0
+          }
+        ]
+      },
+      "Barley": {
+        "Item_2_3D72375040D25731D39CB88702B5EDD4": {
+          "ObjectName": "BlueprintGeneratedClass'Barley_Resource_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Herbs_And_Roots/Barley_Resource.0"
+        },
+        "CooledEffect_14_835296DD4512D855EE97989F1ADAAB75": [
+          {
+            "Restore Health": 5.0
+          }
+        ],
+        "HeatedEffect_15_BEC9A708422B684129F1E4B5C222E772": [
+          {
+            "Drunk": 25.0
+          }
+        ],
+        "ChoppedEffect_16_721175154B5818AF3DF4C895D49408CE": [
+          {
+            "Restore Stamina": 15.0
+          }
+        ],
+        "GroundEffect_18_386BBC8443AA5552BC4F888FF510DCAA": [
+          {
+            "Restore Mana": 5.0
+          }
+        ]
+      },
+      "Springroot": {
+        "Item_2_3D72375040D25731D39CB88702B5EDD4": {
+          "ObjectName": "BlueprintGeneratedClass'Springroot_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Herbs_And_Roots/Springroot.0"
+        },
+        "CooledEffect_14_835296DD4512D855EE97989F1ADAAB75": [
+          {
+            "Boost Stamina Regeneration": 60.0
+          }
+        ],
+        "HeatedEffect_15_BEC9A708422B684129F1E4B5C222E772": [
+          {
+            "Improve Jump": 30.0
+          }
+        ],
+        "ChoppedEffect_16_721175154B5818AF3DF4C895D49408CE": [
+          {
+            "Quickness": 15.0
+          }
+        ],
+        "GroundEffect_18_386BBC8443AA5552BC4F888FF510DCAA": [
+          {
+            "Restore Stamina": 60.0
+          }
+        ]
+      },
+      "LoveMeNot": {
+        "Item_2_3D72375040D25731D39CB88702B5EDD4": {
+          "ObjectName": "BlueprintGeneratedClass'LoveMeNotFlower_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Herbs_And_Roots/LoveMeNotFlower.0"
+        },
+        "CooledEffect_14_835296DD4512D855EE97989F1ADAAB75": [
+          {
+            "Boost Foraging EXP": 30.0
+          }
+        ],
+        "HeatedEffect_15_BEC9A708422B684129F1E4B5C222E772": [
+          {
+            "Boost Foraging EXP": 15.0
+          }
+        ],
+        "ChoppedEffect_16_721175154B5818AF3DF4C895D49408CE": [
+          {
+            "Boost Foraging EXP": 25.0
+          }
+        ],
+        "GroundEffect_18_386BBC8443AA5552BC4F888FF510DCAA": [
+          {
+            "Restore Health": 15.0
+          }
+        ]
+      },
+      "CoffeeBeans": {
+        "Item_2_3D72375040D25731D39CB88702B5EDD4": {
+          "ObjectName": "BlueprintGeneratedClass'Coffee_Beans_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Coffee_Beans.0"
+        },
+        "CooledEffect_14_835296DD4512D855EE97989F1ADAAB75": [
+          {
+            "Quickness": 25.0
+          }
+        ],
+        "HeatedEffect_15_BEC9A708422B684129F1E4B5C222E772": [
+          {
+            "Restore Health": 15.0
+          }
+        ],
+        "ChoppedEffect_16_721175154B5818AF3DF4C895D49408CE": [
+          {
+            "Improve Jump": 30.0
+          }
+        ],
+        "GroundEffect_18_386BBC8443AA5552BC4F888FF510DCAA": [
+          {
+            "Restore Mana": 15.0
+          }
+        ]
+      },
+      "Buffshroom": {
+        "Item_2_3D72375040D25731D39CB88702B5EDD4": {
+          "ObjectName": "BlueprintGeneratedClass'Buffshroom_Mushroom_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Mushrooms/Buffshroom_Mushroom.0"
+        },
+        "CooledEffect_14_835296DD4512D855EE97989F1ADAAB75": [
+          {
+            "Boost Health Regeneration": 60.0
+          }
+        ],
+        "HeatedEffect_15_BEC9A708422B684129F1E4B5C222E772": [
+          {
+            "Restore Health": 25.0
+          }
+        ],
+        "ChoppedEffect_16_721175154B5818AF3DF4C895D49408CE": [
+          {
+            "Restore Stamina": 50.0
+          }
+        ],
+        "GroundEffect_18_386BBC8443AA5552BC4F888FF510DCAA": [
+          {
+            "Enhance Unarmed Damage": 60.0
+          }
+        ]
+      },
+      "SanguineRussula": {
+        "Item_2_3D72375040D25731D39CB88702B5EDD4": {
+          "ObjectName": "BlueprintGeneratedClass'SanguineRussula_Mushroom_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Mushrooms/SanguineRussula_Mushroom.0"
+        },
+        "CooledEffect_14_835296DD4512D855EE97989F1ADAAB75": [
+          {
+            "Poison": 15.0
+          }
+        ],
+        "HeatedEffect_15_BEC9A708422B684129F1E4B5C222E772": [
+          {
+            "Grow": 25.0
+          }
+        ],
+        "ChoppedEffect_16_721175154B5818AF3DF4C895D49408CE": [
+          {
+            "Druidsight": 15.0
+          }
+        ],
+        "GroundEffect_18_386BBC8443AA5552BC4F888FF510DCAA": [
+          {
+            "Restore Health": 25.0
+          }
+        ]
+      },
+      "MapleEntoloma": {
+        "Item_2_3D72375040D25731D39CB88702B5EDD4": {
+          "ObjectName": "BlueprintGeneratedClass'MapleEntoloma_Mushroom_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Mushrooms/MapleEntoloma_Mushroom.0"
+        },
+        "CooledEffect_14_835296DD4512D855EE97989F1ADAAB75": [
+          {
+            "Restore Mana": 25.0
+          }
+        ],
+        "HeatedEffect_15_BEC9A708422B684129F1E4B5C222E772": [
+          {
+            "Poison": 15.0
+          }
+        ],
+        "ChoppedEffect_16_721175154B5818AF3DF4C895D49408CE": [
+          {
+            "Quickness": 15.0
+          }
+        ],
+        "GroundEffect_18_386BBC8443AA5552BC4F888FF510DCAA": [
+          {
+            "Restore Stamina": 50.0
+          }
+        ]
+      },
+      "AzureLover": {
+        "Item_2_3D72375040D25731D39CB88702B5EDD4": {
+          "ObjectName": "BlueprintGeneratedClass'AzureLover_Mushroom_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Mushrooms/AzureLover_Mushroom.0"
+        },
+        "CooledEffect_14_835296DD4512D855EE97989F1ADAAB75": [
+          {
+            "Restore Mana": 50.0
+          }
+        ],
+        "HeatedEffect_15_BEC9A708422B684129F1E4B5C222E772": [
+          {
+            "Restore Health": 50.0
+          }
+        ],
+        "ChoppedEffect_16_721175154B5818AF3DF4C895D49408CE": [
+          {
+            "Restore Stamina": 50.0
+          }
+        ],
+        "GroundEffect_18_386BBC8443AA5552BC4F888FF510DCAA": [
+          {
+            "Glow": 25.0
+          }
+        ]
+      },
+      "Jetshroom": {
+        "Item_2_3D72375040D25731D39CB88702B5EDD4": {
+          "ObjectName": "BlueprintGeneratedClass'JetShroom_Mushroom_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Mushrooms/JetShroom_Mushroom.0"
+        },
+        "CooledEffect_14_835296DD4512D855EE97989F1ADAAB75": [
+          {
+            "Improve Jump": 60.0
+          }
+        ],
+        "HeatedEffect_15_BEC9A708422B684129F1E4B5C222E772": [
+          {
+            "Quickness": 30.0
+          }
+        ],
+        "ChoppedEffect_16_721175154B5818AF3DF4C895D49408CE": [
+          {
+            "Poison": 5.0
+          }
+        ],
+        "GroundEffect_18_386BBC8443AA5552BC4F888FF510DCAA": [
+          {
+            "Restore Stamina": 35.0
+          }
+        ]
+      },
+      "FlyAgaric": {
+        "Item_2_3D72375040D25731D39CB88702B5EDD4": {
+          "ObjectName": "BlueprintGeneratedClass'FlyAgaric_Mushroom_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Mushrooms/FlyAgaric_Mushroom.0"
+        },
+        "CooledEffect_14_835296DD4512D855EE97989F1ADAAB75": [
+          {
+            "Restore Health": 75.0
+          }
+        ],
+        "HeatedEffect_15_BEC9A708422B684129F1E4B5C222E772": [
+          {
+            "Poison": 25.0
+          }
+        ],
+        "ChoppedEffect_16_721175154B5818AF3DF4C895D49408CE": [
+          {
+            "Enhance Jump": 25.0
+          }
+        ],
+        "GroundEffect_18_386BBC8443AA5552BC4F888FF510DCAA": [
+          {
+            "Boost Foraging EXP": 120.0
+          }
+        ]
+      },
+      "LilyPad": {
+        "Item_2_3D72375040D25731D39CB88702B5EDD4": {
+          "ObjectName": "BlueprintGeneratedClass'LilyPad_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Herbs_And_Roots/LilyPad.0"
+        },
+        "CooledEffect_14_835296DD4512D855EE97989F1ADAAB75": [
+          {
+            "Improve Jump": 60.0
+          }
+        ],
+        "HeatedEffect_15_BEC9A708422B684129F1E4B5C222E772": [
+          {
+            "Relaxed": 120.0
+          }
+        ],
+        "ChoppedEffect_16_721175154B5818AF3DF4C895D49408CE": [
+          {
+            "Reduce Fall Damage": 10.0
+          }
+        ],
+        "GroundEffect_18_386BBC8443AA5552BC4F888FF510DCAA": [
+          {
+            "Restore Mana": 15.0
+          }
+        ]
+      },
+      "UnyieldingChitin": {
+        "Item_2_3D72375040D25731D39CB88702B5EDD4": {
+          "ObjectName": "BlueprintGeneratedClass'UnyieldingChitin_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Ore_And_Ingots/UnyieldingChitin.0"
+        },
+        "CooledEffect_14_835296DD4512D855EE97989F1ADAAB75": [
+          {
+            "Boost Stamina Regeneration": 60.0
+          }
+        ],
+        "HeatedEffect_15_BEC9A708422B684129F1E4B5C222E772": [
+          {
+            "Increase Armor": 60.0
+          }
+        ],
+        "ChoppedEffect_16_721175154B5818AF3DF4C895D49408CE": [
+          {
+            "Boost Health Regeneration": 60.0
+          }
+        ],
+        "GroundEffect_18_386BBC8443AA5552BC4F888FF510DCAA": [
+          {
+            "Restore Health": 100.0
+          }
+        ]
+      },
+      "GildedBoletus": {
+        "Item_2_3D72375040D25731D39CB88702B5EDD4": {
+          "ObjectName": "BlueprintGeneratedClass'GildedBoletus_Mushroom_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Mushrooms/GildedBoletus_Mushroom.0"
+        },
+        "CooledEffect_14_835296DD4512D855EE97989F1ADAAB75": [
+          {
+            "Restore Mana": 250.0
+          }
+        ],
+        "HeatedEffect_15_BEC9A708422B684129F1E4B5C222E772": [
+          {
+            "Restore Stamina": 250.0
+          }
+        ],
+        "ChoppedEffect_16_721175154B5818AF3DF4C895D49408CE": [
+          {
+            "Restore Health": 250.0
+          }
+        ],
+        "GroundEffect_18_386BBC8443AA5552BC4F888FF510DCAA": [
+          {
+            "Flight": 100.0
+          }
+        ]
+      },
+      "WitchesKnell": {
+        "Item_2_3D72375040D25731D39CB88702B5EDD4": {
+          "ObjectName": "BlueprintGeneratedClass'WitchesKnell_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Herbs_And_Roots/WitchesKnell.0"
+        },
+        "CooledEffect_14_835296DD4512D855EE97989F1ADAAB75": [
+          {
+            "Attract Undead": 60.0
+          }
+        ],
+        "HeatedEffect_15_BEC9A708422B684129F1E4B5C222E772": [
+          {
+            "Poison": 35.0
+          }
+        ],
+        "ChoppedEffect_16_721175154B5818AF3DF4C895D49408CE": [
+          {
+            "Bless Ground": 60.0
+          }
+        ],
+        "GroundEffect_18_386BBC8443AA5552BC4F888FF510DCAA": [
+          {
+            "Relaxed": 120.0
+          }
+        ]
+      },
+      "Reeds": {
+        "Item_2_3D72375040D25731D39CB88702B5EDD4": {
+          "ObjectName": "BlueprintGeneratedClass'CommonReed_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Herbs_And_Roots/CommonReed.0"
+        },
+        "CooledEffect_14_835296DD4512D855EE97989F1ADAAB75": [
+          {
+            "Enhance Swimming": 60.0
+          }
+        ],
+        "HeatedEffect_15_BEC9A708422B684129F1E4B5C222E772": [
+          {
+            "Enhance Fishing": 200.0
+          }
+        ],
+        "ChoppedEffect_16_721175154B5818AF3DF4C895D49408CE": [
+          {
+            "Restore Health": 20.0
+          }
+        ],
+        "GroundEffect_18_386BBC8443AA5552BC4F888FF510DCAA": [
+          {
+            "Restore Health": 15.0
+          }
+        ]
+      },
+      "BranchBlossom": {
+        "Item_2_3D72375040D25731D39CB88702B5EDD4": {
+          "ObjectName": "BlueprintGeneratedClass'BranchBlossom_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Herbs_And_Roots/BranchBlossom.0"
+        },
+        "CooledEffect_14_835296DD4512D855EE97989F1ADAAB75": [
+          {
+            "Woodcutting EXP Boost": 120.0
+          }
+        ],
+        "HeatedEffect_15_BEC9A708422B684129F1E4B5C222E772": [
+          {
+            "Druidsight": 120.0
+          }
+        ],
+        "ChoppedEffect_16_721175154B5818AF3DF4C895D49408CE": [
+          {
+            "Reduce Fall Damage": 120.0
+          }
+        ],
+        "GroundEffect_18_386BBC8443AA5552BC4F888FF510DCAA": [
+          {
+            "Bugsight": 60.0
+          }
+        ]
+      },
+      "LumberConopulus": {
+        "Item_2_3D72375040D25731D39CB88702B5EDD4": {
+          "ObjectName": "BlueprintGeneratedClass'LumberConopilus_Mushroom_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Mushrooms/LumberConopilus_Mushroom.0"
+        },
+        "CooledEffect_14_835296DD4512D855EE97989F1ADAAB75": [
+          {
+            "Woodcutting EXP Boost": 600.0
+          }
+        ],
+        "HeatedEffect_15_BEC9A708422B684129F1E4B5C222E772": [
+          {
+            "Druidsight": 30.0
+          }
+        ],
+        "ChoppedEffect_16_721175154B5818AF3DF4C895D49408CE": [
+          {
+            "Foraging EXP Boost": 60.0
+          }
+        ],
+        "GroundEffect_18_386BBC8443AA5552BC4F888FF510DCAA": [
+          {
+            "Restore Mana": 50.0
+          }
+        ]
+      },
+      "RoseDaisy": {
+        "Item_2_3D72375040D25731D39CB88702B5EDD4": {
+          "ObjectName": "BlueprintGeneratedClass'RoseDaisey_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Herbs_And_Roots/RoseDaisey.0"
+        },
+        "CooledEffect_14_835296DD4512D855EE97989F1ADAAB75": [
+          {
+            "Restore Health": 25.0
+          }
+        ],
+        "HeatedEffect_15_BEC9A708422B684129F1E4B5C222E772": [
+          {
+            "Restore Stamina": 50.0
+          }
+        ],
+        "ChoppedEffect_16_721175154B5818AF3DF4C895D49408CE": [
+          {
+            "Restore Mana": 15.0
+          }
+        ],
+        "GroundEffect_18_386BBC8443AA5552BC4F888FF510DCAA": [
+          {
+            "Druidsight": 10.0
+          }
+        ]
+      },
+      "SkullcapMushroom": {
+        "Item_2_3D72375040D25731D39CB88702B5EDD4": {
+          "ObjectName": "BlueprintGeneratedClass'Skullcap_Mushroom_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Mushrooms/Skullcap_Mushroom.0"
+        },
+        "CooledEffect_14_835296DD4512D855EE97989F1ADAAB75": [
+          {
+            "Poison": 35.0
+          }
+        ],
+        "HeatedEffect_15_BEC9A708422B684129F1E4B5C222E772": [
+          {
+            "Poison": 25.0
+          }
+        ],
+        "ChoppedEffect_16_721175154B5818AF3DF4C895D49408CE": [
+          {
+            "Poison": 15.0
+          }
+        ],
+        "GroundEffect_18_386BBC8443AA5552BC4F888FF510DCAA": [
+          {
+            "Attract Undead": 60.0
+          }
+        ]
+      },
+      "GoblinMold": {
+        "Item_2_3D72375040D25731D39CB88702B5EDD4": {
+          "ObjectName": "BlueprintGeneratedClass'GoblinMold_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Mushrooms/GoblinMold.0"
+        },
+        "CooledEffect_14_835296DD4512D855EE97989F1ADAAB75": [
+          {
+            "Poison": 10.0
+          }
+        ],
+        "HeatedEffect_15_BEC9A708422B684129F1E4B5C222E772": [
+          {
+            "Attract Goblins": 60.0
+          }
+        ],
+        "ChoppedEffect_16_721175154B5818AF3DF4C895D49408CE": [
+          {
+            "Poison": 10.0
+          }
+        ],
+        "GroundEffect_18_386BBC8443AA5552BC4F888FF510DCAA": [
+          {
+            "Restore Stamina": 25.0
+          }
+        ]
+      },
+      "ShrinkShroom": {
+        "Item_2_3D72375040D25731D39CB88702B5EDD4": {
+          "ObjectName": "BlueprintGeneratedClass'ShrinkShroom_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Mushrooms/ShrinkShroom.0"
+        },
+        "CooledEffect_14_835296DD4512D855EE97989F1ADAAB75": [
+          {
+            "Restore Mana": 50.0
+          }
+        ],
+        "HeatedEffect_15_BEC9A708422B684129F1E4B5C222E772": [
+          {
+            "Shrink": 60.0
+          }
+        ],
+        "ChoppedEffect_16_721175154B5818AF3DF4C895D49408CE": [
+          {
+            "Boost Mana Regeneration": 120.0
+          }
+        ],
+        "GroundEffect_18_386BBC8443AA5552BC4F888FF510DCAA": [
+          {
+            "Restore Health": 25.0
+          }
+        ]
+      },
+      "GrowGloom": {
+        "Item_2_3D72375040D25731D39CB88702B5EDD4": {
+          "ObjectName": "BlueprintGeneratedClass'GrowGloom_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Mushrooms/GrowGloom.0"
+        },
+        "CooledEffect_14_835296DD4512D855EE97989F1ADAAB75": [
+          {
+            "Restore Health": 50.0
+          }
+        ],
+        "HeatedEffect_15_BEC9A708422B684129F1E4B5C222E772": [
+          {
+            "Grow": 60.0
+          }
+        ],
+        "ChoppedEffect_16_721175154B5818AF3DF4C895D49408CE": [
+          {
+            "Improve Jump": 25.0
+          }
+        ],
+        "GroundEffect_18_386BBC8443AA5552BC4F888FF510DCAA": [
+          {
+            "Reduce Fall Damage": 25.0
+          }
+        ]
+      },
+      "Mouseshroom": {
+        "Item_2_3D72375040D25731D39CB88702B5EDD4": {
+          "ObjectName": "BlueprintGeneratedClass'Mouseshroom_Mushroom_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Mushrooms/Mouseshroom_Mushroom.0"
+        },
+        "CooledEffect_14_835296DD4512D855EE97989F1ADAAB75": [
+          {
+            "Restore Stamina": 25.0
+          }
+        ],
+        "HeatedEffect_15_BEC9A708422B684129F1E4B5C222E772": [
+          {
+            "Mouse Form": 30.0
+          }
+        ],
+        "ChoppedEffect_16_721175154B5818AF3DF4C895D49408CE": [
+          {
+            "Restore Health": 50.0
+          }
+        ],
+        "GroundEffect_18_386BBC8443AA5552BC4F888FF510DCAA": [
+          {
+            "Restore Mana": 20.0
+          }
+        ]
+      }
+    }
+  }
+]

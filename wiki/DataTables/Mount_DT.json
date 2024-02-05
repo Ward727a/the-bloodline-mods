@@ -1,0 +1,253 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "MountDataTable",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "UserDefinedStruct'MountInfo'",
+        "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/UI/Inventory/MountInfo.0"
+      }
+    },
+    "Rows": {
+      "GrayHorse": {
+        "Name_2_53B46D98467BA7B883A0E89D603A0B4D": {
+          "Namespace": "",
+          "Key": "AF21C58348C22D9D692466AA6F0C6792",
+          "SourceString": "Gray Horse",
+          "LocalizedString": "Gray Horse"
+        },
+        "Health_5_E3CE69FD48602B9B7E798F8882A5F2C0": 4500,
+        "Stamina_7_C1D9CBEA44F733DCD43CC8BDA1E8FE0B": 1350,
+        "Damage_20_926C8E2749C67DF4FF32448FBBDF86D2": 0,
+        "Description_15_A80453C54B5F4C451EDD0F8257C9B404": {
+          "Namespace": "",
+          "Key": "1B1313154EF57539FE80F7BCA5FDB4BD",
+          "SourceString": "A common gray horse. While it doesn't have any special abilities, it makes up for it with pure speed.",
+          "LocalizedString": "A common gray horse. While it doesn't have any special abilities, it makes up for it with pure speed."
+        },
+        "SpecialTraits_12_CF15F9654F79BFFDE3340090E80CB80B": [
+          {
+            "Namespace": "",
+            "Key": "B2235B71405BC33D93E082B6679FA1C0",
+            "SourceString": "- High speed",
+            "LocalizedString": "- High speed"
+          }
+        ],
+        "Rarity_18_BDBD52C143B103D395D53F9F3B723198": 1
+      },
+      "Rotboar": {
+        "Name_2_53B46D98467BA7B883A0E89D603A0B4D": {
+          "Namespace": "",
+          "Key": "14B0989D4F5DAF2F890A57B212FDE8D3",
+          "SourceString": "Rotboar",
+          "LocalizedString": "Rotboar"
+        },
+        "Health_5_E3CE69FD48602B9B7E798F8882A5F2C0": 7500,
+        "Stamina_7_C1D9CBEA44F733DCD43CC8BDA1E8FE0B": 1000,
+        "Damage_20_926C8E2749C67DF4FF32448FBBDF86D2": 100,
+        "Description_15_A80453C54B5F4C451EDD0F8257C9B404": {
+          "Namespace": "",
+          "Key": "9FA2C30942D49DC75298FFBA7C2B24C4",
+          "SourceString": "A tamed Rotboar. Ferocious and strong, this Rotboar can take a beating and deal some damage by ramming into enemies!",
+          "LocalizedString": "A tamed Rotboar. Ferocious and strong, this Rotboar can take a beating and deal some damage by ramming into enemies!"
+        },
+        "SpecialTraits_12_CF15F9654F79BFFDE3340090E80CB80B": [
+          {
+            "Namespace": "",
+            "Key": "0D2995044AAD6A355A7724A7C68A7A0C",
+            "SourceString": "- High health",
+            "LocalizedString": "- High health"
+          },
+          {
+            "Namespace": "",
+            "Key": "F13CADA74FE9FAE605DB6E984E0C0B0C",
+            "SourceString": "- Strong ram attack",
+            "LocalizedString": "- Strong ram attack"
+          }
+        ],
+        "Rarity_18_BDBD52C143B103D395D53F9F3B723198": 1
+      },
+      "Ogre": {
+        "Name_2_53B46D98467BA7B883A0E89D603A0B4D": {
+          "Namespace": "",
+          "Key": "FA4461784C876A2938351888F63A9D6C",
+          "SourceString": "Ogre",
+          "LocalizedString": "Ogre"
+        },
+        "Health_5_E3CE69FD48602B9B7E798F8882A5F2C0": 15000,
+        "Stamina_7_C1D9CBEA44F733DCD43CC8BDA1E8FE0B": 1000,
+        "Damage_20_926C8E2749C67DF4FF32448FBBDF86D2": 500,
+        "Description_15_A80453C54B5F4C451EDD0F8257C9B404": {
+          "Namespace": "",
+          "Key": "CCE9519240DD3EB9D9F989926EF852EA",
+          "SourceString": "A tamed Ogre equipped with a riding platform on its back. When not mounted, the Ogre will follow and protect its owner.",
+          "LocalizedString": "A tamed Ogre equipped with a riding platform on its back. When not mounted, the Ogre will follow and protect its owner."
+        },
+        "SpecialTraits_12_CF15F9654F79BFFDE3340090E80CB80B": [
+          {
+            "Namespace": "",
+            "Key": "1D83903843F3E735ADF638B73412E27F",
+            "SourceString": "- Can throw enemies",
+            "LocalizedString": "- Can throw enemies"
+          },
+          {
+            "Namespace": "",
+            "Key": "E92533C9436D0A17904B9081432C4A6F",
+            "SourceString": "- Can throw physics objects",
+            "LocalizedString": "- Can throw physics objects"
+          },
+          {
+            "Namespace": "",
+            "Key": "1E45ADD24F2EE5D3A04C8B965DEE528D",
+            "SourceString": "- Extremely high health",
+            "LocalizedString": "- Extremely high health"
+          }
+        ],
+        "Rarity_18_BDBD52C143B103D395D53F9F3B723198": 5
+      },
+      "GrayDonkey": {
+        "Name_2_53B46D98467BA7B883A0E89D603A0B4D": {
+          "Namespace": "",
+          "Key": "258EA48E4DC1B76DC0DB079833D09247",
+          "SourceString": "Gray Donkey",
+          "LocalizedString": "Gray Donkey"
+        },
+        "Health_5_E3CE69FD48602B9B7E798F8882A5F2C0": 2500,
+        "Stamina_7_C1D9CBEA44F733DCD43CC8BDA1E8FE0B": 850,
+        "Damage_20_926C8E2749C67DF4FF32448FBBDF86D2": 0,
+        "Description_15_A80453C54B5F4C451EDD0F8257C9B404": {
+          "Namespace": "",
+          "Key": "1E585198484E90198829E68671BBAC92",
+          "SourceString": "An adorable but slow mount. Has no special abilities.",
+          "LocalizedString": "An adorable but slow mount. Has no special abilities."
+        },
+        "SpecialTraits_12_CF15F9654F79BFFDE3340090E80CB80B": [
+          {
+            "Namespace": "",
+            "Key": "E5813F194D8589B78D708DBB9D114F17",
+            "SourceString": "No special abilities",
+            "LocalizedString": "No special abilities"
+          }
+        ],
+        "Rarity_18_BDBD52C143B103D395D53F9F3B723198": 1
+      },
+      "BarrelMobile": {
+        "Name_2_53B46D98467BA7B883A0E89D603A0B4D": {
+          "Namespace": "",
+          "Key": "2219ECEA491E3686F3275DBF33AC977E",
+          "SourceString": "Barrel-Mobile",
+          "LocalizedString": "Barrel-Mobile"
+        },
+        "Health_5_E3CE69FD48602B9B7E798F8882A5F2C0": 7500,
+        "Stamina_7_C1D9CBEA44F733DCD43CC8BDA1E8FE0B": 1200,
+        "Damage_20_926C8E2749C67DF4FF32448FBBDF86D2": 0,
+        "Description_15_A80453C54B5F4C451EDD0F8257C9B404": {
+          "Namespace": "",
+          "Key": "AB0A45B64B82A605B87279ADE6985BDC",
+          "SourceString": "A crude but reliable self-propelled barrel car. Doesn't have any special abilities, but can go decently fast.",
+          "LocalizedString": "A crude but reliable self-propelled barrel car. Doesn't have any special abilities, but can go decently fast."
+        },
+        "SpecialTraits_12_CF15F9654F79BFFDE3340090E80CB80B": [],
+        "Rarity_18_BDBD52C143B103D395D53F9F3B723198": 2
+      },
+      "BrownHorse": {
+        "Name_2_53B46D98467BA7B883A0E89D603A0B4D": {
+          "Namespace": "",
+          "Key": "5B17ECA744170F02C124359CFECDC0AD",
+          "SourceString": "Brown Horse",
+          "LocalizedString": "Brown Horse"
+        },
+        "Health_5_E3CE69FD48602B9B7E798F8882A5F2C0": 4500,
+        "Stamina_7_C1D9CBEA44F733DCD43CC8BDA1E8FE0B": 1350,
+        "Damage_20_926C8E2749C67DF4FF32448FBBDF86D2": 0,
+        "Description_15_A80453C54B5F4C451EDD0F8257C9B404": {
+          "Namespace": "",
+          "Key": "AEFB6ADC4C445A0A06DAEAABF5519CEE",
+          "SourceString": "A common brown horse. While it doesn't have any special abilities, it makes up for it with pure speed.",
+          "LocalizedString": "A common brown horse. While it doesn't have any special abilities, it makes up for it with pure speed."
+        },
+        "SpecialTraits_12_CF15F9654F79BFFDE3340090E80CB80B": [
+          {
+            "Namespace": "",
+            "Key": "E0599164426C7A8C8D05E2939A912446",
+            "SourceString": "- High Speed",
+            "LocalizedString": "- High Speed"
+          }
+        ],
+        "Rarity_18_BDBD52C143B103D395D53F9F3B723198": 1
+      },
+      "LameSpottedHorse": {
+        "Name_2_53B46D98467BA7B883A0E89D603A0B4D": {
+          "Namespace": "",
+          "Key": "E7ECB4E34737ADE36D29D0B9EA44BC94",
+          "SourceString": "Lame Spotted Horse",
+          "LocalizedString": "Lame Spotted Horse"
+        },
+        "Health_5_E3CE69FD48602B9B7E798F8882A5F2C0": 3000,
+        "Stamina_7_C1D9CBEA44F733DCD43CC8BDA1E8FE0B": 1000,
+        "Damage_20_926C8E2749C67DF4FF32448FBBDF86D2": 0,
+        "Description_15_A80453C54B5F4C451EDD0F8257C9B404": {
+          "Namespace": "",
+          "Key": "BE5CB1D041771F9A8810B88734A7EEF2",
+          "SourceString": "A spotted horse with a slightly strange gait. Sold at a cheaper price due to this abnomality.",
+          "LocalizedString": "A spotted horse with a slightly strange gait. Sold at a cheaper price due to this abnomality."
+        },
+        "SpecialTraits_12_CF15F9654F79BFFDE3340090E80CB80B": [],
+        "Rarity_18_BDBD52C143B103D395D53F9F3B723198": 1
+      },
+      "TuskedRotboar": {
+        "Name_2_53B46D98467BA7B883A0E89D603A0B4D": {
+          "Namespace": "",
+          "Key": "495FA383429F8EB73AAA1F8BDBEA5AD0",
+          "SourceString": "Tusked Rotboar",
+          "LocalizedString": "Tusked Rotboar"
+        },
+        "Health_5_E3CE69FD48602B9B7E798F8882A5F2C0": 1350,
+        "Stamina_7_C1D9CBEA44F733DCD43CC8BDA1E8FE0B": 0,
+        "Damage_20_926C8E2749C67DF4FF32448FBBDF86D2": 200,
+        "Description_15_A80453C54B5F4C451EDD0F8257C9B404": {
+          "Namespace": "",
+          "Key": "FD60081C427ED31885E843B80AE5F0A8",
+          "SourceString": "These bigger Rotboars are a bit slower than other Rotboars, but make up for it with their special ram attack, thanks to their massive tusks!",
+          "LocalizedString": "These bigger Rotboars are a bit slower than other Rotboars, but make up for it with their special ram attack, thanks to their massive tusks!"
+        },
+        "SpecialTraits_12_CF15F9654F79BFFDE3340090E80CB80B": [
+          {
+            "Namespace": "",
+            "Key": "13FEE0C0405576A9C521399504B30FF3",
+            "SourceString": "- Ram attack",
+            "LocalizedString": "- Ram attack"
+          }
+        ],
+        "Rarity_18_BDBD52C143B103D395D53F9F3B723198": 2
+      },
+      "SmallRotboar": {
+        "Name_2_53B46D98467BA7B883A0E89D603A0B4D": {
+          "Namespace": "",
+          "Key": "EE95C604494BE4C52627F2AE00A73C21",
+          "SourceString": "Small Rotboar",
+          "LocalizedString": "Small Rotboar"
+        },
+        "Health_5_E3CE69FD48602B9B7E798F8882A5F2C0": 1650,
+        "Stamina_7_C1D9CBEA44F733DCD43CC8BDA1E8FE0B": 1000,
+        "Damage_20_926C8E2749C67DF4FF32448FBBDF86D2": 0,
+        "Description_15_A80453C54B5F4C451EDD0F8257C9B404": {
+          "Namespace": "",
+          "Key": "945570484846CA3B47ECBC8155F24DE7",
+          "SourceString": "A small-but-fast Rotboar!",
+          "LocalizedString": "A small-but-fast Rotboar!"
+        },
+        "SpecialTraits_12_CF15F9654F79BFFDE3340090E80CB80B": [
+          {
+            "Namespace": "",
+            "Key": "BAD9C31F451E969C5229BD84077C5BF3",
+            "SourceString": "- High speed",
+            "LocalizedString": "- High speed"
+          }
+        ],
+        "Rarity_18_BDBD52C143B103D395D53F9F3B723198": 1
+      }
+    }
+  }
+]

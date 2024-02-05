@@ -1,0 +1,135 @@
+[
+    {
+      "Type": "DataTable",
+      "Name": "SeedDataTable",
+      "Class": "UScriptClass'DataTable'",
+      "Properties": {
+        "RowStruct": {
+          "ObjectName": "UserDefinedStruct'SeedInfo'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/SeedInfo.0"
+        }
+      },
+      "Rows": {
+        "Candyberry": {
+          "Item_2_87505C914CF7AA9DC4A410A04053A24E": {
+            "ObjectName": "BlueprintGeneratedClass'CandyBerry_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Berries/CandyBerry.0"
+          },
+          "ItemName_5_4F95D8A94B79C63A43F77D8A91B59E02": {
+            "Namespace": "",
+            "Key": "FC3F999C4D70CFA5C3E0B8AF2C461EDE",
+            "SourceString": "Candyberry",
+            "LocalizedString": "Candyberry"
+          },
+          "GrowDurationDays_9_B0637F6E4E082037CBC212AEADD379AB": 1,
+          "SaplingMesh_16_FB1E479942AE53238FB7FDB662F5FD1A": {
+            "ObjectName": "StaticMesh'SM_Plant_01'",
+            "ObjectPath": "TheBloodline/Content/PolygonNature/Meshes/Plants/SM_Plant_01.2"
+          },
+          "AlmostDoneGrowingMesh_18_F38894504497A74FAC31CF807536D58D": {
+            "ObjectName": "StaticMesh'SM_Prop_Plant_Wheat_02'",
+            "ObjectPath": "TheBloodline/Content/PolygonFarm/Meshes/Plants/SM_Prop_Plant_Wheat_02.2"
+          },
+          "FarmingLevel_21_C66C1A9C415CF47ED844E7BCA56D381E": 1,
+          "SeedEXP_24_6719674442E1A0B1D703FD8587AA78FB": 5.0,
+          "Yield_27_3A31A47B4D241C5BB49D649C504925AC": 1
+        },
+        "Cinderberry": {
+          "Item_2_87505C914CF7AA9DC4A410A04053A24E": {
+            "ObjectName": "BlueprintGeneratedClass'Cinderberry_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Berries/Cinderberry.0"
+          },
+          "ItemName_5_4F95D8A94B79C63A43F77D8A91B59E02": {
+            "Namespace": "",
+            "Key": "D051D0914247924A3AFF9FAA1528EE59",
+            "SourceString": "Cinderberry",
+            "LocalizedString": "Cinderberry"
+          },
+          "GrowDurationDays_9_B0637F6E4E082037CBC212AEADD379AB": 1,
+          "SaplingMesh_16_FB1E479942AE53238FB7FDB662F5FD1A": {
+            "ObjectName": "StaticMesh'SM_Plant_03'",
+            "ObjectPath": "TheBloodline/Content/PolygonNature/Meshes/Plants/SM_Plant_03.2"
+          },
+          "AlmostDoneGrowingMesh_18_F38894504497A74FAC31CF807536D58D": {
+            "ObjectName": "StaticMesh'SM_Plant_03'",
+            "ObjectPath": "TheBloodline/Content/PolygonNature/Meshes/Plants/SM_Plant_03.2"
+          },
+          "FarmingLevel_21_C66C1A9C415CF47ED844E7BCA56D381E": 1,
+          "SeedEXP_24_6719674442E1A0B1D703FD8587AA78FB": 5.0,
+          "Yield_27_3A31A47B4D241C5BB49D649C504925AC": 1
+        },
+        "WheatSeeds": {
+          "Item_2_87505C914CF7AA9DC4A410A04053A24E": {
+            "ObjectName": "BlueprintGeneratedClass'WheatSeeds_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/WheatSeeds.0"
+          },
+          "ItemName_5_4F95D8A94B79C63A43F77D8A91B59E02": {
+            "Namespace": "",
+            "Key": "2B091BEE4246C410C51A58A264A3DBEB",
+            "SourceString": "Wheat Seeds",
+            "LocalizedString": "Wheat Seeds"
+          },
+          "GrowDurationDays_9_B0637F6E4E082037CBC212AEADD379AB": 3,
+          "SaplingMesh_16_FB1E479942AE53238FB7FDB662F5FD1A": {
+            "ObjectName": "StaticMesh'SM_Plant_01'",
+            "ObjectPath": "TheBloodline/Content/PolygonNature/Meshes/Plants/SM_Plant_01.2"
+          },
+          "AlmostDoneGrowingMesh_18_F38894504497A74FAC31CF807536D58D": {
+            "ObjectName": "StaticMesh'SM_Prop_Plant_Wheat_02'",
+            "ObjectPath": "TheBloodline/Content/PolygonFarm/Meshes/Plants/SM_Prop_Plant_Wheat_02.2"
+          },
+          "FarmingLevel_21_C66C1A9C415CF47ED844E7BCA56D381E": 1,
+          "SeedEXP_24_6719674442E1A0B1D703FD8587AA78FB": 5.0,
+          "Yield_27_3A31A47B4D241C5BB49D649C504925AC": 10
+        },
+        "PotatoSeeds": {
+          "Item_2_87505C914CF7AA9DC4A410A04053A24E": {
+            "ObjectName": "BlueprintGeneratedClass'PotatoSeeds_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/PotatoSeeds.0"
+          },
+          "ItemName_5_4F95D8A94B79C63A43F77D8A91B59E02": {
+            "Namespace": "",
+            "Key": "798E226F466646D1B921C58D2DFAF4B2",
+            "SourceString": "Potato Seeds",
+            "LocalizedString": "Potato Seeds"
+          },
+          "GrowDurationDays_9_B0637F6E4E082037CBC212AEADD379AB": 3,
+          "SaplingMesh_16_FB1E479942AE53238FB7FDB662F5FD1A": {
+            "ObjectName": "StaticMesh'SM_Prop_Plant_Ground_03_M'",
+            "ObjectPath": "TheBloodline/Content/PolygonFarm/Meshes/Plants/SM_Prop_Plant_Ground_03_M.2"
+          },
+          "AlmostDoneGrowingMesh_18_F38894504497A74FAC31CF807536D58D": {
+            "ObjectName": "StaticMesh'SM_Prop_Plant_Bush_03_L'",
+            "ObjectPath": "TheBloodline/Content/PolygonFarm/Meshes/Plants/SM_Prop_Plant_Bush_03_L.2"
+          },
+          "FarmingLevel_21_C66C1A9C415CF47ED844E7BCA56D381E": 1,
+          "SeedEXP_24_6719674442E1A0B1D703FD8587AA78FB": 5.0,
+          "Yield_27_3A31A47B4D241C5BB49D649C504925AC": 5
+        },
+        "CoffeeBeans": {
+          "Item_2_87505C914CF7AA9DC4A410A04053A24E": {
+            "ObjectName": "BlueprintGeneratedClass'Coffee_Beans_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Coffee_Beans.0"
+          },
+          "ItemName_5_4F95D8A94B79C63A43F77D8A91B59E02": {
+            "Namespace": "",
+            "Key": "DBD3BC56402D52131158FBB24A27089D",
+            "SourceString": "Coffee beans",
+            "LocalizedString": "Coffee beans"
+          },
+          "GrowDurationDays_9_B0637F6E4E082037CBC212AEADD379AB": 5,
+          "SaplingMesh_16_FB1E479942AE53238FB7FDB662F5FD1A": {
+            "ObjectName": "StaticMesh'SM_Plant_01'",
+            "ObjectPath": "TheBloodline/Content/PolygonNature/Meshes/Plants/SM_Plant_01.2"
+          },
+          "AlmostDoneGrowingMesh_18_F38894504497A74FAC31CF807536D58D": {
+            "ObjectName": "StaticMesh'SM_Prop_Plant_Bush_01_M'",
+            "ObjectPath": "TheBloodline/Content/PolygonFarm/Meshes/Plants/SM_Prop_Plant_Bush_01_M.2"
+          },
+          "FarmingLevel_21_C66C1A9C415CF47ED844E7BCA56D381E": 1,
+          "SeedEXP_24_6719674442E1A0B1D703FD8587AA78FB": 10.0,
+          "Yield_27_3A31A47B4D241C5BB49D649C504925AC": 5
+        }
+      }
+    }
+  ]

@@ -1,0 +1,165 @@
+[
+    {
+      "Type": "DataTable",
+      "Name": "TheChurchOfArosaRankTable",
+      "Class": "UScriptClass'DataTable'",
+      "Properties": {
+        "RowStruct": {
+          "ObjectName": "UserDefinedStruct'GuildDataTableStruct'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/UI/CharacterSheet/GuildDataTableStruct.0"
+        }
+      },
+      "Rows": {
+        "Priest": {
+          "Guild_2_5BBA0772438092A6358DDB9326D2885B": "Guilds::NewEnumerator4",
+          "RequiredEXP_29_CD65C6B244396D2DF4D837821D6651F3": 250,
+          "Rank_5_EE2F438F4F9E4CC719D52FA559E75684": 1,
+          "RankTitle_18_061D874F403FCDD4559F5C935B23D484": {
+            "Namespace": "",
+            "Key": "C25D542848E89AB0D1AD70B057421A89",
+            "SourceString": "Priest",
+            "LocalizedString": "Priest"
+          },
+          "RewardItems_11_9746A7A8404854431EB4E8975D46C93C": [],
+          "RewardGold_15_E84FF4944A5097719DE374A0BD5D8448": 0,
+          "AvailableQuests_23_4589F4E94E5BA961737A1692BCB8BB80": [],
+          "SkillReward_25_ADE2803A4B6C2AE7BCBBACBEB7CFEFF3": []
+        },
+        "Faithbearer": {
+          "Guild_2_5BBA0772438092A6358DDB9326D2885B": "Guilds::NewEnumerator4",
+          "RequiredEXP_29_CD65C6B244396D2DF4D837821D6651F3": 350,
+          "Rank_5_EE2F438F4F9E4CC719D52FA559E75684": 2,
+          "RankTitle_18_061D874F403FCDD4559F5C935B23D484": {
+            "Namespace": "",
+            "Key": "EC197DC7435165EE14C304B26F5FC2EF",
+            "SourceString": "Faithbearer",
+            "LocalizedString": "Faithbearer"
+          },
+          "RewardItems_11_9746A7A8404854431EB4E8975D46C93C": [],
+          "RewardGold_15_E84FF4944A5097719DE374A0BD5D8448": 150,
+          "AvailableQuests_23_4589F4E94E5BA961737A1692BCB8BB80": [],
+          "SkillReward_25_ADE2803A4B6C2AE7BCBBACBEB7CFEFF3": []
+        },
+        "Seer": {
+          "Guild_2_5BBA0772438092A6358DDB9326D2885B": "Guilds::NewEnumerator4",
+          "RequiredEXP_29_CD65C6B244396D2DF4D837821D6651F3": 500,
+          "Rank_5_EE2F438F4F9E4CC719D52FA559E75684": 3,
+          "RankTitle_18_061D874F403FCDD4559F5C935B23D484": {
+            "Namespace": "",
+            "Key": "BDE9358240C29F55FDBDF3AA6825A7BB",
+            "SourceString": "Seer",
+            "LocalizedString": "Seer"
+          },
+          "RewardItems_11_9746A7A8404854431EB4E8975D46C93C": [],
+          "RewardGold_15_E84FF4944A5097719DE374A0BD5D8448": 250,
+          "AvailableQuests_23_4589F4E94E5BA961737A1692BCB8BB80": [],
+          "SkillReward_25_ADE2803A4B6C2AE7BCBBACBEB7CFEFF3": []
+        },
+        "Acolyte": {
+          "Guild_2_5BBA0772438092A6358DDB9326D2885B": "Guilds::NewEnumerator4",
+          "RequiredEXP_29_CD65C6B244396D2DF4D837821D6651F3": 0,
+          "Rank_5_EE2F438F4F9E4CC719D52FA559E75684": 0,
+          "RankTitle_18_061D874F403FCDD4559F5C935B23D484": {
+            "Namespace": "",
+            "Key": "05BFEAB74C958C7FD74BA2BC18AC9B4B",
+            "SourceString": "Acolyte",
+            "LocalizedString": "Acolyte"
+          },
+          "RewardItems_11_9746A7A8404854431EB4E8975D46C93C": [],
+          "RewardGold_15_E84FF4944A5097719DE374A0BD5D8448": 0,
+          "AvailableQuests_23_4589F4E94E5BA961737A1692BCB8BB80": [],
+          "SkillReward_25_ADE2803A4B6C2AE7BCBBACBEB7CFEFF3": []
+        },
+        "Elder": {
+          "Guild_2_5BBA0772438092A6358DDB9326D2885B": "Guilds::NewEnumerator4",
+          "RequiredEXP_29_CD65C6B244396D2DF4D837821D6651F3": 0,
+          "Rank_5_EE2F438F4F9E4CC719D52FA559E75684": 0,
+          "RankTitle_18_061D874F403FCDD4559F5C935B23D484": {
+            "Namespace": "",
+            "Key": "0084D02244015634CA6FDFB3913944AC",
+            "SourceString": "Elder",
+            "LocalizedString": "Elder"
+          },
+          "RewardItems_11_9746A7A8404854431EB4E8975D46C93C": [],
+          "RewardGold_15_E84FF4944A5097719DE374A0BD5D8448": 0,
+          "AvailableQuests_23_4589F4E94E5BA961737A1692BCB8BB80": [],
+          "SkillReward_25_ADE2803A4B6C2AE7BCBBACBEB7CFEFF3": []
+        },
+        "Disciple": {
+          "Guild_2_5BBA0772438092A6358DDB9326D2885B": "Guilds::NewEnumerator4",
+          "RequiredEXP_29_CD65C6B244396D2DF4D837821D6651F3": 0,
+          "Rank_5_EE2F438F4F9E4CC719D52FA559E75684": 0,
+          "RankTitle_18_061D874F403FCDD4559F5C935B23D484": {
+            "Namespace": "",
+            "Key": "7124310B416792C9D580CFBBCBD68099",
+            "SourceString": "Disciple",
+            "LocalizedString": "Disciple"
+          },
+          "RewardItems_11_9746A7A8404854431EB4E8975D46C93C": [],
+          "RewardGold_15_E84FF4944A5097719DE374A0BD5D8448": 0,
+          "AvailableQuests_23_4589F4E94E5BA961737A1692BCB8BB80": [],
+          "SkillReward_25_ADE2803A4B6C2AE7BCBBACBEB7CFEFF3": []
+        },
+        "Lector": {
+          "Guild_2_5BBA0772438092A6358DDB9326D2885B": "Guilds::NewEnumerator4",
+          "RequiredEXP_29_CD65C6B244396D2DF4D837821D6651F3": 0,
+          "Rank_5_EE2F438F4F9E4CC719D52FA559E75684": 0,
+          "RankTitle_18_061D874F403FCDD4559F5C935B23D484": {
+            "Namespace": "",
+            "Key": "30381663454DE6F1C41FBEA39118116E",
+            "SourceString": "Lector",
+            "LocalizedString": "Lector"
+          },
+          "RewardItems_11_9746A7A8404854431EB4E8975D46C93C": [],
+          "RewardGold_15_E84FF4944A5097719DE374A0BD5D8448": 0,
+          "AvailableQuests_23_4589F4E94E5BA961737A1692BCB8BB80": [],
+          "SkillReward_25_ADE2803A4B6C2AE7BCBBACBEB7CFEFF3": []
+        },
+        "HighPriest": {
+          "Guild_2_5BBA0772438092A6358DDB9326D2885B": "Guilds::NewEnumerator4",
+          "RequiredEXP_29_CD65C6B244396D2DF4D837821D6651F3": 0,
+          "Rank_5_EE2F438F4F9E4CC719D52FA559E75684": 0,
+          "RankTitle_18_061D874F403FCDD4559F5C935B23D484": {
+            "Namespace": "",
+            "Key": "35B289CA4DAECA68CA45A193002A81B6",
+            "SourceString": "High Priest",
+            "LocalizedString": "High Priest"
+          },
+          "RewardItems_11_9746A7A8404854431EB4E8975D46C93C": [],
+          "RewardGold_15_E84FF4944A5097719DE374A0BD5D8448": 0,
+          "AvailableQuests_23_4589F4E94E5BA961737A1692BCB8BB80": [],
+          "SkillReward_25_ADE2803A4B6C2AE7BCBBACBEB7CFEFF3": []
+        },
+        "GrandVicar": {
+          "Guild_2_5BBA0772438092A6358DDB9326D2885B": "Guilds::NewEnumerator4",
+          "RequiredEXP_29_CD65C6B244396D2DF4D837821D6651F3": 0,
+          "Rank_5_EE2F438F4F9E4CC719D52FA559E75684": 0,
+          "RankTitle_18_061D874F403FCDD4559F5C935B23D484": {
+            "Namespace": "",
+            "Key": "7571C754460B105A8A8599BB2E6D21B7",
+            "SourceString": "Grand Vicar",
+            "LocalizedString": "Grand Vicar"
+          },
+          "RewardItems_11_9746A7A8404854431EB4E8975D46C93C": [],
+          "RewardGold_15_E84FF4944A5097719DE374A0BD5D8448": 0,
+          "AvailableQuests_23_4589F4E94E5BA961737A1692BCB8BB80": [],
+          "SkillReward_25_ADE2803A4B6C2AE7BCBBACBEB7CFEFF3": []
+        },
+        "Bishop": {
+          "Guild_2_5BBA0772438092A6358DDB9326D2885B": "Guilds::NewEnumerator4",
+          "RequiredEXP_29_CD65C6B244396D2DF4D837821D6651F3": 0,
+          "Rank_5_EE2F438F4F9E4CC719D52FA559E75684": 0,
+          "RankTitle_18_061D874F403FCDD4559F5C935B23D484": {
+            "Namespace": "",
+            "Key": "884814454C0DA28270B28790223112D4",
+            "SourceString": "Bishop",
+            "LocalizedString": "Bishop"
+          },
+          "RewardItems_11_9746A7A8404854431EB4E8975D46C93C": [],
+          "RewardGold_15_E84FF4944A5097719DE374A0BD5D8448": 0,
+          "AvailableQuests_23_4589F4E94E5BA961737A1692BCB8BB80": [],
+          "SkillReward_25_ADE2803A4B6C2AE7BCBBACBEB7CFEFF3": []
+        }
+      }
+    }
+  ]

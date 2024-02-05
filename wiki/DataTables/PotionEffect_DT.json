@@ -1,0 +1,107 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "PotionEffectTranslatorTable",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "UserDefinedStruct'PotionEffectTranslationTable'",
+        "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/UI/Inventory/PotionEffectTranslationTable.0"
+      }
+    },
+    "Rows": {
+      "RestoreHealth": {
+        "EffectName_2_F2BEB92D483ACAA22EFAE0A0A0E2CA11": "Restore Health",
+        "EffectInt_5_906D6B774C7942E49A1C40B04759F6DD": 1
+      },
+      "RestoreMana": {
+        "EffectName_2_F2BEB92D483ACAA22EFAE0A0A0E2CA11": "Restore Mana",
+        "EffectInt_5_906D6B774C7942E49A1C40B04759F6DD": 2
+      },
+      "ImproveJump": {
+        "EffectName_2_F2BEB92D483ACAA22EFAE0A0A0E2CA11": "Improve Jump",
+        "EffectInt_5_906D6B774C7942E49A1C40B04759F6DD": 3
+      },
+      "Quickness": {
+        "EffectName_2_F2BEB92D483ACAA22EFAE0A0A0E2CA11": "Quickness",
+        "EffectInt_5_906D6B774C7942E49A1C40B04759F6DD": 4
+      },
+      "RestoreStamina": {
+        "EffectName_2_F2BEB92D483ACAA22EFAE0A0A0E2CA11": "Restore Stamina",
+        "EffectInt_5_906D6B774C7942E49A1C40B04759F6DD": 5
+      },
+      "BoostStaminaRegeneration": {
+        "EffectName_2_F2BEB92D483ACAA22EFAE0A0A0E2CA11": "Boost Stamina Regeneration",
+        "EffectInt_5_906D6B774C7942E49A1C40B04759F6DD": 6
+      },
+      "BoostHealthRegeneration": {
+        "EffectName_2_F2BEB92D483ACAA22EFAE0A0A0E2CA11": "Boost Health Regeneration",
+        "EffectInt_5_906D6B774C7942E49A1C40B04759F6DD": 7
+      },
+      "BoostManaRegeneration": {
+        "EffectName_2_F2BEB92D483ACAA22EFAE0A0A0E2CA11": "Boost Mana Regeneration",
+        "EffectInt_5_906D6B774C7942E49A1C40B04759F6DD": 8
+      },
+      "Drunk": {
+        "EffectName_2_F2BEB92D483ACAA22EFAE0A0A0E2CA11": "Drunk",
+        "EffectInt_5_906D6B774C7942E49A1C40B04759F6DD": 9
+      },
+      "Relaxed": {
+        "EffectName_2_F2BEB92D483ACAA22EFAE0A0A0E2CA11": "Relaxed",
+        "EffectInt_5_906D6B774C7942E49A1C40B04759F6DD": 10
+      },
+      "AttractUndead": {
+        "EffectName_2_F2BEB92D483ACAA22EFAE0A0A0E2CA11": "Attract Undead",
+        "EffectInt_5_906D6B774C7942E49A1C40B04759F6DD": 11
+      },
+      "Poison": {
+        "EffectName_2_F2BEB92D483ACAA22EFAE0A0A0E2CA11": "Poison",
+        "EffectInt_5_906D6B774C7942E49A1C40B04759F6DD": 12
+      },
+      "EnhanceSwimming": {
+        "EffectName_2_F2BEB92D483ACAA22EFAE0A0A0E2CA11": "Enhance Swimming",
+        "EffectInt_5_906D6B774C7942E49A1C40B04759F6DD": 13
+      },
+      "EnhanceFishing": {
+        "EffectName_2_F2BEB92D483ACAA22EFAE0A0A0E2CA11": "Enhance Fishing",
+        "EffectInt_5_906D6B774C7942E49A1C40B04759F6DD": 14
+      },
+      "WoodcuttingEXPBoost": {
+        "EffectName_2_F2BEB92D483ACAA22EFAE0A0A0E2CA11": "Woodcutting EXP Boost",
+        "EffectInt_5_906D6B774C7942E49A1C40B04759F6DD": 15
+      },
+      "ReduceFallDamage": {
+        "EffectName_2_F2BEB92D483ACAA22EFAE0A0A0E2CA11": "Reduce Fall Damage",
+        "EffectInt_5_906D6B774C7942E49A1C40B04759F6DD": 16
+      },
+      "Flight": {
+        "EffectName_2_F2BEB92D483ACAA22EFAE0A0A0E2CA11": "Flight",
+        "EffectInt_5_906D6B774C7942E49A1C40B04759F6DD": 17
+      },
+      "Grow": {
+        "EffectName_2_F2BEB92D483ACAA22EFAE0A0A0E2CA11": "Grow",
+        "EffectInt_5_906D6B774C7942E49A1C40B04759F6DD": 18
+      },
+      "Shrink": {
+        "EffectName_2_F2BEB92D483ACAA22EFAE0A0A0E2CA11": "Shrink",
+        "EffectInt_5_906D6B774C7942E49A1C40B04759F6DD": 19
+      },
+      "AttractGoblins": {
+        "EffectName_2_F2BEB92D483ACAA22EFAE0A0A0E2CA11": "Attract Goblins",
+        "EffectInt_5_906D6B774C7942E49A1C40B04759F6DD": 20
+      },
+      "Bugsight": {
+        "EffectName_2_F2BEB92D483ACAA22EFAE0A0A0E2CA11": "Bugsight",
+        "EffectInt_5_906D6B774C7942E49A1C40B04759F6DD": 21
+      },
+      "Druidsight": {
+        "EffectName_2_F2BEB92D483ACAA22EFAE0A0A0E2CA11": "Druidsight",
+        "EffectInt_5_906D6B774C7942E49A1C40B04759F6DD": 22
+      },
+      "MouseForm": {
+        "EffectName_2_F2BEB92D483ACAA22EFAE0A0A0E2CA11": "Mouse Form",
+        "EffectInt_5_906D6B774C7942E49A1C40B04759F6DD": 23
+      }
+    }
+  }
+]

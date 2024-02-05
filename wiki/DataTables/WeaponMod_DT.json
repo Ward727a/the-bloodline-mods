@@ -1,0 +1,46 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ModWeaponTable",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "UserDefinedStruct'ModWeaponInfo'",
+        "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Weapons/1HandedWeapons/ModWeaponInfo.0"
+      }
+    },
+    "Rows": {
+      "NewRow": {
+        "AttackType_2_360251AD456F86ED4CB4C28930B0D469": "E_AttackType::NewEnumerator0",
+        "Damage_5_8CE0059B4DA92B261A55C0B68DA94D60": 0.0,
+        "Range_7_251D773446A6AE921563308EB26D10D3": 0.0,
+        "AttackSpeed_9_B7ED081F49561B1172CA1D981803B85C": 0.0,
+        "PrimarySlot_12_D4FB53D94CEEE28A7A9FA89E15297133": "None",
+        "SecondarySlot_14_3A02F1A64954000C8615CD89C9CB773A": "None",
+        "HeavySlot_16_02745ED84635034CF2543088EA5C2A99": "None",
+        "SupportSlot_18_D6FB7FEE43BCB6B9CFD1BAB72DD9371A": "None",
+        "AttackSFX_22_3241D64648D3733A450077B331747186": null,
+        "MagazineSize_26_D8B1A7434C7FAEDAADBEC798643E58D5": 0,
+        "CurrentMagSize_28_1CFF241C41000C13917E17A9B566E36B": 0,
+        "DamageType_31_6054D41A45129602B55520BEB248C9D8": "E_DamageType::NewEnumerator0",
+        "ItemType_34_90C008B444CF8D6A96F0A1A460AC7978": "E_ItemType::NewEnumerator0",
+        "ItemName_37_E2D7B3A54653F045E0C998A007FE4FF6": {
+          "CultureInvariantString": null
+        },
+        "ItemImage_40_04064FF44A94EEE29F0B1EAD141AEE44": null,
+        "EquipSlot_43_79EDDD1040AE1918E296948DC4F2AF2F": "E_SlotType::NewEnumerator0",
+        "Value_46_43B8B55746AC7D2F76BB2FA200815DF2": 0,
+        "Description_49_C15D12744E4F39FAA34CA9B41BD76728": {
+          "CultureInvariantString": null
+        },
+        "SpecificItemType_52_21F4845D4084283D7D777A9D87A795AE": "E_SpecificItemType::NewEnumerator0",
+        "InventoryClickSound_55_58EE8FB34752869E7B00068868811FAD": null,
+        "Speed_58_E04FD5FA4A62290E2E73498A3DEC79FF": "AttackSpeeds::NewEnumerator5",
+        "ArmorType_63_42E4042C4284212B481A36A2A19D83D1": "ArmorTypes::NewEnumerator5",
+        "WeaponType_66_97DA8446474AC2EBDDEFC9988CF80F9E": "E_AttackType::NewEnumerator0",
+        "OBJFileName_74_7CB6FA2F49BA24DBAC48079DCF69C5BE": "",
+        "WAVFileName_76_85939BE24261C9A5537FF6915A171C39": ""
+      }
+    }
+  }
+]

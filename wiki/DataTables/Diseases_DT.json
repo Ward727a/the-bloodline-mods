@@ -1,0 +1,72 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DiseaseDataTable",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "UserDefinedStruct'DiseaseDataTableStruct'",
+        "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/UI/CharacterSheet/DiseaseDataTableStruct.0"
+      }
+    },
+    "Rows": {
+      "ShakyThroat": {
+        "DiseaseID_2_B8B45865411DBF5CEB70DC9988FEF31D": "ShakyThroat",
+        "DiseaseType_18_A0567D7C4DDAE49A87A9CCA04B71632E": "Diseases::NewEnumerator0",
+        "DisplayName_5_F2556CFB4814A7822F84D1A739426BF3": {
+          "Namespace": "",
+          "Key": "49288A8042521C86B1F9808A3789E092",
+          "SourceString": "Shaky Throat",
+          "LocalizedString": "Shaky Throat"
+        },
+        "DiseaseDescription_15_1255DAC54FF1FDBF157681AC19E3C4EB": {
+          "Namespace": "",
+          "Key": "F71B6DB94BB9E9A2D8B154B8E6844DB1",
+          "SourceString": "Extremely painful coughs. Can cause death if not treated.",
+          "LocalizedString": "Extremely painful coughs. Can cause death if not treated."
+        },
+        "CureItem_8_32D15E094A32D929550934BB14B54B22": {
+          "ObjectName": "BlueprintGeneratedClass'MajesticMilfoil_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Herbs_And_Roots/MajesticMilfoil.0"
+        },
+        "DiseaseDurationDays_12_5B0B8DC143CDAC2F24367BB89B0AD5C5": 1
+      },
+      "Ogrestench": {
+        "DiseaseID_2_B8B45865411DBF5CEB70DC9988FEF31D": "Ogrestench",
+        "DiseaseType_18_A0567D7C4DDAE49A87A9CCA04B71632E": "Diseases::NewEnumerator11",
+        "DisplayName_5_F2556CFB4814A7822F84D1A739426BF3": {
+          "Namespace": "",
+          "Key": "E8845E9F4B72A0B37D82C89814A6DA87",
+          "SourceString": "Ogrestench",
+          "LocalizedString": "Ogrestench"
+        },
+        "DiseaseDescription_15_1255DAC54FF1FDBF157681AC19E3C4EB": {
+          "Namespace": "",
+          "Key": "33771CEA41B7CCC6A3A4E7A172991881",
+          "SourceString": "Near constant gas. Dramatically lowers your speechcraft!",
+          "LocalizedString": "Near constant gas. Dramatically lowers your speechcraft!"
+        },
+        "CureItem_8_32D15E094A32D929550934BB14B54B22": null,
+        "DiseaseDurationDays_12_5B0B8DC143CDAC2F24367BB89B0AD5C5": 2
+      },
+      "Vampirism": {
+        "DiseaseID_2_B8B45865411DBF5CEB70DC9988FEF31D": "Vampirism",
+        "DiseaseType_18_A0567D7C4DDAE49A87A9CCA04B71632E": "Diseases::NewEnumerator7",
+        "DisplayName_5_F2556CFB4814A7822F84D1A739426BF3": {
+          "Namespace": "",
+          "Key": "3C60B41F456FB56599A124A40932AA2F",
+          "SourceString": "Vampirism",
+          "LocalizedString": "Vampirism"
+        },
+        "DiseaseDescription_15_1255DAC54FF1FDBF157681AC19E3C4EB": {
+          "Namespace": "",
+          "Key": "4DBB4279466B0DE9A5AAD28FC483383F",
+          "SourceString": "A magical disease that lasts a single week. If the disease goes untreated for the entire week, you will become a Vampire.",
+          "LocalizedString": "A magical disease that lasts a single week. If the disease goes untreated for the entire week, you will become a Vampire."
+        },
+        "CureItem_8_32D15E094A32D929550934BB14B54B22": null,
+        "DiseaseDurationDays_12_5B0B8DC143CDAC2F24367BB89B0AD5C5": 7
+      }
+    }
+  }
+]

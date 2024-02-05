@@ -1,0 +1,859 @@
+[
+    {
+      "Type": "DataTable",
+      "Name": "AllFoodRecipes",
+      "Class": "UScriptClass'DataTable'",
+      "Properties": {
+        "RowStruct": {
+          "ObjectName": "UserDefinedStruct'FoodRecipes'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/UI/FoodRecipes.0"
+        }
+      },
+      "Rows": {
+        "ChickenLeg": {
+          "RecipeName_2_65E36A93454B299006408E969B069314": "Chicken Leg",
+          "RequiredItems_6_B30C6C5C4380C77141BD40A4E8794332": [
+            {
+              "ObjectName": "BlueprintGeneratedClass'ChickenMeat_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/ChickenMeat.0"
+            }
+          ],
+          "CompletedMeal_9_8889B1BF40DC4BF0326193ABD58AC1E4": {
+            "ObjectName": "BlueprintGeneratedClass'CookedChickenLeg_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/CookedChickenLeg.0"
+          },
+          "EXPReward_12_C4D7BF7F454D1ED70CB7B3B0F4E08CA2": 5
+        },
+        "CookedMinitrout": {
+          "RecipeName_2_65E36A93454B299006408E969B069314": "Cooked Minitrout",
+          "RequiredItems_6_B30C6C5C4380C77141BD40A4E8794332": [
+            {
+              "ObjectName": "BlueprintGeneratedClass'GreyMinitrout_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GreyMinitrout.0"
+            }
+          ],
+          "CompletedMeal_9_8889B1BF40DC4BF0326193ABD58AC1E4": {
+            "ObjectName": "BlueprintGeneratedClass'CookedMinitrout_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/CookedMinitrout.0"
+          },
+          "EXPReward_12_C4D7BF7F454D1ED70CB7B3B0F4E08CA2": 5
+        },
+        "Molasses": {
+          "RecipeName_2_65E36A93454B299006408E969B069314": "Molasses",
+          "RequiredItems_6_B30C6C5C4380C77141BD40A4E8794332": [
+            {
+              "ObjectName": "BlueprintGeneratedClass'Sugar_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Sugar.0"
+            },
+            {
+              "ObjectName": "BlueprintGeneratedClass'Sugar_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Sugar.0"
+            }
+          ],
+          "CompletedMeal_9_8889B1BF40DC4BF0326193ABD58AC1E4": {
+            "ObjectName": "BlueprintGeneratedClass'Molasses_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Molasses.0"
+          },
+          "EXPReward_12_C4D7BF7F454D1ED70CB7B3B0F4E08CA2": 5
+        },
+        "SaltedMinitrout": {
+          "RecipeName_2_65E36A93454B299006408E969B069314": "Salted Minitrout",
+          "RequiredItems_6_B30C6C5C4380C77141BD40A4E8794332": [
+            {
+              "ObjectName": "BlueprintGeneratedClass'Salt_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Salt.0"
+            },
+            {
+              "ObjectName": "BlueprintGeneratedClass'GreyMinitrout_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GreyMinitrout.0"
+            }
+          ],
+          "CompletedMeal_9_8889B1BF40DC4BF0326193ABD58AC1E4": {
+            "ObjectName": "BlueprintGeneratedClass'SaltedMinitrout_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/SaltedMinitrout.0"
+          },
+          "EXPReward_12_C4D7BF7F454D1ED70CB7B3B0F4E08CA2": 10
+        },
+        "Rum": {
+          "RecipeName_2_65E36A93454B299006408E969B069314": "Rum",
+          "RequiredItems_6_B30C6C5C4380C77141BD40A4E8794332": [
+            {
+              "ObjectName": "BlueprintGeneratedClass'Molasses_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Molasses.0"
+            },
+            {
+              "ObjectName": "BlueprintGeneratedClass'Molasses_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Molasses.0"
+            },
+            {
+              "ObjectName": "BlueprintGeneratedClass'Molasses_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Molasses.0"
+            }
+          ],
+          "CompletedMeal_9_8889B1BF40DC4BF0326193ABD58AC1E4": {
+            "ObjectName": "BlueprintGeneratedClass'Rum_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Rum.0"
+          },
+          "EXPReward_12_C4D7BF7F454D1ED70CB7B3B0F4E08CA2": 10
+        },
+        "BasicStew": {
+          "RecipeName_2_65E36A93454B299006408E969B069314": "Basic Stew",
+          "RequiredItems_6_B30C6C5C4380C77141BD40A4E8794332": [
+            {
+              "ObjectName": "BlueprintGeneratedClass'Carrot_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Carrot.0"
+            },
+            {
+              "ObjectName": "BlueprintGeneratedClass'Potato_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Potato.0"
+            },
+            {
+              "ObjectName": "BlueprintGeneratedClass'Cabbage_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Cabbage.0"
+            }
+          ],
+          "CompletedMeal_9_8889B1BF40DC4BF0326193ABD58AC1E4": {
+            "ObjectName": "BlueprintGeneratedClass'BasicStew_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/BasicStew.0"
+          },
+          "EXPReward_12_C4D7BF7F454D1ED70CB7B3B0F4E08CA2": 20
+        },
+        "SaltyStew": {
+          "RecipeName_2_65E36A93454B299006408E969B069314": "Salty Stew",
+          "RequiredItems_6_B30C6C5C4380C77141BD40A4E8794332": [
+            {
+              "ObjectName": "BlueprintGeneratedClass'Cabbage_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Cabbage.0"
+            },
+            {
+              "ObjectName": "BlueprintGeneratedClass'Carrot_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Carrot.0"
+            },
+            {
+              "ObjectName": "BlueprintGeneratedClass'Potato_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Potato.0"
+            },
+            {
+              "ObjectName": "BlueprintGeneratedClass'Salt_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Salt.0"
+            }
+          ],
+          "CompletedMeal_9_8889B1BF40DC4BF0326193ABD58AC1E4": {
+            "ObjectName": "BlueprintGeneratedClass'SaltyStew_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/SaltyStew.0"
+          },
+          "EXPReward_12_C4D7BF7F454D1ED70CB7B3B0F4E08CA2": 25
+        },
+        "LeftoverSaltyStew": {
+          "RecipeName_2_65E36A93454B299006408E969B069314": "Leftover Salty Stew",
+          "RequiredItems_6_B30C6C5C4380C77141BD40A4E8794332": [
+            {
+              "ObjectName": "BlueprintGeneratedClass'BasicStew_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/BasicStew.0"
+            },
+            {
+              "ObjectName": "BlueprintGeneratedClass'Salt_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Salt.0"
+            }
+          ],
+          "CompletedMeal_9_8889B1BF40DC4BF0326193ABD58AC1E4": {
+            "ObjectName": "BlueprintGeneratedClass'LeftoverSaltyStew_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/LeftoverSaltyStew.0"
+          },
+          "EXPReward_12_C4D7BF7F454D1ED70CB7B3B0F4E08CA2": 5
+        },
+        "Bread": {
+          "RecipeName_2_65E36A93454B299006408E969B069314": "Bread",
+          "RequiredItems_6_B30C6C5C4380C77141BD40A4E8794332": [
+            {
+              "ObjectName": "BlueprintGeneratedClass'Flour_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Flour.0"
+            },
+            {
+              "ObjectName": "BlueprintGeneratedClass'Flour_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Flour.0"
+            },
+            {
+              "ObjectName": "BlueprintGeneratedClass'Flour_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Flour.0"
+            },
+            {
+              "ObjectName": "BlueprintGeneratedClass'Flour_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Flour.0"
+            }
+          ],
+          "CompletedMeal_9_8889B1BF40DC4BF0326193ABD58AC1E4": {
+            "ObjectName": "BlueprintGeneratedClass'Bread_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Bread.0"
+          },
+          "EXPReward_12_C4D7BF7F454D1ED70CB7B3B0F4E08CA2": 20
+        },
+        "Flour": {
+          "RecipeName_2_65E36A93454B299006408E969B069314": "Flour",
+          "RequiredItems_6_B30C6C5C4380C77141BD40A4E8794332": [
+            {
+              "ObjectName": "BlueprintGeneratedClass'Wheat_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Wheat.0"
+            },
+            {
+              "ObjectName": "BlueprintGeneratedClass'Wheat_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Wheat.0"
+            }
+          ],
+          "CompletedMeal_9_8889B1BF40DC4BF0326193ABD58AC1E4": {
+            "ObjectName": "BlueprintGeneratedClass'Flour_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Flour.0"
+          },
+          "EXPReward_12_C4D7BF7F454D1ED70CB7B3B0F4E08CA2": 5
+        },
+        "CarrotCake": {
+          "RecipeName_2_65E36A93454B299006408E969B069314": "Carrot Cake",
+          "RequiredItems_6_B30C6C5C4380C77141BD40A4E8794332": [
+            {
+              "ObjectName": "BlueprintGeneratedClass'Carrot_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Carrot.0"
+            },
+            {
+              "ObjectName": "BlueprintGeneratedClass'Bread_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Bread.0"
+            }
+          ],
+          "CompletedMeal_9_8889B1BF40DC4BF0326193ABD58AC1E4": {
+            "ObjectName": "BlueprintGeneratedClass'CarrotCake_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/CarrotCake.0"
+          },
+          "EXPReward_12_C4D7BF7F454D1ED70CB7B3B0F4E08CA2": 30
+        },
+        "SweetCarrotCake": {
+          "RecipeName_2_65E36A93454B299006408E969B069314": "Sweet Carrot Cake",
+          "RequiredItems_6_B30C6C5C4380C77141BD40A4E8794332": [
+            {
+              "ObjectName": "BlueprintGeneratedClass'Sugar_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Sugar.0"
+            },
+            {
+              "ObjectName": "BlueprintGeneratedClass'Carrot_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Carrot.0"
+            },
+            {
+              "ObjectName": "BlueprintGeneratedClass'Bread_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Bread.0"
+            }
+          ],
+          "CompletedMeal_9_8889B1BF40DC4BF0326193ABD58AC1E4": {
+            "ObjectName": "BlueprintGeneratedClass'SweetCarrotCake_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/SweetCarrotCake.0"
+          },
+          "EXPReward_12_C4D7BF7F454D1ED70CB7B3B0F4E08CA2": 35
+        },
+        "PotatoBread": {
+          "RecipeName_2_65E36A93454B299006408E969B069314": "Potato Bread",
+          "RequiredItems_6_B30C6C5C4380C77141BD40A4E8794332": [
+            {
+              "ObjectName": "BlueprintGeneratedClass'Bread_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Bread.0"
+            },
+            {
+              "ObjectName": "BlueprintGeneratedClass'Potato_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Potato.0"
+            }
+          ],
+          "CompletedMeal_9_8889B1BF40DC4BF0326193ABD58AC1E4": {
+            "ObjectName": "BlueprintGeneratedClass'PotatoBread_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/PotatoBread.0"
+          },
+          "EXPReward_12_C4D7BF7F454D1ED70CB7B3B0F4E08CA2": 30
+        },
+        "DruidsStew": {
+          "RecipeName_2_65E36A93454B299006408E969B069314": "Druids Stew",
+          "RequiredItems_6_B30C6C5C4380C77141BD40A4E8794332": [
+            {
+              "ObjectName": "BlueprintGeneratedClass'DruidsightCap_Mushroom_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Mushrooms/DruidsightCap_Mushroom.0"
+            },
+            {
+              "ObjectName": "BlueprintGeneratedClass'DruidsightCap_Mushroom_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Mushrooms/DruidsightCap_Mushroom.0"
+            },
+            {
+              "ObjectName": "BlueprintGeneratedClass'LoveMeNotFlower_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Herbs_And_Roots/LoveMeNotFlower.0"
+            },
+            {
+              "ObjectName": "BlueprintGeneratedClass'LoveMeNotFlower_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Herbs_And_Roots/LoveMeNotFlower.0"
+            }
+          ],
+          "CompletedMeal_9_8889B1BF40DC4BF0326193ABD58AC1E4": {
+            "ObjectName": "BlueprintGeneratedClass'DruidsStew_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/DruidsStew.0"
+          },
+          "EXPReward_12_C4D7BF7F454D1ED70CB7B3B0F4E08CA2": 50
+        },
+        "VenisonSkewer": {
+          "RecipeName_2_65E36A93454B299006408E969B069314": "Venison Skewer",
+          "RequiredItems_6_B30C6C5C4380C77141BD40A4E8794332": [
+            {
+              "ObjectName": "BlueprintGeneratedClass'Venison_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Venison.0"
+            },
+            {
+              "ObjectName": "BlueprintGeneratedClass'Onion_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Onion.0"
+            }
+          ],
+          "CompletedMeal_9_8889B1BF40DC4BF0326193ABD58AC1E4": {
+            "ObjectName": "BlueprintGeneratedClass'VenisonSkewer_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/VenisonSkewer.0"
+          },
+          "EXPReward_12_C4D7BF7F454D1ED70CB7B3B0F4E08CA2": 20
+        },
+        "BasicWine": {
+          "RecipeName_2_65E36A93454B299006408E969B069314": "Basic Wine",
+          "RequiredItems_6_B30C6C5C4380C77141BD40A4E8794332": [
+            {
+              "ObjectName": "BlueprintGeneratedClass'Grapes_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Grapes.0"
+            },
+            {
+              "ObjectName": "BlueprintGeneratedClass'Grapes_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Grapes.0"
+            },
+            {
+              "ObjectName": "BlueprintGeneratedClass'Grapes_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Grapes.0"
+            },
+            {
+              "ObjectName": "BlueprintGeneratedClass'Grapes_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Grapes.0"
+            }
+          ],
+          "CompletedMeal_9_8889B1BF40DC4BF0326193ABD58AC1E4": {
+            "ObjectName": "BlueprintGeneratedClass'BasicWine_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/BasicWine.0"
+          },
+          "EXPReward_12_C4D7BF7F454D1ED70CB7B3B0F4E08CA2": 30
+        },
+        "DessertWine": {
+          "RecipeName_2_65E36A93454B299006408E969B069314": "Dessert Wine",
+          "RequiredItems_6_B30C6C5C4380C77141BD40A4E8794332": [
+            {
+              "ObjectName": "BlueprintGeneratedClass'BasicWine_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/BasicWine.0"
+            },
+            {
+              "ObjectName": "BlueprintGeneratedClass'Sugar_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Sugar.0"
+            }
+          ],
+          "CompletedMeal_9_8889B1BF40DC4BF0326193ABD58AC1E4": {
+            "ObjectName": "BlueprintGeneratedClass'DesertWine_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/DesertWine.0"
+          },
+          "EXPReward_12_C4D7BF7F454D1ED70CB7B3B0F4E08CA2": 5
+        },
+        "SauteedCabbage": {
+          "RecipeName_2_65E36A93454B299006408E969B069314": "Sauteed Cabbage",
+          "RequiredItems_6_B30C6C5C4380C77141BD40A4E8794332": [
+            {
+              "ObjectName": "BlueprintGeneratedClass'Cabbage_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Cabbage.0"
+            }
+          ],
+          "CompletedMeal_9_8889B1BF40DC4BF0326193ABD58AC1E4": {
+            "ObjectName": "BlueprintGeneratedClass'SauteedCabbage_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/SauteedCabbage.0"
+          },
+          "EXPReward_12_C4D7BF7F454D1ED70CB7B3B0F4E08CA2": 5
+        },
+        "ApplePie": {
+          "RecipeName_2_65E36A93454B299006408E969B069314": "Apple Pie",
+          "RequiredItems_6_B30C6C5C4380C77141BD40A4E8794332": [
+            {
+              "ObjectName": "BlueprintGeneratedClass'Apple_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Apple.0"
+            },
+            {
+              "ObjectName": "BlueprintGeneratedClass'Apple_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Apple.0"
+            },
+            {
+              "ObjectName": "BlueprintGeneratedClass'Apple_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Apple.0"
+            },
+            {
+              "ObjectName": "BlueprintGeneratedClass'Bread_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Bread.0"
+            }
+          ],
+          "CompletedMeal_9_8889B1BF40DC4BF0326193ABD58AC1E4": {
+            "ObjectName": "BlueprintGeneratedClass'ApplePie_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/ApplePie.0"
+          },
+          "EXPReward_12_C4D7BF7F454D1ED70CB7B3B0F4E08CA2": 35
+        },
+        "Muffin": {
+          "RecipeName_2_65E36A93454B299006408E969B069314": "Muffin",
+          "RequiredItems_6_B30C6C5C4380C77141BD40A4E8794332": [
+            {
+              "ObjectName": "BlueprintGeneratedClass'Bread_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Bread.0"
+            },
+            {
+              "ObjectName": "BlueprintGeneratedClass'Sugar_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Sugar.0"
+            },
+            {
+              "ObjectName": "BlueprintGeneratedClass'Cherries_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Cherries.0"
+            }
+          ],
+          "CompletedMeal_9_8889B1BF40DC4BF0326193ABD58AC1E4": {
+            "ObjectName": "BlueprintGeneratedClass'Muffin_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Muffin.0"
+          },
+          "EXPReward_12_C4D7BF7F454D1ED70CB7B3B0F4E08CA2": 25
+        },
+        "CherryPie": {
+          "RecipeName_2_65E36A93454B299006408E969B069314": "Cherry Pie",
+          "RequiredItems_6_B30C6C5C4380C77141BD40A4E8794332": [
+            {
+              "ObjectName": "BlueprintGeneratedClass'Cherries_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Cherries.0"
+            },
+            {
+              "ObjectName": "BlueprintGeneratedClass'Cherries_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Cherries.0"
+            },
+            {
+              "ObjectName": "BlueprintGeneratedClass'Cherries_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Cherries.0"
+            },
+            {
+              "ObjectName": "BlueprintGeneratedClass'Bread_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Bread.0"
+            }
+          ],
+          "CompletedMeal_9_8889B1BF40DC4BF0326193ABD58AC1E4": {
+            "ObjectName": "BlueprintGeneratedClass'CherryPie_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/CherryPie.0"
+          },
+          "EXPReward_12_C4D7BF7F454D1ED70CB7B3B0F4E08CA2": 25
+        },
+        "GlazedDonut": {
+          "RecipeName_2_65E36A93454B299006408E969B069314": "Glazed Donut",
+          "RequiredItems_6_B30C6C5C4380C77141BD40A4E8794332": [
+            {
+              "ObjectName": "BlueprintGeneratedClass'Bread_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Bread.0"
+            },
+            {
+              "ObjectName": "BlueprintGeneratedClass'Sugar_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Sugar.0"
+            }
+          ],
+          "CompletedMeal_9_8889B1BF40DC4BF0326193ABD58AC1E4": {
+            "ObjectName": "BlueprintGeneratedClass'Donut_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Donut.0"
+          },
+          "EXPReward_12_C4D7BF7F454D1ED70CB7B3B0F4E08CA2": 20
+        },
+        "CreamyCoffee": {
+          "RecipeName_2_65E36A93454B299006408E969B069314": "Creamy Coffee",
+          "RequiredItems_6_B30C6C5C4380C77141BD40A4E8794332": [
+            {
+              "ObjectName": "BlueprintGeneratedClass'CupOfCoffee_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/CupOfCoffee.0"
+            },
+            {
+              "ObjectName": "BlueprintGeneratedClass'Milk_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Milk.0"
+            }
+          ],
+          "CompletedMeal_9_8889B1BF40DC4BF0326193ABD58AC1E4": {
+            "ObjectName": "BlueprintGeneratedClass'CreamyCoffee_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/CreamyCoffee.0"
+          },
+          "EXPReward_12_C4D7BF7F454D1ED70CB7B3B0F4E08CA2": 15
+        },
+        "CookedHerring": {
+          "RecipeName_2_65E36A93454B299006408E969B069314": "Cooked Herring",
+          "RequiredItems_6_B30C6C5C4380C77141BD40A4E8794332": [
+            {
+              "ObjectName": "BlueprintGeneratedClass'CommonHerring_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/CommonHerring.0"
+            }
+          ],
+          "CompletedMeal_9_8889B1BF40DC4BF0326193ABD58AC1E4": {
+            "ObjectName": "BlueprintGeneratedClass'CookedHerring_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/CookedHerring.0"
+          },
+          "EXPReward_12_C4D7BF7F454D1ED70CB7B3B0F4E08CA2": 10
+        },
+        "HamSandwich": {
+          "RecipeName_2_65E36A93454B299006408E969B069314": "Ham Sandwich",
+          "RequiredItems_6_B30C6C5C4380C77141BD40A4E8794332": [
+            {
+              "ObjectName": "BlueprintGeneratedClass'Ham_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Ham.0"
+            },
+            {
+              "ObjectName": "BlueprintGeneratedClass'Bread_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Bread.0"
+            }
+          ],
+          "CompletedMeal_9_8889B1BF40DC4BF0326193ABD58AC1E4": {
+            "ObjectName": "BlueprintGeneratedClass'HamSandwich_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/HamSandwich.0"
+          },
+          "EXPReward_12_C4D7BF7F454D1ED70CB7B3B0F4E08CA2": 15
+        },
+        "FishSandwich": {
+          "RecipeName_2_65E36A93454B299006408E969B069314": "Fish Sandwich",
+          "RequiredItems_6_B30C6C5C4380C77141BD40A4E8794332": [
+            {
+              "ObjectName": "BlueprintGeneratedClass'CookedMinitrout_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/CookedMinitrout.0"
+            },
+            {
+              "ObjectName": "BlueprintGeneratedClass'Bread_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Bread.0"
+            }
+          ],
+          "CompletedMeal_9_8889B1BF40DC4BF0326193ABD58AC1E4": {
+            "ObjectName": "BlueprintGeneratedClass'FishSandwich_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/FishSandwich.0"
+          },
+          "EXPReward_12_C4D7BF7F454D1ED70CB7B3B0F4E08CA2": 15
+        },
+        "BlockOfCheese": {
+          "RecipeName_2_65E36A93454B299006408E969B069314": "Block of Cheese",
+          "RequiredItems_6_B30C6C5C4380C77141BD40A4E8794332": [
+            {
+              "ObjectName": "BlueprintGeneratedClass'Milk_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Milk.0"
+            },
+            {
+              "ObjectName": "BlueprintGeneratedClass'Milk_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Milk.0"
+            }
+          ],
+          "CompletedMeal_9_8889B1BF40DC4BF0326193ABD58AC1E4": {
+            "ObjectName": "BlueprintGeneratedClass'BlockOfCheese_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/BlockOfCheese.0"
+          },
+          "EXPReward_12_C4D7BF7F454D1ED70CB7B3B0F4E08CA2": 10
+        },
+        "CheeseMelt": {
+          "RecipeName_2_65E36A93454B299006408E969B069314": "Cheese Melt",
+          "RequiredItems_6_B30C6C5C4380C77141BD40A4E8794332": [
+            {
+              "ObjectName": "BlueprintGeneratedClass'Bread_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Bread.0"
+            },
+            {
+              "ObjectName": "BlueprintGeneratedClass'BlockOfCheese_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/BlockOfCheese.0"
+            }
+          ],
+          "CompletedMeal_9_8889B1BF40DC4BF0326193ABD58AC1E4": {
+            "ObjectName": "BlueprintGeneratedClass'CheeseMelt_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/CheeseMelt.0"
+          },
+          "EXPReward_12_C4D7BF7F454D1ED70CB7B3B0F4E08CA2": 15
+        },
+        "Butter": {
+          "RecipeName_2_65E36A93454B299006408E969B069314": "Butter",
+          "RequiredItems_6_B30C6C5C4380C77141BD40A4E8794332": [
+            {
+              "ObjectName": "BlueprintGeneratedClass'Milk_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Milk.0"
+            }
+          ],
+          "CompletedMeal_9_8889B1BF40DC4BF0326193ABD58AC1E4": {
+            "ObjectName": "BlueprintGeneratedClass'Butter_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Butter.0"
+          },
+          "EXPReward_12_C4D7BF7F454D1ED70CB7B3B0F4E08CA2": 5
+        },
+        "GarlicBread": {
+          "RecipeName_2_65E36A93454B299006408E969B069314": "Garlic Bread",
+          "RequiredItems_6_B30C6C5C4380C77141BD40A4E8794332": [
+            {
+              "ObjectName": "BlueprintGeneratedClass'Bread_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Bread.0"
+            },
+            {
+              "ObjectName": "BlueprintGeneratedClass'Apple1_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Apple1.0"
+            },
+            {
+              "ObjectName": "BlueprintGeneratedClass'Butter_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Butter.0"
+            }
+          ],
+          "CompletedMeal_9_8889B1BF40DC4BF0326193ABD58AC1E4": {
+            "ObjectName": "BlueprintGeneratedClass'GarlicBread_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/GarlicBread.0"
+          },
+          "EXPReward_12_C4D7BF7F454D1ED70CB7B3B0F4E08CA2": 20
+        },
+        "BakedPotato": {
+          "RecipeName_2_65E36A93454B299006408E969B069314": "Baked Potato",
+          "RequiredItems_6_B30C6C5C4380C77141BD40A4E8794332": [
+            {
+              "ObjectName": "BlueprintGeneratedClass'Potato_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Potato.0"
+            },
+            {
+              "ObjectName": "BlueprintGeneratedClass'Butter_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Butter.0"
+            },
+            {
+              "ObjectName": "BlueprintGeneratedClass'Salt_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Salt.0"
+            }
+          ],
+          "CompletedMeal_9_8889B1BF40DC4BF0326193ABD58AC1E4": {
+            "ObjectName": "BlueprintGeneratedClass'BakedPotato_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/BakedPotato.0"
+          },
+          "EXPReward_12_C4D7BF7F454D1ED70CB7B3B0F4E08CA2": 20
+        },
+        "FletchersBrew": {
+          "RecipeName_2_65E36A93454B299006408E969B069314": "Fletchers Brew",
+          "RequiredItems_6_B30C6C5C4380C77141BD40A4E8794332": [
+            {
+              "ObjectName": "BlueprintGeneratedClass'Wheat_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Wheat.0"
+            },
+            {
+              "ObjectName": "BlueprintGeneratedClass'Molasses_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Molasses.0"
+            },
+            {
+              "ObjectName": "BlueprintGeneratedClass'Apple_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Apple.0"
+            },
+            {
+              "ObjectName": "BlueprintGeneratedClass'GildedBoletus_Mushroom_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Mushrooms/GildedBoletus_Mushroom.0"
+            }
+          ],
+          "CompletedMeal_9_8889B1BF40DC4BF0326193ABD58AC1E4": {
+            "ObjectName": "BlueprintGeneratedClass'FletchersBrew_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/FletchersBrew.0"
+          },
+          "EXPReward_12_C4D7BF7F454D1ED70CB7B3B0F4E08CA2": 35
+        },
+        "VenisonSandwich": {
+          "RecipeName_2_65E36A93454B299006408E969B069314": "Venison Sandwich",
+          "RequiredItems_6_B30C6C5C4380C77141BD40A4E8794332": [
+            {
+              "ObjectName": "BlueprintGeneratedClass'Bread_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Bread.0"
+            },
+            {
+              "ObjectName": "BlueprintGeneratedClass'Venison_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Venison.0"
+            }
+          ],
+          "CompletedMeal_9_8889B1BF40DC4BF0326193ABD58AC1E4": {
+            "ObjectName": "BlueprintGeneratedClass'VenisonSandwich_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/VenisonSandwich.0"
+          },
+          "EXPReward_12_C4D7BF7F454D1ED70CB7B3B0F4E08CA2": 20
+        },
+        "FriedChicken": {
+          "RecipeName_2_65E36A93454B299006408E969B069314": "Fried Chicken",
+          "RequiredItems_6_B30C6C5C4380C77141BD40A4E8794332": [
+            {
+              "ObjectName": "BlueprintGeneratedClass'ChickenMeat_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/ChickenMeat.0"
+            },
+            {
+              "ObjectName": "BlueprintGeneratedClass'Bread_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Bread.0"
+            }
+          ],
+          "CompletedMeal_9_8889B1BF40DC4BF0326193ABD58AC1E4": {
+            "ObjectName": "BlueprintGeneratedClass'FriedChicken_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/FriedChicken.0"
+          },
+          "EXPReward_12_C4D7BF7F454D1ED70CB7B3B0F4E08CA2": 20
+        },
+        "VenisonStew": {
+          "RecipeName_2_65E36A93454B299006408E969B069314": "Venison Stew",
+          "RequiredItems_6_B30C6C5C4380C77141BD40A4E8794332": [
+            {
+              "ObjectName": "BlueprintGeneratedClass'Venison_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Venison.0"
+            }
+          ],
+          "CompletedMeal_9_8889B1BF40DC4BF0326193ABD58AC1E4": {
+            "ObjectName": "BlueprintGeneratedClass'VenisonStew_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/VenisonStew.0"
+          },
+          "EXPReward_12_C4D7BF7F454D1ED70CB7B3B0F4E08CA2": 20
+        },
+        "HamStew": {
+          "RecipeName_2_65E36A93454B299006408E969B069314": "HamStew",
+          "RequiredItems_6_B30C6C5C4380C77141BD40A4E8794332": [
+            {
+              "ObjectName": "BlueprintGeneratedClass'Ham_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Ham.0"
+            }
+          ],
+          "CompletedMeal_9_8889B1BF40DC4BF0326193ABD58AC1E4": {
+            "ObjectName": "BlueprintGeneratedClass'HamStew_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/HamStew.0"
+          },
+          "EXPReward_12_C4D7BF7F454D1ED70CB7B3B0F4E08CA2": 10
+        },
+        "PotatoStew": {
+          "RecipeName_2_65E36A93454B299006408E969B069314": "Potato Stew",
+          "RequiredItems_6_B30C6C5C4380C77141BD40A4E8794332": [
+            {
+              "ObjectName": "BlueprintGeneratedClass'Potato_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Potato.0"
+            }
+          ],
+          "CompletedMeal_9_8889B1BF40DC4BF0326193ABD58AC1E4": {
+            "ObjectName": "BlueprintGeneratedClass'PotatoStew_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/PotatoStew.0"
+          },
+          "EXPReward_12_C4D7BF7F454D1ED70CB7B3B0F4E08CA2": 15
+        },
+        "ShrimpSkewer": {
+          "RecipeName_2_65E36A93454B299006408E969B069314": "Shrimp Skewer",
+          "RequiredItems_6_B30C6C5C4380C77141BD40A4E8794332": [
+            {
+              "ObjectName": "BlueprintGeneratedClass'VioletShrimp_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/VioletShrimp.0"
+            }
+          ],
+          "CompletedMeal_9_8889B1BF40DC4BF0326193ABD58AC1E4": {
+            "ObjectName": "BlueprintGeneratedClass'ShrimpSkewer_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/ShrimpSkewer.0"
+          },
+          "EXPReward_12_C4D7BF7F454D1ED70CB7B3B0F4E08CA2": 15
+        },
+        "MinitroutSandwich": {
+          "RecipeName_2_65E36A93454B299006408E969B069314": "Minitrout Sandwich",
+          "RequiredItems_6_B30C6C5C4380C77141BD40A4E8794332": [
+            {
+              "ObjectName": "BlueprintGeneratedClass'GreyMinitrout_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GreyMinitrout.0"
+            },
+            {
+              "ObjectName": "BlueprintGeneratedClass'Bread_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Bread.0"
+            }
+          ],
+          "CompletedMeal_9_8889B1BF40DC4BF0326193ABD58AC1E4": {
+            "ObjectName": "BlueprintGeneratedClass'MinitroutSandwich_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/MinitroutSandwich.0"
+          },
+          "EXPReward_12_C4D7BF7F454D1ED70CB7B3B0F4E08CA2": 20
+        },
+        "HoneyBread": {
+          "RecipeName_2_65E36A93454B299006408E969B069314": "Honey Bread",
+          "RequiredItems_6_B30C6C5C4380C77141BD40A4E8794332": [
+            {
+              "ObjectName": "BlueprintGeneratedClass'Bread_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Bread.0"
+            },
+            {
+              "ObjectName": "BlueprintGeneratedClass'Honey_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Honey.0"
+            }
+          ],
+          "CompletedMeal_9_8889B1BF40DC4BF0326193ABD58AC1E4": {
+            "ObjectName": "BlueprintGeneratedClass'HoneyBread_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/HoneyBread.0"
+          },
+          "EXPReward_12_C4D7BF7F454D1ED70CB7B3B0F4E08CA2": 20
+        },
+        "RedWranglerSandwich": {
+          "RecipeName_2_65E36A93454B299006408E969B069314": "Red Wrangler Sandwich",
+          "RequiredItems_6_B30C6C5C4380C77141BD40A4E8794332": [
+            {
+              "ObjectName": "BlueprintGeneratedClass'Bread_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Bread.0"
+            },
+            {
+              "ObjectName": "BlueprintGeneratedClass'RedWrangler_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/RedWrangler.0"
+            }
+          ],
+          "CompletedMeal_9_8889B1BF40DC4BF0326193ABD58AC1E4": {
+            "ObjectName": "BlueprintGeneratedClass'WranglerSandwich_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/WranglerSandwich.0"
+          },
+          "EXPReward_12_C4D7BF7F454D1ED70CB7B3B0F4E08CA2": 25
+        },
+        "CheesyWrangler": {
+          "RecipeName_2_65E36A93454B299006408E969B069314": "Cheesy Wrangler",
+          "RequiredItems_6_B30C6C5C4380C77141BD40A4E8794332": [
+            {
+              "ObjectName": "BlueprintGeneratedClass'RedWrangler_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/RedWrangler.0"
+            },
+            {
+              "ObjectName": "BlueprintGeneratedClass'BlockOfCheese_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/BlockOfCheese.0"
+            }
+          ],
+          "CompletedMeal_9_8889B1BF40DC4BF0326193ABD58AC1E4": {
+            "ObjectName": "BlueprintGeneratedClass'CheesyWrangler_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/CheesyWrangler.0"
+          },
+          "EXPReward_12_C4D7BF7F454D1ED70CB7B3B0F4E08CA2": 25
+        },
+        "CheesyMinitrout": {
+          "RecipeName_2_65E36A93454B299006408E969B069314": "Cheesy Minitrout",
+          "RequiredItems_6_B30C6C5C4380C77141BD40A4E8794332": [
+            {
+              "ObjectName": "BlueprintGeneratedClass'GreyMinitrout_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GreyMinitrout.0"
+            },
+            {
+              "ObjectName": "BlueprintGeneratedClass'BlockOfCheese_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/BlockOfCheese.0"
+            }
+          ],
+          "CompletedMeal_9_8889B1BF40DC4BF0326193ABD58AC1E4": {
+            "ObjectName": "BlueprintGeneratedClass'CheesyMinitrout_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/CheesyMinitrout.0"
+          },
+          "EXPReward_12_C4D7BF7F454D1ED70CB7B3B0F4E08CA2": 15
+        },
+        "GildedCoffee": {
+          "RecipeName_2_65E36A93454B299006408E969B069314": "Gilded Coffee",
+          "RequiredItems_6_B30C6C5C4380C77141BD40A4E8794332": [
+            {
+              "ObjectName": "BlueprintGeneratedClass'Coffee_Beans_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Coffee_Beans.0"
+            },
+            {
+              "ObjectName": "BlueprintGeneratedClass'Coffee_Beans_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Coffee_Beans.0"
+            },
+            {
+              "ObjectName": "BlueprintGeneratedClass'Coffee_Beans_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Coffee_Beans.0"
+            },
+            {
+              "ObjectName": "BlueprintGeneratedClass'GildedBoletus_Mushroom_C'",
+              "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Mushrooms/GildedBoletus_Mushroom.0"
+            }
+          ],
+          "CompletedMeal_9_8889B1BF40DC4BF0326193ABD58AC1E4": {
+            "ObjectName": "BlueprintGeneratedClass'GildedCoffee_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/GildedCoffee.0"
+          },
+          "EXPReward_12_C4D7BF7F454D1ED70CB7B3B0F4E08CA2": 25
+        }
+      }
+    }
+  ]

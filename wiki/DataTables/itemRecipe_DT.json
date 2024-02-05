@@ -1,0 +1,2614 @@
+[
+    {
+      "Type": "DataTable",
+      "Name": "ItemRecipes",
+      "Class": "UScriptClass'DataTable'",
+      "Properties": {
+        "RowStruct": {
+          "ObjectName": "UserDefinedStruct'ItemRecipe_Struct'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/ItemRecipe_Struct.0"
+        }
+      },
+      "Rows": {
+        "CopperSword": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator0",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": null,
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": null,
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": null,
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 0,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 0,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 0,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 0,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "HeavyGoblinWaraxe": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator0",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'Wood_Bundle_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Wood_Bundle.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": null,
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": {
+            "ObjectName": "BlueprintGeneratedClass'Skull_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Skull.0"
+          },
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 3,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 3,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 4,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 30,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "CopperIngot": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator4",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'CopperOre_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Ore_And_Ingots/CopperOre.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'ChunkOfCoal_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Ore_And_Ingots/ChunkOfCoal.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": null,
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 3,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 1,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 0,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 10,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "IronIngot": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator4",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'IronOre_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Ore_And_Ingots/IronOre.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'ChunkOfCoal_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Ore_And_Ingots/ChunkOfCoal.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": null,
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 3,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 1,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 0,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 15,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "Soup": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator6",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'Potato_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Potato.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'GreyMinitrout_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GreyMinitrout.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": null,
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 3,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 0,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 0,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 5,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "Rum": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator6",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'Molasses_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Molasses.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'Molasses_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Molasses.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": {
+            "ObjectName": "BlueprintGeneratedClass'Molasses_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Molasses.0"
+          },
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 1,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 1,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 1,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 10,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "ChickenLeg": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator6",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'ChickenMeat_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/ChickenMeat.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": null,
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": null,
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 1,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 0,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 0,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 0,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "CookedMinitrout": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator6",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'GreyMinitrout_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GreyMinitrout.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": null,
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": null,
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 1,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 0,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 0,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 0,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "BasicIronSpatha": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator0",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'IronIngot_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Ore_And_Ingots/IronIngot.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'Pine_Log_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Pine_Log.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": null,
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 3,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 1,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 0,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 15,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "StoneMace": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator0",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'Stone_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Ore_And_Ingots/Stone.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'Pine_Log_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Pine_Log.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": null,
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 3,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 3,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 0,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 10,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "StoneGreathammer": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator0",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'Stone_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Ore_And_Ingots/Stone.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'Pine_Log_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Pine_Log.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": {
+            "ObjectName": "BlueprintGeneratedClass'RollOfLeather_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/RollOfLeather.0"
+          },
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 10,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 5,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 1,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 20,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "IronDagger": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator0",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'IronIngot_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Ore_And_Ingots/IronIngot.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'Pine_Log_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Pine_Log.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": null,
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 1,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 1,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 0,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 10,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "SpikedClub": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator0",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'Pine_Log_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Pine_Log.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'Stone_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Ore_And_Ingots/Stone.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": null,
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 5,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 1,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 0,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 10,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "MakeshiftClub": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator0",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'RollingPin_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/RollingPin.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'PackOfNails_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/PackOfNails.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": null,
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 1,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 1,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 0,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 5,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "WalkingStick": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator0",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'Pine_Log_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Pine_Log.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'RollOfLeather_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/RollOfLeather.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": null,
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 2,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 1,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 0,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 5,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "FarmersScythe": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator0",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'Pine_Log_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Pine_Log.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'RollOfLeather_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/RollOfLeather.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": {
+            "ObjectName": "BlueprintGeneratedClass'Stone_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Ore_And_Ingots/Stone.0"
+          },
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 2,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 1,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 1,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 10,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "StoneSpear": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator0",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'Stone_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Ore_And_Ingots/Stone.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'Pine_Log_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Pine_Log.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": {
+            "ObjectName": "BlueprintGeneratedClass'RollOfLeather_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/RollOfLeather.0"
+          },
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 1,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 2,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 1,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 10,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "WoodcuttersAxe": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator0",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'IronIngot_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Ore_And_Ingots/IronIngot.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'Pine_Log_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Pine_Log.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": {
+            "ObjectName": "BlueprintGeneratedClass'RollOfLeather_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/RollOfLeather.0"
+          },
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 2,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 1,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 2,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 10,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "BasicGreatsword": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator0",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'IronIngot_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Ore_And_Ingots/IronIngot.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'RollOfLeather_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/RollOfLeather.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": {
+            "ObjectName": "BlueprintGeneratedClass'Pine_Log_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Pine_Log.0"
+          },
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 4,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 1,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 1,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 15,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "Cannon": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator5",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": null,
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'Pine_Log_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Pine_Log.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": {
+            "ObjectName": "BlueprintGeneratedClass'Tools_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Tools.0"
+          },
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": {
+            "ObjectName": "BlueprintGeneratedClass'PackOfNails_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/PackOfNails.0"
+          },
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 15,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 25,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 2,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 5,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 200,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "Ballista": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator5",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'Rope_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Rope.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'Pine_Log_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Pine_Log.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": {
+            "ObjectName": "BlueprintGeneratedClass'PackOfNails_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/PackOfNails.0"
+          },
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 1,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 1,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 1,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 1,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 100,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "StationaryCannon": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator5",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": null,
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'Pine_Log_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Pine_Log.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": {
+            "ObjectName": "BlueprintGeneratedClass'Tools_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Tools.0"
+          },
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": {
+            "ObjectName": "BlueprintGeneratedClass'PackOfNails_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/PackOfNails.0"
+          },
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 5,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 25,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 1,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 5,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 100,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "UndeadThrall": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator7",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'Skull_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Skull.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'Human_Bones_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Human_Bones.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": null,
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 1,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 10,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 0,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 25,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "SuicideSkeleton": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator7",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'Skull_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Skull.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'Human_Bones_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Human_Bones.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": {
+            "ObjectName": "BlueprintGeneratedClass'Pine_Log_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Pine_Log.0"
+          },
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": {
+            "ObjectName": "BlueprintGeneratedClass'MagicDust_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/MagicDust.0"
+          },
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 1,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 5,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 1,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 1,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 25,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "Campfire": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator5",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'Pine_Log_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Pine_Log.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": null,
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": null,
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 3,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 3,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 0,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 3,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "WoodenCrate": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator5",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'Pine_Log_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Pine_Log.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": null,
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": null,
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 2,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 0,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 0,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 1,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "Barrel": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator5",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'Pine_Log_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Pine_Log.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": null,
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": null,
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 2,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 0,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 0,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 1,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "PostLantern": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator5",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'Pine_Log_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Pine_Log.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'IronIngot_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Ore_And_Ingots/IronIngot.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": null,
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 5,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 1,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 0,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 15,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "Well": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator5",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'Stone_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Ore_And_Ingots/Stone.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'Pine_Log_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Pine_Log.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": null,
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 10,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 15,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 0,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 30,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "Bench": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator5",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'Pine_Log_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Pine_Log.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": null,
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": null,
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 5,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 0,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 0,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 5,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "StoneWall": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator5",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'Stone_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Ore_And_Ingots/Stone.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": null,
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": null,
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 10,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 0,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 0,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 3,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "StickFence": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator5",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'Pine_Log_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Pine_Log.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": null,
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": null,
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 2,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 0,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 0,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 2,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "Chair": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator5",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'Pine_Log_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Pine_Log.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": null,
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": null,
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 5,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 0,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 0,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 1,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "Tombstone": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator7",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'Stone_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Ore_And_Ingots/Stone.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": null,
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": null,
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 15,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 0,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 0,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 2,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "MetalFence": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator5",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'IronIngot_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Ore_And_Ingots/IronIngot.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": null,
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": null,
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 1,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 0,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 0,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 15,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "FarmingPlot": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator8",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'Pine_Log_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Pine_Log.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": null,
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": null,
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 1,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 0,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 0,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 0,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "AtacmiteFalchion": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator0",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'AtacamiteIngot_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Ore_And_Ingots/AtacamiteIngot.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'Pine_Log_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Pine_Log.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": null,
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 3,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 1,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 0,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 15,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "Atacmiteingot": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator0",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'AtacamiteOre_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Ore_And_Ingots/AtacamiteOre.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": null,
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": null,
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 3,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 0,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 0,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 25,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "GlazedHam": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator6",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'Ham_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Ham.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'Honey_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Honey.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": {
+            "ObjectName": "BlueprintGeneratedClass'Salt_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Salt.0"
+          },
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 1,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 1,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 1,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 10,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "BonemetalIngot": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator4",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'Human_Bones_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Human_Bones.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'BoneDust_Item_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/BoneDust_Item.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": {
+            "ObjectName": "BlueprintGeneratedClass'ChunkOfCoal_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Ore_And_Ingots/ChunkOfCoal.0"
+          },
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 5,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 2,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 1,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 10,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "RotboneShortsword": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator0",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'BonemetalIngot_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Ore_And_Ingots/BonemetalIngot.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'Human_Bones_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Human_Bones.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": {
+            "ObjectName": "BlueprintGeneratedClass'RollOfLeather_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/RollOfLeather.0"
+          },
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 3,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 1,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 1,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 50,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "CopperFlintlockPistol": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator5",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'CopperIngot_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Ore_And_Ingots/CopperIngot.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'NutsAndBolts_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/NutsAndBolts.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": {
+            "ObjectName": "BlueprintGeneratedClass'Trigger_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Trigger.0"
+          },
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": {
+            "ObjectName": "BlueprintGeneratedClass'Pine_Log_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Pine_Log.0"
+          },
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 3,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 1,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 1,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 1,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 30,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "CopperShortBarrelRifle": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator5",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'CopperIngot_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Ore_And_Ingots/CopperIngot.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'NutsAndBolts_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/NutsAndBolts.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": {
+            "ObjectName": "BlueprintGeneratedClass'Trigger_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Trigger.0"
+          },
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": {
+            "ObjectName": "BlueprintGeneratedClass'Pine_Log_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Pine_Log.0"
+          },
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 5,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 3,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 1,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 1,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 50,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "Trigger": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator5",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'CopperIngot_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Ore_And_Ingots/CopperIngot.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": null,
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": null,
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 1,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 0,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 0,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 5,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 3
+        },
+        "NutsAndBolts": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator5",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'IronIngot_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Ore_And_Ingots/IronIngot.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": null,
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": null,
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 1,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 0,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 0,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 5,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 5
+        },
+        "CopperLongrifle": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator5",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'CopperIngot_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Ore_And_Ingots/CopperIngot.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'NutsAndBolts_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/NutsAndBolts.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": {
+            "ObjectName": "BlueprintGeneratedClass'Trigger_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Trigger.0"
+          },
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": {
+            "ObjectName": "BlueprintGeneratedClass'Pine_Log_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Pine_Log.0"
+          },
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 7,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 3,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 1,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 1,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 75,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "CopperBlunderbuss": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator5",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'CopperIngot_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Ore_And_Ingots/CopperIngot.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'NutsAndBolts_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/NutsAndBolts.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": {
+            "ObjectName": "BlueprintGeneratedClass'Trigger_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Trigger.0"
+          },
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": {
+            "ObjectName": "BlueprintGeneratedClass'Pine_Log_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Pine_Log.0"
+          },
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 7,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 3,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 1,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 1,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 75,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "GoblinSnacks": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator6",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'Ham_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Ham.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'GreenSlime_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/GreenSlime.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": {
+            "ObjectName": "BlueprintGeneratedClass'Weeds_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Weeds.0"
+          },
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 1,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 3,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 1,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 15,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "SlimeIngot": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator4",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'GreenSlime_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/GreenSlime.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": null,
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": null,
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 5,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 0,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 0,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 5,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "PoisonGrenade": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator5",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'Stone_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Ore_And_Ingots/Stone.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'GreenSlime_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/GreenSlime.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": null,
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 1,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 1,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 0,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 5,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "ExplosiveGrenade": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator5",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'Stone_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Ore_And_Ingots/Stone.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'Blastpowder_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Blastpowder.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": null,
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 1,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 3,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 0,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 5,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "Blastpowder": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator5",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'Blaststone_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Blaststone.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": null,
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": null,
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 1,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 0,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 0,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 5,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 5
+        },
+        "PackOfNails": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator5",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'IronIngot_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Ore_And_Ingots/IronIngot.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": null,
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": null,
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 1,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 0,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 0,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 5,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 10
+        },
+        "SpikeGrenade": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator5",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'ExplosiveGrenade_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/ExplosiveGrenade.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'PackOfNails_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/PackOfNails.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": null,
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 1,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 1,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 0,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 15,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "IronFlintlockPistol": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator5",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'IronIngot_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Ore_And_Ingots/IronIngot.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'NutsAndBolts_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/NutsAndBolts.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": {
+            "ObjectName": "BlueprintGeneratedClass'Trigger_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Trigger.0"
+          },
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": {
+            "ObjectName": "BlueprintGeneratedClass'Birch_Log_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Birch_Log.0"
+          },
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 3,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 1,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 1,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 1,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 50,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "CopperDagger": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator0",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'CopperIngot_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Ore_And_Ingots/CopperIngot.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'Pine_Log_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Pine_Log.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": null,
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 1,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 1,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 0,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 5,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "CopperBattleaxe": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator0",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'CopperIngot_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Ore_And_Ingots/CopperIngot.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'Pine_Log_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Pine_Log.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": null,
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 4,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 3,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 0,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 20,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "CopperClaymore": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator0",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'CopperIngot_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Ore_And_Ingots/CopperIngot.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'Pine_Log_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Pine_Log.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": null,
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 3,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 3,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 0,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 15,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "CopperShortsword": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator0",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'CopperIngot_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Ore_And_Ingots/CopperIngot.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'Pine_Log_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Pine_Log.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": null,
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 2,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 2,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 0,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 10,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "CopperRapier": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator0",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'CopperIngot_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Ore_And_Ingots/CopperIngot.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'Pine_Log_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Pine_Log.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": null,
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 2,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 2,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 0,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 10,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "CopperThrowingAxe": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator0",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'CopperIngot_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Ore_And_Ingots/CopperIngot.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'Pine_Log_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Pine_Log.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": null,
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 2,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 2,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 0,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 10,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "CopperUltrasword": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator0",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'CopperIngot_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Ore_And_Ingots/CopperIngot.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'Pine_Log_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Pine_Log.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": null,
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 5,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 3,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 0,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 25,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "StandardIronDaggers": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator0",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'IronIngot_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Ore_And_Ingots/IronIngot.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'Pine_Log_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Pine_Log.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": null,
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 1,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 1,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 0,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 10,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "IronShortspear": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator0",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'IronIngot_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Ore_And_Ingots/IronIngot.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'Pine_Log_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Pine_Log.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": null,
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 1,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 2,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 0,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 15,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "CopperShortspear": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator0",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'CopperIngot_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Ore_And_Ingots/CopperIngot.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'Pine_Log_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Pine_Log.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": null,
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 1,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 2,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 0,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 10,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "Molasses": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator6",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'Sugar_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Sugar.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'Sugar_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Sugar.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": null,
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 0,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 0,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 0,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 0,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 0
+        },
+        "SaltedMinitrout": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator6",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'GreyMinitrout_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GreyMinitrout.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'Salt_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Salt.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": null,
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 1,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 1,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 0,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 10,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 0
+        },
+        "BasicStew": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator6",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'Carrot_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Carrot.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'Potato_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Potato.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": {
+            "ObjectName": "BlueprintGeneratedClass'Cabbage_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Cabbage.0"
+          },
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 0,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 0,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 0,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 0,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 0
+        },
+        "LeftoverSaltyStew": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator6",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'BasicStew_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/BasicStew.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'Salt_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Salt.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": null,
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 0,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 0,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 0,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 0,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 0
+        },
+        "SaltyStew": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator6",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'Carrot_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Carrot.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'Potato_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Potato.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": {
+            "ObjectName": "BlueprintGeneratedClass'Cabbage_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Cabbage.0"
+          },
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": {
+            "ObjectName": "BlueprintGeneratedClass'Salt_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Salt.0"
+          },
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 0,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 0,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 0,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 0,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 0
+        },
+        "Bread": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator6",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'Flour_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Flour.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'Flour_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Flour.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": {
+            "ObjectName": "BlueprintGeneratedClass'Flour_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Flour.0"
+          },
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": {
+            "ObjectName": "BlueprintGeneratedClass'Flour_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Flour.0"
+          },
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 0,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 0,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 0,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 0,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 0
+        },
+        "Flour": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator6",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'Wheat_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Wheat.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'Wheat_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Wheat.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": null,
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 0,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 0,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 0,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 0,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 0
+        },
+        "CarrotCake": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator6",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'Carrot_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Carrot.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'Bread_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Bread.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": null,
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 0,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 0,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 0,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 0,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 0
+        },
+        "SweetCarrotCake": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator6",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'Carrot_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Carrot.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'Bread_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Bread.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": {
+            "ObjectName": "BlueprintGeneratedClass'Sugar_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Sugar.0"
+          },
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 0,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 0,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 0,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 0,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 0
+        },
+        "PotatoBread": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator6",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'Bread_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Bread.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'Potato_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Potato.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": null,
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 0,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 0,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 0,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 0,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 0
+        },
+        "DruidsStew": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator6",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'DruidsightCap_Mushroom_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Mushrooms/DruidsightCap_Mushroom.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'DruidsightCap_Mushroom_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Mushrooms/DruidsightCap_Mushroom.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": {
+            "ObjectName": "BlueprintGeneratedClass'LoveMeNotFlower_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Herbs_And_Roots/LoveMeNotFlower.0"
+          },
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": {
+            "ObjectName": "BlueprintGeneratedClass'LoveMeNotFlower_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Herbs_And_Roots/LoveMeNotFlower.0"
+          },
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 0,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 0,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 0,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 0,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 0
+        },
+        "VenisonSkewer": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator6",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'Venison_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Venison.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'Onion_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Onion.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": null,
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 0,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 0,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 0,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 0,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 0
+        },
+        "BasicWine": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator6",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'Grapes_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Grapes.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'Grapes_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Grapes.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": {
+            "ObjectName": "BlueprintGeneratedClass'Grapes_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Grapes.0"
+          },
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": {
+            "ObjectName": "BlueprintGeneratedClass'Grapes_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Grapes.0"
+          },
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 0,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 0,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 0,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 0,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 0
+        },
+        "DessertWine": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator6",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'BasicWine_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/BasicWine.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'Sugar_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Sugar.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": null,
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 0,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 0,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 0,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 0,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 0
+        },
+        "SauteedCabbage": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator6",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'Cabbage_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Cabbage.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": null,
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": null,
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 0,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 0,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 0,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 0,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 0
+        },
+        "ApplePie": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator6",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'Bread_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Bread.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'Apple_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Apple.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": {
+            "ObjectName": "BlueprintGeneratedClass'Apple_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Apple.0"
+          },
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": {
+            "ObjectName": "BlueprintGeneratedClass'Apple_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Apple.0"
+          },
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 0,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 0,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 0,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 0,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 0
+        },
+        "Muffin": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator6",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'Bread_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Bread.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'Sugar_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Sugar.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": {
+            "ObjectName": "BlueprintGeneratedClass'Cherries_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Cherries.0"
+          },
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 0,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 0,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 0,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 0,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 0
+        },
+        "CherryPie": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator6",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'Cherries_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Cherries.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'Cherries_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Cherries.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": {
+            "ObjectName": "BlueprintGeneratedClass'Cherries_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Cherries.0"
+          },
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": {
+            "ObjectName": "BlueprintGeneratedClass'Bread_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Bread.0"
+          },
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 0,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 0,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 0,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 0,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 0
+        },
+        "GlazedDonut": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator6",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'Bread_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Bread.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'Sugar_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Sugar.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": {
+            "ObjectName": "BlueprintGeneratedClass'Sugar_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Sugar.0"
+          },
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 0,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 0,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 0,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 0,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 0
+        },
+        "SmallGryoscopicStabliizer": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator5",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'CopperIngot_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Ore_And_Ingots/CopperIngot.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'NutsAndBolts_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/NutsAndBolts.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": {
+            "ObjectName": "BlueprintGeneratedClass'IronIngot_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Ore_And_Ingots/IronIngot.0"
+          },
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 5,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 5,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 1,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 50,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "SmallPropeller": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator5",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'CopperIngot_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Ore_And_Ingots/CopperIngot.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'IronIngot_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Ore_And_Ingots/IronIngot.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": null,
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 3,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 1,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 0,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 30,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "Helilight": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator5",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'NutsAndBolts_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/NutsAndBolts.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'Pine_Log_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Pine_Log.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": {
+            "ObjectName": "BlueprintGeneratedClass'SmallPropeller_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/MechanicalItems/SmallPropeller.0"
+          },
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": {
+            "ObjectName": "BlueprintGeneratedClass'SmallGryoscopicStabilizer_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/MechanicalItems/SmallGryoscopicStabilizer.0"
+          },
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 3,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 1,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 1,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 1,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 150,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "OreIdentificiationDrone": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator5",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'SmallPropeller_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/MechanicalItems/SmallPropeller.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'NutsAndBolts_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/NutsAndBolts.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": {
+            "ObjectName": "BlueprintGeneratedClass'SmallGryoscopicStabilizer_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/MechanicalItems/SmallGryoscopicStabilizer.0"
+          },
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": {
+            "ObjectName": "BlueprintGeneratedClass'MagneticCoil_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/MechanicalItems/MagneticCoil.0"
+          },
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 1,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 3,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 1,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 1,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 200,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "Spring": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator5",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'CopperIngot_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Ore_And_Ingots/CopperIngot.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": null,
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": null,
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 1,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 0,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 0,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 15,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 5
+        },
+        "MagneticCoil": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator5",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'Spring_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Spring.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'IronIngot_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Ore_And_Ingots/IronIngot.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": null,
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 1,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 1,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 0,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 20,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "Blastmine": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator5",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'CopperIngot_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Ore_And_Ingots/CopperIngot.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'NutsAndBolts_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/NutsAndBolts.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": {
+            "ObjectName": "BlueprintGeneratedClass'Blaststone_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Blaststone.0"
+          },
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 1,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 2,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 1,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 15,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "DoubleBarrelCopperRifle": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator5",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'CopperIngot_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Ore_And_Ingots/CopperIngot.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'NutsAndBolts_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/NutsAndBolts.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": {
+            "ObjectName": "BlueprintGeneratedClass'Pine_Log_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Pine_Log.0"
+          },
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": {
+            "ObjectName": "BlueprintGeneratedClass'Trigger_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Trigger.0"
+          },
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 5,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 5,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 2,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 1,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 150,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "CopperSniperRifle": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator5",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'CopperIngot_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Ore_And_Ingots/CopperIngot.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'Pine_Log_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Pine_Log.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": {
+            "ObjectName": "BlueprintGeneratedClass'Trigger_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Trigger.0"
+          },
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": {
+            "ObjectName": "BlueprintGeneratedClass'MagnifyingLens_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/MechanicalItems/MagnifyingLens.0"
+          },
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 5,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 2,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 1,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 2,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 175,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "IronBlunderPistol": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator5",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'IronIngot_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Ore_And_Ingots/IronIngot.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'NutsAndBolts_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/NutsAndBolts.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": {
+            "ObjectName": "BlueprintGeneratedClass'Birch_Log_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Birch_Log.0"
+          },
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": {
+            "ObjectName": "BlueprintGeneratedClass'Trigger_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Trigger.0"
+          },
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 2,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 2,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 1,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 1,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 75,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "CopperPistolDrone": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator5",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'CopperFlintlockPistol_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Weapons/Guns/CopperFlintlockPistol.4"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'SmallGryoscopicStabilizer_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/MechanicalItems/SmallGryoscopicStabilizer.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": {
+            "ObjectName": "BlueprintGeneratedClass'SmallPropeller_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/MechanicalItems/SmallPropeller.0"
+          },
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": {
+            "ObjectName": "BlueprintGeneratedClass'MagnifyingLens_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/MechanicalItems/MagnifyingLens.0"
+          },
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 1,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 1,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 1,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 1,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 175,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "SparkPlug": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator5",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'IronIngot_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Ore_And_Ingots/IronIngot.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'Sparkstone_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Ore_And_Ingots/Sparkstone.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": null,
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 1,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 2,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 0,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 25,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "CombustionEngine": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator5",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'IronIngot_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Ore_And_Ingots/IronIngot.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'SparkPlug_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/MechanicalItems/SparkPlug.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": {
+            "ObjectName": "BlueprintGeneratedClass'Blastpowder_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Blastpowder.0"
+          },
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": {
+            "ObjectName": "BlueprintGeneratedClass'Spring_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Spring.0"
+          },
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 5,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 3,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 10,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 5,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 150,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "AutonomousBot": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator5",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'Ash_Log_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Ash_Log.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'Wheel_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Wheel.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": {
+            "ObjectName": "BlueprintGeneratedClass'MagneticCoil_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/MechanicalItems/MagneticCoil.0"
+          },
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": {
+            "ObjectName": "BlueprintGeneratedClass'CombustionEngine_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/MechanicalItems/CombustionEngine.0"
+          },
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 5,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 4,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 1,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 1,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 250,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "Wheel": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator5",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'Pine_Log_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Pine_Log.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'NutsAndBolts_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/NutsAndBolts.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": {
+            "ObjectName": "BlueprintGeneratedClass'CopperIngot_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Ore_And_Ingots/CopperIngot.0"
+          },
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 1,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 1,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 1,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 25,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "BarrelMobile": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator5",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'Ash_Log_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Ash_Log.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'NutsAndBolts_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/NutsAndBolts.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": {
+            "ObjectName": "BlueprintGeneratedClass'CombustionEngine_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/MechanicalItems/CombustionEngine.0"
+          },
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": {
+            "ObjectName": "BlueprintGeneratedClass'Wheel_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Wheel.0"
+          },
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 10,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 10,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 1,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 4,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 300,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "CopperAutoTurret": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator5",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'CopperFlintlockPistol_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Weapons/Guns/CopperFlintlockPistol.4"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'IronIngot_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Ore_And_Ingots/IronIngot.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": {
+            "ObjectName": "BlueprintGeneratedClass'Spring_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Spring.0"
+          },
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": {
+            "ObjectName": "BlueprintGeneratedClass'MagneticCoil_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/MechanicalItems/MagneticCoil.0"
+          },
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 1,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 2,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 1,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 1,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 75,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "Springboard": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator5",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'Pine_Log_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Pine_Log.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'Spring_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Spring.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": {
+            "ObjectName": "BlueprintGeneratedClass'NutsAndBolts_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/NutsAndBolts.0"
+          },
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 5,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 3,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 1,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 35,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "SpringheelBoots": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator5",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'Foot_Armor_LeatherBoots_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Armor/Feet/Foot_Armor_LeatherBoots.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'Spring_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Spring.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": {
+            "ObjectName": "BlueprintGeneratedClass'NutsAndBolts_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/NutsAndBolts.0"
+          },
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 1,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 4,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 4,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 50,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "CreamyCoffee": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator6",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'CupOfCoffee_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/CupOfCoffee.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'Milk_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Milk.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": null,
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 1,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 1,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 0,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 0,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "CookedHerring": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator6",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'CommonHerring_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/CommonHerring.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": null,
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": null,
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 0,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 0,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 0,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 0,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "HamSandwich": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator6",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'Ham_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Ham.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'Bread_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Bread.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": null,
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 0,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 0,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 0,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 0,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "Butter": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator6",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'Milk_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Milk.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": null,
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": null,
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 0,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 0,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 0,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 0,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 0
+        },
+        "FishSandwich": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator6",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'CookedMinitrout_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/CookedMinitrout.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'Bread_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Bread.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": null,
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 0,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 0,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 0,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 0,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 0
+        },
+        "BlockOfCheese": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator6",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'Milk_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Milk.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'Milk_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Milk.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": null,
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 0,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 0,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 0,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 0,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 0
+        },
+        "CheeseMelt": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator6",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'BlockOfCheese_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/BlockOfCheese.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'Bread_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Bread.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": null,
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 0,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 0,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 0,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 0,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 0
+        },
+        "GarlicBread": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator6",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'Apple1_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Apple1.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'Bread_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Bread.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": {
+            "ObjectName": "BlueprintGeneratedClass'Butter_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Butter.0"
+          },
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 1,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 1,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 1,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 25,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 0
+        },
+        "BakedPotato": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator6",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'Potato_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Potato.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'Butter_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Butter.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": {
+            "ObjectName": "BlueprintGeneratedClass'Salt_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Salt.0"
+          },
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 0,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 0,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 0,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 0,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 0
+        },
+        "SilverIngot": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator4",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'SilverOre_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Ore_And_Ingots/SilverOre.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'ChunkOfCoal_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Ore_And_Ingots/ChunkOfCoal.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": null,
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 3,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 3,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 0,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 10,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "GoldIngot": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator4",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'GoldOore_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Ore_And_Ingots/GoldOore.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'ChunkOfCoal_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Ore_And_Ingots/ChunkOfCoal.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": null,
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 3,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 3,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 0,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 15,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "VenisonSandwich": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator6",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'Bread_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Bread.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'Venison_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Venison.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": null,
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 1,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 1,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 0,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 20,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "FriedChicken": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator6",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'ChickenMeat_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/ChickenMeat.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'Bread_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Bread.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": null,
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 1,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 1,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 0,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 20,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "VenisonStew": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator6",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'Venison_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Venison.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": null,
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": null,
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 1,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 0,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 0,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 20,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "HamStew": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator6",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'Ham_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Ham.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": null,
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": null,
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 1,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 0,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 0,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 10,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "PotatoStew": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator6",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'Potato_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Potato.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'Potato_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Potato.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": null,
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 1,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 0,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 0,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 15,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "ShrimpSkewer": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator6",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'VioletShrimp_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/VioletShrimp.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": null,
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": null,
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 1,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 0,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 0,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 15,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "MinitroutSandwich": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator6",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'GreyMinitrout_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GreyMinitrout.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'Bread_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Bread.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": null,
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 1,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 1,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 0,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 20,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "HoneyBread": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator6",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'Bread_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Bread.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'Honey_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Honey.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": null,
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 1,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 1,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 0,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 20,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "RedWranglerSandwich": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator6",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'Bread_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Bread.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'RedWrangler_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/RedWrangler.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": null,
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 1,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 1,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 0,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 25,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "CheesyWrangler": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator6",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'RedWrangler_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/RedWrangler.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'BlockOfCheese_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/BlockOfCheese.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": null,
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 1,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 1,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 0,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 25,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "CheesyMinitrout": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator6",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'GreyMinitrout_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GreyMinitrout.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'BlockOfCheese_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/BlockOfCheese.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": null,
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 1,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 1,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 0,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 15,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "GildedCoffee": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator6",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'Coffee_Beans_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Coffee_Beans.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'Coffee_Beans_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Coffee_Beans.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": {
+            "ObjectName": "BlueprintGeneratedClass'Coffee_Beans_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Coffee_Beans.0"
+          },
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": {
+            "ObjectName": "BlueprintGeneratedClass'GildedBoletus_Mushroom_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Mushrooms/GildedBoletus_Mushroom.0"
+          },
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 1,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 1,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 1,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 1,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 25,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "SlimeMetalDaggers": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator0",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'GreenSlimeIngot_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/GreenSlimeIngot.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'IronIngot_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Ore_And_Ingots/IronIngot.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": null,
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 3,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 2,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 0,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 25,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "SlimeMetalShortsword": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator0",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'GreenSlimeIngot_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/GreenSlimeIngot.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'IronIngot_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Ore_And_Ingots/IronIngot.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": null,
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 5,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 3,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 0,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 30,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "SlimeMetalThrowingAxe": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator0",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'GreenSlimeIngot_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/GreenSlimeIngot.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'IronIngot_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Ore_And_Ingots/IronIngot.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": null,
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 5,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 3,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 0,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 30,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        },
+        "SlimeMetalUltrasword": {
+          "CraftingType_23_F911F09347CE02D386920AB836BE5C88": "CraftingTypes::NewEnumerator0",
+          "Item1_2_F48B42734DFCDF3201FA90B4615FCA66": {
+            "ObjectName": "BlueprintGeneratedClass'GreenSlimeIngot_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/GreenSlimeIngot.0"
+          },
+          "Item2_4_14DF5ED84DC626E2DADAE29E6920BAAA": {
+            "ObjectName": "BlueprintGeneratedClass'IronIngot_C'",
+            "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Ore_And_Ingots/IronIngot.0"
+          },
+          "Item3_6_9824FB5E4358AA630871C3AC9CD63F78": null,
+          "Item4_8_18D9DB47482DF6CAE9AC5D8E1DF20442": null,
+          "QtyReqItem1_11_246E882E458A9FA01FD70F8441B69FF7": 10,
+          "QtyReqItem2_13_C5F6A5544F0468A301C398B6D1779472": 5,
+          "QtyReqItem3_15_7E01BE014732EAB9B524B1AC7295E1C3": 0,
+          "QtyReqItem4_17_703FF2B24CCCECE0846961A6160B4FF2": 0,
+          "EXPrewardforcrafting_19_B890F7034453FA934FCFA09BE60A5926": 45,
+          "CraftAmount_26_A14BD082410485552E3DE1B6B32688AC": 1
+        }
+      }
+    }
+  ]

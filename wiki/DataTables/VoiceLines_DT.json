@@ -1,0 +1,2349 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "VoiceLineDataTable",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "UserDefinedStruct'VoiceLines'",
+        "ObjectPath": "TheBloodline/Content/FriendlyUnits/Soldiers/VoiceLines.0"
+      }
+    },
+    "Rows": {
+      "MaleDwarfYoung": {
+        "GenderRace_4_FAF456A146DEDA934D773C86410F1977": "MaleDwarfYoung",
+        "General_17_CD2BFB384154802F189C71955A281BDA": [
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "4B4B5E2C4DA6C0642B113197DC5073B9",
+              "SourceString": "A mug of ale, that's what I need",
+              "LocalizedString": "A mug of ale, that's what I need"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'AMugOfAle'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/AMugOfAle.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "1290F19845E282F8015335807023C12A",
+              "SourceString": "Beautiful!",
+              "LocalizedString": "Beautiful!"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'Beautiful'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/Beautiful.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "5081143941F5AA3CCB97079418F27F7B",
+              "SourceString": "Do I smell roasted pork?",
+              "LocalizedString": "Do I smell roasted pork?"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'DoISmellRoastedPork'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/DoISmellRoastedPork.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "14E84863491C732FE5F4F1A037E8D78E",
+              "SourceString": "Do you think there's a souvinir shop?",
+              "LocalizedString": "Do you think there's a souvinir shop?"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'DoYouThinkTheresASouvinirShop'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/DoYouThinkTheresASouvinirShop.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "95B785404C82DED12405D7B4E40806A7",
+              "SourceString": "Gotta use the bathroom...",
+              "LocalizedString": "Gotta use the bathroom..."
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'GottaUseTheBathroom'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/GottaUseTheBathroom.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "C5BF146249A60EF5614C62BF300D441D",
+              "SourceString": "I'm here to spend some gold!",
+              "LocalizedString": "I'm here to spend some gold!"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'I_mHereToSpendSomeGold'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/I_mHereToSpendSomeGold.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "821A94DE4B3E80AE1A9AAE89EFDCFBDA",
+              "SourceString": "I could go for a turkey leg.",
+              "LocalizedString": "I could go for a turkey leg."
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'ICouldGoForATurkeyLeg'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/ICouldGoForATurkeyLeg.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "7845348641259E5844D70CB977F9C48C",
+              "SourceString": "It's good to be back!",
+              "LocalizedString": "It's good to be back!"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'ItsGoodToBeBack'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/ItsGoodToBeBack.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "2DE3216D48CCD9AED79855A54227FAD0",
+              "SourceString": "I wonder if the Harbinger is hiring...",
+              "LocalizedString": "I wonder if the Harbinger is hiring..."
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'IWonderIftheHarbingerIsHiring'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/IWonderIftheHarbingerIsHiring.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "06479B5241085515F0FF109D2417A45B",
+              "SourceString": "I wonder if there's a smithy here.",
+              "LocalizedString": "I wonder if there's a smithy here."
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'IWonderIfTheresASmithyHere'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/IWonderIfTheresASmithyHere.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "FD08F9A4431BD794C47DEFB30C2FCF27",
+              "SourceString": "Love how this place smells!",
+              "LocalizedString": "Love how this place smells!"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'LoveHowThisPlaceSmells'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/LoveHowThisPlaceSmells.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "1151A33B4AC89DD8DE977398C849C238",
+              "SourceString": "Quite the sight!",
+              "LocalizedString": "Quite the sight!"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'QuiteTheSight'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/QuiteTheSight.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "12E98224467AA18B593FD2A77960679F",
+              "SourceString": "Race you to the tavern!",
+              "LocalizedString": "Race you to the tavern!"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'RaceYouToTheTavern'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/RaceYouToTheTavern.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "7B5ED89D4F96AACEA4864BB184A68391",
+              "SourceString": "This place better have beer.",
+              "LocalizedString": "This place better have beer."
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'ThisPlaceBetterHaveBeer'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/ThisPlaceBetterHaveBeer.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "A007CA0E493898B8B121F7A57CE8EC41",
+              "SourceString": "Time to do some business!",
+              "LocalizedString": "Time to do some business!"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'TimeToDoSomeBusiness_'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/TimeToDoSomeBusiness_.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "62CB6DE740C95D1244D80B8F354AA666",
+              "SourceString": "What a nice town!",
+              "LocalizedString": "What a nice town!"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'WhatANiceTown'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/WhatANiceTown.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "EDCD6D3E4D20A2177F1E1589133D5C4D",
+              "SourceString": "Where's the tavern?",
+              "LocalizedString": "Where's the tavern?"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'WheresTheTavern'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/WheresTheTavern.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "3771148B448F60C72A8F1DAB51E9334B",
+              "SourceString": "Wow!",
+              "LocalizedString": "Wow!"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'Wow'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/Wow.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "FB7F633A4385DEDBD6B65FA07CA5DED5",
+              "SourceString": "I'm off to the blacksmith!",
+              "LocalizedString": "I'm off to the blacksmith!"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'Blacksmith_Scott'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/Blacksmith_Scott.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "AF6CE82544FB493F29184D92B176C57A",
+              "SourceString": "Gotta check if there's room at the local inn.",
+              "LocalizedString": "Gotta check if there's room at the local inn."
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'InnRoom_Scott'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/InnRoom_Scott.0"
+            }
+          }
+        ],
+        "WitnessedCrime_22_C23C1DA2422580D909E4AD84DBBE52FF": [
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "20112B68469990416B1151A2335FD43C",
+              "SourceString": "What?!",
+              "LocalizedString": "What?!"
+            },
+            "VoiceLineWav_6_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundCue'AngryMale'",
+              "ObjectPath": "TheBloodline/Content/BattleScreamsVoicePack/Cues/AngryMale.0"
+            }
+          }
+        ],
+        "Pickpocketed_23_E0A605A64348EEDFCB0F2499912CD2F4": [
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "20112B68469990416B1151A2335FD43C",
+              "SourceString": "What?!",
+              "LocalizedString": "What?!"
+            },
+            "VoiceLineWav_6_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundCue'AngryMale'",
+              "ObjectPath": "TheBloodline/Content/BattleScreamsVoicePack/Cues/AngryMale.0"
+            }
+          }
+        ],
+        "Approached_26_F9C816814EDC4C03CA4A4BA06F357698": [
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "32B5B5E04497EE0A4E69148AE2AEDE0B",
+              "SourceString": "You wouldn't happen to be lookin' for a companion, would you?",
+              "LocalizedString": "You wouldn't happen to be lookin' for a companion, would you?"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'Companion_Scott'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/Companion_Scott.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "667203C3402AD4EB22CB7FA4525DBB83",
+              "SourceString": "Can't wait to get these damned boots off!",
+              "LocalizedString": "Can't wait to get these damned boots off!"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'BootsOff_Scott'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/BootsOff_Scott.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "1E0E22744F4C2E43E8EE8AB0C2F0661D",
+              "SourceString": "I heard there were sightings of small dragons near the Green Pass. Wonder if it's true..",
+              "LocalizedString": "I heard there were sightings of small dragons near the Green Pass. Wonder if it's true.."
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'DragonSightings_Scott'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/DragonSightings_Scott.0"
+            }
+          }
+        ]
+      },
+      "MaleDwarfOld": {
+        "GenderRace_4_FAF456A146DEDA934D773C86410F1977": "MaleDwarfOld",
+        "General_17_CD2BFB384154802F189C71955A281BDA": [
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "4B4B5E2C4DA6C0642B113197DC5073B9",
+              "SourceString": "A mug of ale, that's what I need",
+              "LocalizedString": "A mug of ale, that's what I need"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'AMugOfAle_Oldman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/Male_Old_General/AMugOfAle_Oldman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "1290F19845E282F8015335807023C12A",
+              "SourceString": "Beautiful!",
+              "LocalizedString": "Beautiful!"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'Beautiful_Oldman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/Male_Old_General/Beautiful_Oldman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "5081143941F5AA3CCB97079418F27F7B",
+              "SourceString": "Do I smell roasted pork?",
+              "LocalizedString": "Do I smell roasted pork?"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'DoISmellRoastedPork_Oldman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/Male_Old_General/DoISmellRoastedPork_Oldman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "14E84863491C732FE5F4F1A037E8D78E",
+              "SourceString": "Do you think there's a souvinir shop?",
+              "LocalizedString": "Do you think there's a souvinir shop?"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'DoYouThinkTheresASouvinirShop_Oldman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/Male_Old_General/DoYouThinkTheresASouvinirShop_Oldman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "95B785404C82DED12405D7B4E40806A7",
+              "SourceString": "Gotta use the bathroom...",
+              "LocalizedString": "Gotta use the bathroom..."
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'GotToUseTheBathroom_Oldman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/Male_Old_General/GotToUseTheBathroom_Oldman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "C5BF146249A60EF5614C62BF300D441D",
+              "SourceString": "I'm here to spend some gold!",
+              "LocalizedString": "I'm here to spend some gold!"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'ImHereToSpendSomeGold_Oldman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/Male_Old_General/ImHereToSpendSomeGold_Oldman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "821A94DE4B3E80AE1A9AAE89EFDCFBDA",
+              "SourceString": "I could go for a turkey leg.",
+              "LocalizedString": "I could go for a turkey leg."
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'ICouldGoForATurkeyLeg_Oldman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/Male_Old_General/ICouldGoForATurkeyLeg_Oldman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "7845348641259E5844D70CB977F9C48C",
+              "SourceString": "It's good to be back!",
+              "LocalizedString": "It's good to be back!"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'ItsGoodToBeBack_Oldman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/Male_Old_General/ItsGoodToBeBack_Oldman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "2DE3216D48CCD9AED79855A54227FAD0",
+              "SourceString": "I wonder if the Harbinger is hiring...",
+              "LocalizedString": "I wonder if the Harbinger is hiring..."
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'IWonderIfTheHarbingerIsHiring_Oldman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/Male_Old_General/IWonderIfTheHarbingerIsHiring_Oldman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "06479B5241085515F0FF109D2417A45B",
+              "SourceString": "I wonder if there's a smithy here.",
+              "LocalizedString": "I wonder if there's a smithy here."
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'IWonderIfTheresASmithyHere_Oldman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/Male_Old_General/IWonderIfTheresASmithyHere_Oldman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "04A4E2C14E702256CBB554BFA1702F31",
+              "SourceString": "I love how this place smells!",
+              "LocalizedString": "I love how this place smells!"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'ILoveHowThisPlaceSmells_Oldman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/Male_Old_General/ILoveHowThisPlaceSmells_Oldman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "1151A33B4AC89DD8DE977398C849C238",
+              "SourceString": "Quite the sight!",
+              "LocalizedString": "Quite the sight!"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'QuiteTheSight_Oldman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/Male_Old_General/QuiteTheSight_Oldman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "494EE7E54DB3FCF9B76FB89BD5DDB821",
+              "SourceString": "Race you to the inn!",
+              "LocalizedString": "Race you to the inn!"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'RaceYouToTheInn_Oldman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/Male_Old_General/RaceYouToTheInn_Oldman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "7B5ED89D4F96AACEA4864BB184A68391",
+              "SourceString": "This place better have beer.",
+              "LocalizedString": "This place better have beer."
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'ThisPlaceBetterHaveBeer'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/Male_Old_General/ThisPlaceBetterHaveBeer.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "A007CA0E493898B8B121F7A57CE8EC41",
+              "SourceString": "Time to do some business!",
+              "LocalizedString": "Time to do some business!"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'TimeToDoSomeBusiness_Oldman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/Male_Old_General/TimeToDoSomeBusiness_Oldman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "62CB6DE740C95D1244D80B8F354AA666",
+              "SourceString": "What a nice town!",
+              "LocalizedString": "What a nice town!"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'WhatANiceTown_Oldman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/Male_Old_General/WhatANiceTown_Oldman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "EDCD6D3E4D20A2177F1E1589133D5C4D",
+              "SourceString": "Where's the tavern?",
+              "LocalizedString": "Where's the tavern?"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'WheresTheTavern_Oldman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/Male_Old_General/WheresTheTavern_Oldman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "3771148B448F60C72A8F1DAB51E9334B",
+              "SourceString": "Wow!",
+              "LocalizedString": "Wow!"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'Wow_Oldman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/Male_Old_General/Wow_Oldman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "14FB89904482409B62844A8A2A93BF24",
+              "SourceString": "Beer, ale, rum - I'd take any right now!",
+              "LocalizedString": "Beer, ale, rum - I'd take any right now!"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'BeerAleRum'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/Male_Old_General/BeerAleRum.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "D512A85949A8177D67752F81661C9223",
+              "SourceString": "Curses - These boots make my feet ache!",
+              "LocalizedString": "Curses - These boots make my feet ache!"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'FeetAche_Oldman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/Male_Old_General/FeetAche_Oldman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "71543C0F46C2B9EA1BFFEA8B6FFC1129",
+              "SourceString": "By the beard of Lorgin - I think I forgot my coinpurse.",
+              "LocalizedString": "By the beard of Lorgin - I think I forgot my coinpurse."
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'ForgotCoinpurse_Oldman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/Male_Old_General/ForgotCoinpurse_Oldman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "DFDE93184B05BA10021F70B1A607F97C",
+              "SourceString": "If only I had an autocart!",
+              "LocalizedString": "If only I had an autocart!"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'Autocart_Oldman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/Male_Old_General/Autocart_Oldman.0"
+            }
+          }
+        ],
+        "WitnessedCrime_22_C23C1DA2422580D909E4AD84DBBE52FF": [
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "20112B68469990416B1151A2335FD43C",
+              "SourceString": "What?!",
+              "LocalizedString": "What?!"
+            },
+            "VoiceLineWav_6_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundCue'AngryMale'",
+              "ObjectPath": "TheBloodline/Content/BattleScreamsVoicePack/Cues/AngryMale.0"
+            }
+          }
+        ],
+        "Pickpocketed_23_E0A605A64348EEDFCB0F2499912CD2F4": [
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "20112B68469990416B1151A2335FD43C",
+              "SourceString": "What?!",
+              "LocalizedString": "What?!"
+            },
+            "VoiceLineWav_6_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundCue'AngryMale'",
+              "ObjectPath": "TheBloodline/Content/BattleScreamsVoicePack/Cues/AngryMale.0"
+            }
+          }
+        ],
+        "Approached_26_F9C816814EDC4C03CA4A4BA06F357698": [
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "381ECB7341664B6989BE5E8A158E6421",
+              "SourceString": "Yes?",
+              "LocalizedString": "Yes?"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'Yes_Oldman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/Male_Old_General/Yes_Oldman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "959A368C459EBCBC1C2B55BD4229C37A",
+              "SourceString": "What?",
+              "LocalizedString": "What?"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'What_Oldman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/Male_Old_General/What_Oldman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "64ED0E924B4EB4F5AA66709B549EE3F2",
+              "SourceString": "I already miss the rush of being in battle.",
+              "LocalizedString": "I already miss the rush of being in battle."
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'MissBattle_Old'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/Male_Old_General/MissBattle_Old.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "ED7EC8094C1F5982030194884B909F01",
+              "SourceString": "Quite a day, isn't it?",
+              "LocalizedString": "Quite a day, isn't it?"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'QuiteADay_Oldman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/Male_Old_General/QuiteADay_Oldman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "7EEA496C4A1905D3C7AE35AF740A506A",
+              "SourceString": "Good day!",
+              "LocalizedString": "Good day!"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'GoodDay_Oldman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/Male_Old_General/GoodDay_Oldman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "B91D932046A5100F072D749B6CA169C8",
+              "SourceString": "Beer, ale, rum - I'd take any right now!",
+              "LocalizedString": "Beer, ale, rum - I'd take any right now!"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'BeerAleRum'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/Male_Old_General/BeerAleRum.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "B6704ECB4E07DFD564E10797ADC8A033",
+              "SourceString": "Something wrong?",
+              "LocalizedString": "Something wrong?"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'SomethingWrong_Oldman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/Male_Old_General/SomethingWrong_Oldman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "A254562A4C36806CA508FABCEA00A3C0",
+              "SourceString": "Have you killed any goblins lately?",
+              "LocalizedString": "Have you killed any goblins lately?"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'KilledAnyGoblins'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/Male_Old_General/KilledAnyGoblins.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "C63333704F4E454E69DA2D852D31974E",
+              "SourceString": "Rain or shine - I love the outdoors!",
+              "LocalizedString": "Rain or shine - I love the outdoors!"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'RainOrShine'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/Male_Old_General/RainOrShine.0"
+            }
+          }
+        ]
+      },
+      "IrishDwarf": {
+        "GenderRace_4_FAF456A146DEDA934D773C86410F1977": "IrishDwarf",
+        "General_17_CD2BFB384154802F189C71955A281BDA": [
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "8412749848A9B64EE89902ABC9CB34E9",
+              "SourceString": "Do you smell that?",
+              "LocalizedString": "Do you smell that?"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'DoYouSmellThat_Irishman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/Irishman/DoYouSmellThat_Irishman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "38222A464ECDAC1D7161A3B2A03A0E64",
+              "SourceString": "Can't get enough of this place.",
+              "LocalizedString": "Can't get enough of this place."
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'CantGetEnoughOfThisPlace_Irishman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/Irishman/CantGetEnoughOfThisPlace_Irishman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "DDF2C7B342B7E1CD06A041BB75F305A4",
+              "SourceString": "Did you see it? The Ashen Stag in the Glennheim Hills!",
+              "LocalizedString": "Did you see it? The Ashen Stag in the Glennheim Hills!"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'AshenStag'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/Irishman/AshenStag.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "4B4B5E2C4DA6C0642B113197DC5073B9",
+              "SourceString": "A mug of ale, that's what I need",
+              "LocalizedString": "A mug of ale, that's what I need"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'AMugOfAle_Irishman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/Irishman/AMugOfAle_Irishman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "4B11292A437BCEF543C393AC9CB673C5",
+              "SourceString": "Hope there's room enough for a dwarf at the inn.",
+              "LocalizedString": "Hope there's room enough for a dwarf at the inn."
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'RoomAtTheInn_Irishman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/Irishman/RoomAtTheInn_Irishman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "5FE3018443A3EDD470C545BC7C608D35",
+              "SourceString": "Well, off to the blacksmith!",
+              "LocalizedString": "Well, off to the blacksmith!"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'OffToTheBlacksmith_Irishman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/Irishman/OffToTheBlacksmith_Irishman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "D671801C44835A254A5749AD39A14799",
+              "SourceString": "I swear on me life - He shagged a Minolurk!",
+              "LocalizedString": "I swear on me life - He shagged a Minolurk!"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'Minolurk_Irishman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/Irishman/Minolurk_Irishman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "CDA23ED744297664B880F481CC598D42",
+              "SourceString": "Can't wait to actually sleep in a bed!",
+              "LocalizedString": "Can't wait to actually sleep in a bed!"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'SleepInABed_Irishman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/Irishman/SleepInABed_Irishman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "72BAAC84437A3E62D88BE089B81C1825",
+              "SourceString": "What a sight!",
+              "LocalizedString": "What a sight!"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'WhatASight_Irishman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/Irishman/WhatASight_Irishman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "4029B5664FAEC881240606AF0C9A5733",
+              "SourceString": "A nice, warm coddle would be nice right about now.",
+              "LocalizedString": "A nice, warm coddle would be nice right about now."
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'NiceWarmCoddle'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/Irishman/NiceWarmCoddle.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "8CDB41D44E9877A78FF9B998BE8CE4F9",
+              "SourceString": "The feeling of this place reminds me of monlodir. Before it was destroyed.",
+              "LocalizedString": "The feeling of this place reminds me of monlodir. Before it was destroyed."
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'Monlodir'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/Irishman/Monlodir.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "722516E74AD5CA817FF6C68F2465AA4B",
+              "SourceString": "A honey glazed ham with a big mug of wine would be nice!",
+              "LocalizedString": "A honey glazed ham with a big mug of wine would be nice!"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'HoneyGlazedHam_Irishman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/Irishman/HoneyGlazedHam_Irishman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "B06ADACF422D62ECFF827EA00B8AF620",
+              "SourceString": "I need beer!",
+              "LocalizedString": "I need beer!"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'INeedBeer_Irishman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/Irishman/INeedBeer_Irishman.0"
+            }
+          }
+        ],
+        "WitnessedCrime_22_C23C1DA2422580D909E4AD84DBBE52FF": [
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "20112B68469990416B1151A2335FD43C",
+              "SourceString": "What?!",
+              "LocalizedString": "What?!"
+            },
+            "VoiceLineWav_6_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundCue'AngryMale'",
+              "ObjectPath": "TheBloodline/Content/BattleScreamsVoicePack/Cues/AngryMale.0"
+            }
+          }
+        ],
+        "Pickpocketed_23_E0A605A64348EEDFCB0F2499912CD2F4": [
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "20112B68469990416B1151A2335FD43C",
+              "SourceString": "What?!",
+              "LocalizedString": "What?!"
+            },
+            "VoiceLineWav_6_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundCue'AngryMale'",
+              "ObjectPath": "TheBloodline/Content/BattleScreamsVoicePack/Cues/AngryMale.0"
+            }
+          }
+        ],
+        "Approached_26_F9C816814EDC4C03CA4A4BA06F357698": [
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "52CBBD1D472FDDAEA99D319CA04A4098",
+              "SourceString": "Yes?",
+              "LocalizedString": "Yes?"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'Yes_Irishman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/Irishman/Yes_Irishman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "0F29F55F49AFEB08CEA688ABD2207BF6",
+              "SourceString": "A nice, warm coddle would be nice right about now.",
+              "LocalizedString": "A nice, warm coddle would be nice right about now."
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'NiceWarmCoddle'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/Irishman/NiceWarmCoddle.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "BDCE69564CE359147134E48B4CBF452A",
+              "SourceString": "It's just about nap time.",
+              "LocalizedString": "It's just about nap time."
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'NapTime_Irishman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/Irishman/NapTime_Irishman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "59A22DBE4EF852C684F6C09674DC4388",
+              "SourceString": "My back is killin' me.",
+              "LocalizedString": "My back is killin' me."
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'MyBack_Irishman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/Irishman/MyBack_Irishman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "F5E5EB33432FC0092EA1048CB3BC7D12",
+              "SourceString": "I need beer!",
+              "LocalizedString": "I need beer!"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'INeedBeer_Irishman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/Irishman/INeedBeer_Irishman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "18F978204583ACE69A6A168080F6E82E",
+              "SourceString": "Good day!",
+              "LocalizedString": "Good day!"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'GoodDay_Irishman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/Irishman/GoodDay_Irishman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "7F32732D4C6D8224BDD5F1A6EF99B097",
+              "SourceString": "I saw some Griffins up near Khenmoore - aren't they beautiful creatures?",
+              "LocalizedString": "I saw some Griffins up near Khenmoore - aren't they beautiful creatures?"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'Griffins_irishman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/Irishman/Griffins_irishman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "5A3BC1C04F716F2B414AD590555DED32",
+              "SourceString": "Give me a hammer and a forge and I'll be a happy Dwarf.",
+              "LocalizedString": "Give me a hammer and a forge and I'll be a happy Dwarf."
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'HammerAndForge_Irishman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/Irishman/HammerAndForge_Irishman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "5111F21F46A8BBD5CF51EC9833B8AD53",
+              "SourceString": "I heard there's a spirit that roams the Hills of Delvanaugh.",
+              "LocalizedString": "I heard there's a spirit that roams the Hills of Delvanaugh."
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'HillsOfDelvenaugh'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/Irishman/HillsOfDelvenaugh.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "8C23B7A14D48350BE50657A23B4E4570",
+              "SourceString": "Careful with those Askillians - They're a rowdy bunch and right deadly with a blade.",
+              "LocalizedString": "Careful with those Askillians - They're a rowdy bunch and right deadly with a blade."
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'AskillianWarning'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/Irishman/AskillianWarning.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "2518C6A74AB08AE30E1E5C84ECF197C9",
+              "SourceString": "Sure, a crossbow is nice, but nothing beats a musket.",
+              "LocalizedString": "Sure, a crossbow is nice, but nothing beats a musket."
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'CrossbowVSMusket_irishman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/Irishman/CrossbowVSMusket_irishman.0"
+            }
+          }
+        ]
+      },
+      "EnglishmanDwarf": {
+        "GenderRace_4_FAF456A146DEDA934D773C86410F1977": "EnglishmanDwarf",
+        "General_17_CD2BFB384154802F189C71955A281BDA": [
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "4B4B5E2C4DA6C0642B113197DC5073B9",
+              "SourceString": "A mug of ale, that's what I need",
+              "LocalizedString": "A mug of ale, that's what I need"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'AMugOfAle_Engman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/Englishman/AMugOfAle_Engman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "EDC86E8D410EC2F9293FB6AC73C087B2",
+              "SourceString": "I sure hope they have a bed available at the inn.",
+              "LocalizedString": "I sure hope they have a bed available at the inn."
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'Aye_Engman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/Englishman/Aye_Engman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "1C3377BD43DC2758FAF1C9A69E101C71",
+              "SourceString": "Let's get to the Tavern.",
+              "LocalizedString": "Let's get to the Tavern."
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'LetsGetToTheTavern_Engman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/Englishman/LetsGetToTheTavern_Engman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "6D5E236B4EBAD4F8D8AAA99B45468B87",
+              "SourceString": "I wonder if the Lionsmane are looking to hire.",
+              "LocalizedString": "I wonder if the Lionsmane are looking to hire."
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'Lionsmane_engman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/Englishman/Lionsmane_engman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "F4CA3ED0432F0248044DB8BD30A7BAEB",
+              "SourceString": "I'm going to need a restroom... FAST.",
+              "LocalizedString": "I'm going to need a restroom... FAST."
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'NeedARestroom_Engman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/Englishman/NeedARestroom_Engman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "B3B5306342E4777C8645428C318659FF",
+              "SourceString": "You think there's any salted pork here?",
+              "LocalizedString": "You think there's any salted pork here?"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'SaltedPork_Engman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/Englishman/SaltedPork_Engman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "5CEB92E5453E38B49FD6E79FA6D38FA1",
+              "SourceString": "It sure smells nice here!",
+              "LocalizedString": "It sure smells nice here!"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'SmellsNiceHere_Engman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/Englishman/SmellsNiceHere_Engman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "9EC3990B41DA1CAB31106F8535243A0B",
+              "SourceString": "What a beautiful day!",
+              "LocalizedString": "What a beautiful day!"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'WhatABeautifulDay_Engman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/Englishman/WhatABeautifulDay_Engman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "95EB239146F37E87728723A72E495623",
+              "SourceString": "Who needs magic when you have a blade?",
+              "LocalizedString": "Who needs magic when you have a blade?"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'WhatANiceTown_Engman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/Englishman/WhatANiceTown_Engman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "216517B34275A214678B1F8EE82BA61F",
+              "SourceString": "Let's get to the Tavern!",
+              "LocalizedString": "Let's get to the Tavern!"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'LetsGetToTheTavern_Engman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/Englishman/LetsGetToTheTavern_Engman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "0E23290E44ABC6704A9187BF3C905B1B",
+              "SourceString": "My axe was stolen from my room when I stayed the night in Woodhurst.",
+              "LocalizedString": "My axe was stolen from my room when I stayed the night in Woodhurst."
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'Woodhurst_Axe_Stolen_Engman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/Englishman/Woodhurst_Axe_Stolen_Engman.0"
+            }
+          }
+        ],
+        "WitnessedCrime_22_C23C1DA2422580D909E4AD84DBBE52FF": [
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "20112B68469990416B1151A2335FD43C",
+              "SourceString": "What?!",
+              "LocalizedString": "What?!"
+            },
+            "VoiceLineWav_6_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundCue'AngryMale'",
+              "ObjectPath": "TheBloodline/Content/BattleScreamsVoicePack/Cues/AngryMale.0"
+            }
+          }
+        ],
+        "Pickpocketed_23_E0A605A64348EEDFCB0F2499912CD2F4": [
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "20112B68469990416B1151A2335FD43C",
+              "SourceString": "What?!",
+              "LocalizedString": "What?!"
+            },
+            "VoiceLineWav_6_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundCue'AngryMale'",
+              "ObjectPath": "TheBloodline/Content/BattleScreamsVoicePack/Cues/AngryMale.0"
+            }
+          }
+        ],
+        "Approached_26_F9C816814EDC4C03CA4A4BA06F357698": [
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "3D3267B94B99C384775E5388F1B21873",
+              "SourceString": "Aye?",
+              "LocalizedString": "Aye?"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'Aye_Engman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/Englishman/Aye_Engman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "EDC86E8D410EC2F9293FB6AC73C087B2",
+              "SourceString": "I sure hope they have a bed available at the inn.",
+              "LocalizedString": "I sure hope they have a bed available at the inn."
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'BedAvailable_Engman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/Englishman/BedAvailable_Engman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "7CBA74624A5AD9B6219E7D949B234617",
+              "SourceString": "Be wary of traveling to the old dwarven city of Monodir - It is not longer safe to do so.",
+              "LocalizedString": "Be wary of traveling to the old dwarven city of Monodir - It is not longer safe to do so."
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'BeWaryMonlodir_engman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/Englishman/BeWaryMonlodir_engman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "5F409CD64E9D9BDCB6476898D7F78A1B",
+              "SourceString": "Can I help you?",
+              "LocalizedString": "Can I help you?"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'CanIHelpYou_Engman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/Englishman/CanIHelpYou_Engman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "A06209514D2B4A32257F86A4A2355AF9",
+              "SourceString": "Looking for a companion?",
+              "LocalizedString": "Looking for a companion?"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'Companion_Engman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/Englishman/Companion_Engman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "619B3B1A423305783C543DA74DFA860E",
+              "SourceString": "I heard if you steal something valuable - The Company of Thieves will know.",
+              "LocalizedString": "I heard if you steal something valuable - The Company of Thieves will know."
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'CompanyOfThievesInfo_engman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/Englishman/CompanyOfThievesInfo_engman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "807BEE4B43886D4E9BFD6DA51E594E20",
+              "SourceString": "Dwarves might not be great spellcasters - but we're great at creating magical objects.",
+              "LocalizedString": "Dwarves might not be great spellcasters - but we're great at creating magical objects."
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'DwarfMagicalObjects_engman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/Englishman/DwarfMagicalObjects_engman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "5578D3734E2CBADF998D41BF2DFBB689",
+              "SourceString": "Dwarven Doors can be fickle things. Be sure to hear what they have to say, should you happen upon one.",
+              "LocalizedString": "Dwarven Doors can be fickle things. Be sure to hear what they have to say, should you happen upon one."
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'DwarvenDoors_engman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/Englishman/DwarvenDoors_engman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "DD6443F74A7FB8EB863EAA96569B7D12",
+              "SourceString": "Be wary of Goblins - some carry poisoned daggers",
+              "LocalizedString": "Be wary of Goblins - some carry poisoned daggers"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'Goblins_Engman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/Englishman/Goblins_Engman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "FC49FD4D42AD54113327E9A8A59034DF",
+              "SourceString": "The Company of Thieves has been causing much more trouble in Khenmoore lately. ",
+              "LocalizedString": "The Company of Thieves has been causing much more trouble in Khenmoore lately. "
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'KhenmooreCompanyOfThieves_ENGMAN'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/Englishman/KhenmooreCompanyOfThieves_ENGMAN.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "6D5E236B4EBAD4F8D8AAA99B45468B87",
+              "SourceString": "I wonder if the Lionsmane are looking to hire.",
+              "LocalizedString": "I wonder if the Lionsmane are looking to hire."
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'Lionsmane_engman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/Englishman/Lionsmane_engman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "AE45FBE04FA68BEB221DE5A6B158B44A",
+              "SourceString": "The Rams in Lonland make for fine mounts. Keep your eyes out for one!",
+              "LocalizedString": "The Rams in Lonland make for fine mounts. Keep your eyes out for one!"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'LonlandRams_Engman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/Englishman/LonlandRams_Engman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "1C0F22CB4A2EA7679B733098CE44E744",
+              "SourceString": "Oh Gods, how I miss Monlodir.",
+              "LocalizedString": "Oh Gods, how I miss Monlodir."
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'MissMonlodir_Engman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/Englishman/MissMonlodir_Engman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "F4CA3ED0432F0248044DB8BD30A7BAEB",
+              "SourceString": "I'm going to need a restroom... FAST.",
+              "LocalizedString": "I'm going to need a restroom... FAST."
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'NeedARestroom_Engman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/Englishman/NeedARestroom_Engman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "5D6219BC4A66C3562AD97DBE74EE28EE",
+              "SourceString": "Something you need?",
+              "LocalizedString": "Something you need?"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'SomethingYouNeed_engman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/Englishman/SomethingYouNeed_engman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "E3E37B024BBB3D00157954A51257A6B5",
+              "SourceString": "It's hard to belive, but I heard tell of a Warp Titan being spotted somewhere in Elderheim.",
+              "LocalizedString": "It's hard to belive, but I heard tell of a Warp Titan being spotted somewhere in Elderheim."
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'WarpTitan_Elderheim_Engman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/Englishman/WarpTitan_Elderheim_Engman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "32ECEA3248AD6833542797B36499012A",
+              "SourceString": "What?",
+              "LocalizedString": "What?"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'What_Engman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/Englishman/What_Engman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "95EB239146F37E87728723A72E495623",
+              "SourceString": "Who needs magic when you have a blade?",
+              "LocalizedString": "Who needs magic when you have a blade?"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'WhoNeedsMagic_Engman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/Englishman/WhoNeedsMagic_Engman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "A089157B40F969EB98EDA99BC44A4A41",
+              "SourceString": "Somewhere within the Wolfdover Timberland are some Dwarven ruins.",
+              "LocalizedString": "Somewhere within the Wolfdover Timberland are some Dwarven ruins."
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'WolfdoverRuins_engman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/Englishman/WolfdoverRuins_engman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "0E23290E44ABC6704A9187BF3C905B1B",
+              "SourceString": "My axe was stolen from my room when I stayed the night in Woodhurst.",
+              "LocalizedString": "My axe was stolen from my room when I stayed the night in Woodhurst."
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'Woodhurst_Axe_Stolen_Engman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/Englishman/Woodhurst_Axe_Stolen_Engman.0"
+            }
+          }
+        ]
+      },
+      "YoungWoman": {
+        "GenderRace_4_FAF456A146DEDA934D773C86410F1977": "YoungWoman",
+        "General_17_CD2BFB384154802F189C71955A281BDA": [
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "4B4B5E2C4DA6C0642B113197DC5073B9",
+              "SourceString": "A mug of ale, that's what I need",
+              "LocalizedString": "A mug of ale, that's what I need"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'Hey_YoungWoman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/YoungWoman/Hey_YoungWoman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "943543044CEB78E96794CEAE57CF9BDD",
+              "SourceString": "Can you smell that?",
+              "LocalizedString": "Can you smell that?"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'CanYouSmellThat'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/YoungWoman/CanYouSmellThat.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "E85CC91B40F1C894DD125DA1056F09A1",
+              "SourceString": "I could go for a turkey leg.",
+              "LocalizedString": "I could go for a turkey leg."
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'CouldGoForATurkeyLeg_YoungWoman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/YoungWoman/CouldGoForATurkeyLeg_YoungWoman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "FB790ECF401BF28539A7B6AC87268410",
+              "SourceString": "Gods, my feet are killing me.",
+              "LocalizedString": "Gods, my feet are killing me."
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'Feetarekillingme_YoungWoman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/YoungWoman/Feetarekillingme_YoungWoman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "0FC5594542030FDD9B8B5C8A87EEE7CA",
+              "SourceString": "I hope there's room at the inn.",
+              "LocalizedString": "I hope there's room at the inn."
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'IHopeTheresRoom_YoungWoman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/YoungWoman/IHopeTheresRoom_YoungWoman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "3AFAF01247A1FC3E4F5C4AAD20E72127",
+              "SourceString": "I wonder if the Lionsmane is recruiting new members...",
+              "LocalizedString": "I wonder if the Lionsmane is recruiting new members..."
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'Lionsmane_YoungWoman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/YoungWoman/Lionsmane_YoungWoman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "9365F7374EAAAE0632A26A8C0B099EC5",
+              "SourceString": "Such a nice town!",
+              "LocalizedString": "Such a nice town!"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'SuchANiceTown_YoungWoman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/YoungWoman/SuchANiceTown_YoungWoman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "0D0021664269A1BF9684598FC6AF9637",
+              "SourceString": "Time to do some business!",
+              "LocalizedString": "Time to do some business!"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'TimeToDoSomeBusiness_YoungWoman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/YoungWoman/TimeToDoSomeBusiness_YoungWoman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "61C619B64BA4D9B8BABE0AB853BE50D2",
+              "SourceString": "What a day!",
+              "LocalizedString": "What a day!"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'WhatADay_YoungWoman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/YoungWoman/WhatADay_YoungWoman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "0A64B9D14C70D6EE7D110CAAED5CC46B",
+              "SourceString": "What a nice day!",
+              "LocalizedString": "What a nice day!"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'WhatANiceDay_YoungWoman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/YoungWoman/WhatANiceDay_YoungWoman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "1D9196B84697D34B94F06AAC30AE2DAF",
+              "SourceString": "What did I just step in?",
+              "LocalizedString": "What did I just step in?"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'WhatDidIJustStepIn_YoungWoman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/YoungWoman/WhatDidIJustStepIn_YoungWoman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "679ADB714BD26D82251341A70815ADE3",
+              "SourceString": "Where's the tavern?",
+              "LocalizedString": "Where's the tavern?"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'WheresTheTavern_YoungWoman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/YoungWoman/WheresTheTavern_YoungWoman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "407444B04487918BE6D802BD96956D9F",
+              "SourceString": "I wonder if there's a blacksmith here..",
+              "LocalizedString": "I wonder if there's a blacksmith here.."
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'WonderIfTheresABlacksmith_YoungWoman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/YoungWoman/WonderIfTheresABlacksmith_YoungWoman.0"
+            }
+          }
+        ],
+        "WitnessedCrime_22_C23C1DA2422580D909E4AD84DBBE52FF": [
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "20112B68469990416B1151A2335FD43C",
+              "SourceString": "What?!",
+              "LocalizedString": "What?!"
+            },
+            "VoiceLineWav_6_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundCue'AngryMale'",
+              "ObjectPath": "TheBloodline/Content/BattleScreamsVoicePack/Cues/AngryMale.0"
+            }
+          }
+        ],
+        "Pickpocketed_23_E0A605A64348EEDFCB0F2499912CD2F4": [
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "20112B68469990416B1151A2335FD43C",
+              "SourceString": "What?!",
+              "LocalizedString": "What?!"
+            },
+            "VoiceLineWav_6_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundCue'AngryMale'",
+              "ObjectPath": "TheBloodline/Content/BattleScreamsVoicePack/Cues/AngryMale.0"
+            }
+          }
+        ],
+        "Approached_26_F9C816814EDC4C03CA4A4BA06F357698": [
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "AD25043546A4AE21DE62878BF4D88E26",
+              "SourceString": "Are you looking for a companion?",
+              "LocalizedString": "Are you looking for a companion?"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'AreYouLookingForACompanion_YoungWoman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/YoungWoman/AreYouLookingForACompanion_YoungWoman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "D53AF58C46FE540F2898C9B40D709C80",
+              "SourceString": "If you're ever in Woodhurst, be sure to visit the Castleside Inn.",
+              "LocalizedString": "If you're ever in Woodhurst, be sure to visit the Castleside Inn."
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'CastlesideInn_YoungWoman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/YoungWoman/CastlesideInn_YoungWoman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "5A93CADC44C17163DFE60985AB88274C",
+              "SourceString": "I heard if you steal something valuable enough, the Company of Thieves will know.",
+              "LocalizedString": "I heard if you steal something valuable enough, the Company of Thieves will know."
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'CompanyOfThieves_YoungWoman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/YoungWoman/CompanyOfThieves_YoungWoman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "7C803F8B44DF4D0AFCFC6E93DB910540",
+              "SourceString": "Don't mind me.",
+              "LocalizedString": "Don't mind me."
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'DontMindMe_YoungWoman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/YoungWoman/DontMindMe_YoungWoman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "446E4C484207A2F5C9E8809D3ABFA4E7",
+              "SourceString": "Elderheim is quite nice this time of year.",
+              "LocalizedString": "Elderheim is quite nice this time of year."
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'ElderheimIsNice_YoungWoman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/YoungWoman/ElderheimIsNice_YoungWoman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "FB790ECF401BF28539A7B6AC87268410",
+              "SourceString": "Gods, my feet are killing me.",
+              "LocalizedString": "Gods, my feet are killing me."
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'Feetarekillingme_YoungWoman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/YoungWoman/Feetarekillingme_YoungWoman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "D1A60D284ABA336FE0DC26BECA083E5E",
+              "SourceString": "Good day.",
+              "LocalizedString": "Good day."
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'GoodDay_YoungWoman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/YoungWoman/GoodDay_YoungWoman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "99C5CE644C0963AF51257EA9D022F583",
+              "SourceString": "I heard small dragons have been spotted near the Green Pass.",
+              "LocalizedString": "I heard small dragons have been spotted near the Green Pass."
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'GreenPassDragons_YoungWoman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/YoungWoman/GreenPassDragons_YoungWoman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "523D436E40A89CDD11BE2C98CD2FCE86",
+              "SourceString": "Greetings",
+              "LocalizedString": "Greetings"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'Greetings_YoungWoman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/YoungWoman/Greetings_YoungWoman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "87A1A3FB48BBD74D6713888575818FFD",
+              "SourceString": "Hi.",
+              "LocalizedString": "Hi."
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'Hi_YoungWoman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/YoungWoman/Hi_YoungWoman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "DC14B6494A226CC65AE874B5EF3E7A82",
+              "SourceString": "I really should see to my studies.",
+              "LocalizedString": "I really should see to my studies."
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'IShoulSeeToMyStudies_YoungWoman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/YoungWoman/IShoulSeeToMyStudies_YoungWoman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "5B3DF39C49B8FDA4C91D898DBA6F7EE5",
+              "SourceString": "Is there something I can do for you?",
+              "LocalizedString": "Is there something I can do for you?"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'IsThereSomethingICanDoForYou_YoungWoman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/YoungWoman/IsThereSomethingICanDoForYou_YoungWoman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "CE30D30A40CB418F8ACF2B8F5D6EB570",
+              "SourceString": "Is there something on my face?",
+              "LocalizedString": "Is there something on my face?"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'IsThereSomethingOnMyFace_YoungWoman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/YoungWoman/IsThereSomethingOnMyFace_YoungWoman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "E89E37D64046F82A7170D596A1AD405E",
+              "SourceString": "Have you killed any Goblins lately?",
+              "LocalizedString": "Have you killed any Goblins lately?"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'KilledAnyGoblins_YoungWoman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/YoungWoman/KilledAnyGoblins_YoungWoman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "3AFAF01247A1FC3E4F5C4AAD20E72127",
+              "SourceString": "I wonder if the Lionsmane is recruiting new members...",
+              "LocalizedString": "I wonder if the Lionsmane is recruiting new members..."
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'Lionsmane_YoungWoman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/YoungWoman/Lionsmane_YoungWoman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "F429C7A34E8830B85847EBAE2F9D91B5",
+              "SourceString": "Something you need?",
+              "LocalizedString": "Something you need?"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'SomethingYouNeed_YoungWoman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/YoungWoman/SomethingYouNeed_YoungWoman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "19B6AD8640CFC0E36F697BB4B0CC5B00",
+              "SourceString": "Speak.",
+              "LocalizedString": "Speak."
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'Speak_YoungWoman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/YoungWoman/Speak_YoungWoman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "01D81B384C5A2D3F87AA51BA0AD36A58",
+              "SourceString": "I heard some Treefolk are coming from the west becuase of a disease that is plaguing them in their homeland.",
+              "LocalizedString": "I heard some Treefolk are coming from the west becuase of a disease that is plaguing them in their homeland."
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'TreefolkMigration_Youngwoman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/YoungWoman/TreefolkMigration_Youngwoman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "BE7F0DEA49E55F34AE20DBA9B1F6E652",
+              "SourceString": "Watch your coinpurse - Lot's pickpockets out today.",
+              "LocalizedString": "Watch your coinpurse - Lot's pickpockets out today."
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'WathcYourCoinpurse_Youngwoman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/YoungWoman/WathcYourCoinpurse_Youngwoman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "B433200C4A6DFF37A285408D71FE4110",
+              "SourceString": "What?",
+              "LocalizedString": "What?"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'What_YoungWoman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/YoungWoman/What_YoungWoman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "0A64B9D14C70D6EE7D110CAAED5CC46B",
+              "SourceString": "What a nice day!",
+              "LocalizedString": "What a nice day!"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'WhatANiceDay_YoungWoman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/YoungWoman/WhatANiceDay_YoungWoman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "2869039B4331B3F7118F8EAF2FB8AD81",
+              "SourceString": "There's word of Warp Gates opening in the skies around Wolfden Priory. Wonder what's going on?",
+              "LocalizedString": "There's word of Warp Gates opening in the skies around Wolfden Priory. Wonder what's going on?"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'WolfdenWarpgates_YoungWoman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/YoungWoman/WolfdenWarpgates_YoungWoman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "8F65423741F12102908F37B3D882522B",
+              "SourceString": "Yeah?",
+              "LocalizedString": "Yeah?"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'Yeah_YoungWoman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/YoungWoman/Yeah_YoungWoman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "DA7F128248D70A9BD4008AA8BE1648C2",
+              "SourceString": "Yes?",
+              "LocalizedString": "Yes?"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'Yes_YoungWoman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/YoungWoman/Yes_YoungWoman.0"
+            }
+          }
+        ]
+      },
+      "WiseWoman": {
+        "GenderRace_4_FAF456A146DEDA934D773C86410F1977": "WiseWoman",
+        "General_17_CD2BFB384154802F189C71955A281BDA": [
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "5999582448C2FB4ED96C6595184BFDFF",
+              "SourceString": "A mug of ale, that sounds nice right about now.",
+              "LocalizedString": "A mug of ale, that sounds nice right about now."
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'AMugOfAle_WiseWoman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/WiseWoman/AMugOfAle_WiseWoman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "D3E765394FECB7D9ACE8E6803BF2A8EF",
+              "SourceString": "I love how this place smells.",
+              "LocalizedString": "I love how this place smells."
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'ILoveHowThisPlaceSmells'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/WiseWoman/ILoveHowThisPlaceSmells.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "A29FFFE64FD3CFCC61208ABE2CD9CDA5",
+              "SourceString": "Can't wait to go to sleep.",
+              "LocalizedString": "Can't wait to go to sleep."
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'CantWaitToGoToSleep_WiseWoman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/WiseWoman/CantWaitToGoToSleep_WiseWoman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "64B98D4F4A90B8630C8DA5A98F355488",
+              "SourceString": "Damned Company of Thieves - Always stealing things!",
+              "LocalizedString": "Damned Company of Thieves - Always stealing things!"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'DamnedCompanyOfthieves_WiseWoman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/WiseWoman/DamnedCompanyOfthieves_WiseWoman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "B537D1024043227433E28C9CB21B84C6",
+              "SourceString": "I could go for a turkey leg",
+              "LocalizedString": "I could go for a turkey leg"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'ICouldGoForATurkeyLeg_WiseWoman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/WiseWoman/ICouldGoForATurkeyLeg_WiseWoman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "D6A413EF48B9F6D72E511F9A40C2B63C",
+              "SourceString": "I've got to go pick up some potions.",
+              "LocalizedString": "I've got to go pick up some potions."
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'PickUpPotions_WiseWoman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/WiseWoman/PickUpPotions_WiseWoman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "EEFAC33C4370FE3954E40EB1930D6C75",
+              "SourceString": "Quite the sight!",
+              "LocalizedString": "Quite the sight!"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'QuiteTheSight_WiseWoman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/WiseWoman/QuiteTheSight_WiseWoman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "F03B95514C3B2ACBC99B7BA1EBB8A301",
+              "SourceString": "Do I smell roasted pork?",
+              "LocalizedString": "Do I smell roasted pork?"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'RoastedPork_WiseWoman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/WiseWoman/RoastedPork_WiseWoman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "3A50224440F6E85D37F12698B6FBF014",
+              "SourceString": "I hope there's room for me at the Inn.",
+              "LocalizedString": "I hope there's room for me at the Inn."
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'RoomAtTheInn_WiseWoman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/WiseWoman/RoomAtTheInn_WiseWoman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "A512B82843F8AC8DA6728580BA2DF97F",
+              "SourceString": "What a day!",
+              "LocalizedString": "What a day!"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'WhatADay_WiseWoman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/WiseWoman/WhatADay_WiseWoman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "7A463888499479F0E5AD1583988CCC56",
+              "SourceString": "What a nice town this is!",
+              "LocalizedString": "What a nice town this is!"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'WhatANiceTownThisIs_WiseWoman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/WiseWoman/WhatANiceTownThisIs_WiseWoman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "6F1549864727E6319D32BCBAB490CD43",
+              "SourceString": "What did I just step in?",
+              "LocalizedString": "What did I just step in?"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'WhatDidIJustStepIn_WiseWoman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/WiseWoman/WhatDidIJustStepIn_WiseWoman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "93874E474E9FF13E91F1D2ADEF67A772",
+              "SourceString": "Where's the tavern?",
+              "LocalizedString": "Where's the tavern?"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'WheresTheTavern_WiseWoman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/WiseWoman/WheresTheTavern_WiseWoman.0"
+            }
+          }
+        ],
+        "WitnessedCrime_22_C23C1DA2422580D909E4AD84DBBE52FF": [
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "20112B68469990416B1151A2335FD43C",
+              "SourceString": "What?!",
+              "LocalizedString": "What?!"
+            },
+            "VoiceLineWav_6_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundCue'AngryMale'",
+              "ObjectPath": "TheBloodline/Content/BattleScreamsVoicePack/Cues/AngryMale.0"
+            }
+          }
+        ],
+        "Pickpocketed_23_E0A605A64348EEDFCB0F2499912CD2F4": [
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "20112B68469990416B1151A2335FD43C",
+              "SourceString": "What?!",
+              "LocalizedString": "What?!"
+            },
+            "VoiceLineWav_6_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundCue'AngryMale'",
+              "ObjectPath": "TheBloodline/Content/BattleScreamsVoicePack/Cues/AngryMale.0"
+            }
+          }
+        ],
+        "Approached_26_F9C816814EDC4C03CA4A4BA06F357698": [
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "FDF9ED33407EEEB2322C19994BE36013",
+              "SourceString": "There's a blacksmith in Khenmoore that owns an Arcane Forge.",
+              "LocalizedString": "There's a blacksmith in Khenmoore that owns an Arcane Forge."
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'ArcaneForge_WiseWoman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/WiseWoman/ArcaneForge_WiseWoman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "528EF33C472C53DD2E4971AF0B62842D",
+              "SourceString": "Beautiful day, isn't it?",
+              "LocalizedString": "Beautiful day, isn't it?"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'BeautifulDayIsntIt_WiseWoman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/WiseWoman/BeautifulDayIsntIt_WiseWoman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "022C93C2445F81A5BE934BA8513314A7",
+              "SourceString": "Can I help you?",
+              "LocalizedString": "Can I help you?"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'CanIHelpYou_WiseWoman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/WiseWoman/CanIHelpYou_WiseWoman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "461434A2413EC2DC286729827B7160B4",
+              "SourceString": "Do you need something?",
+              "LocalizedString": "Do you need something?"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'DoYouNeedSomething_WiseWoman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/WiseWoman/DoYouNeedSomething_WiseWoman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "A6DB7D3D44DE3DEAF08BD99C9194ACEA",
+              "SourceString": "Greetings!",
+              "LocalizedString": "Greetings!"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'Greetings_WiseWoman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/WiseWoman/Greetings_WiseWoman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "3D6AE9BC4BBFED0F59FF7E9C7F6DA451",
+              "SourceString": "I've heard stories that the Hills of Delvanaugh are haunted by a strange spirit.",
+              "LocalizedString": "I've heard stories that the Hills of Delvanaugh are haunted by a strange spirit."
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'HauntedHills_WiseWoman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/WiseWoman/HauntedHills_WiseWoman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "838A1E954B651355252A6F8F5695E3CE",
+              "SourceString": "I heard Lake Ellismere is haunted!",
+              "LocalizedString": "I heard Lake Ellismere is haunted!"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'HauntedLake_WiseWoman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/WiseWoman/HauntedLake_WiseWoman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "7CC4966F414DE893F64AC6B26B03EFA1",
+              "SourceString": "Hi.",
+              "LocalizedString": "Hi."
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'Hi_WiseWoman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/WiseWoman/Hi_WiseWoman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "3C5E4796411E90E24E0E0185151728BC",
+              "SourceString": "It's rude to stare.",
+              "LocalizedString": "It's rude to stare."
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'ItsRudeToStare_WiseWoman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/WiseWoman/ItsRudeToStare_WiseWoman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "4187A0C94883029A4B0C3096189B1CBB",
+              "SourceString": "If you're interested - I heard the Lionsmane is recruiting new members.",
+              "LocalizedString": "If you're interested - I heard the Lionsmane is recruiting new members."
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'Lionsmane_WiseWoman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/WiseWoman/Lionsmane_WiseWoman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "8DD92BB64EEBBE9CB8A81DB9BD36801D",
+              "SourceString": "Have you been to the Mages College in Elderheim? It's quite beautiful.",
+              "LocalizedString": "Have you been to the Mages College in Elderheim? It's quite beautiful."
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'MagesCollege_WiseWoman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/WiseWoman/MagesCollege_WiseWoman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "46DF61A94CACC1803B09FE8E813D7064",
+              "SourceString": "Oh, gods...",
+              "LocalizedString": "Oh, gods..."
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'OhGods_WiseWoman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/WiseWoman/OhGods_WiseWoman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "663C487F45AC5094C5F5A89E051E360A",
+              "SourceString": "Something you need?",
+              "LocalizedString": "Something you need?"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'SomethingYouNeed_WiseWoman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/WiseWoman/SomethingYouNeed_WiseWoman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "C8AA62DA498A5A056320C386CC590A2E",
+              "SourceString": "Speak.",
+              "LocalizedString": "Speak."
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'Speak_WiseWoman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/WiseWoman/Speak_WiseWoman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "2C92C6E745E373E626D87DB379A6E7DB",
+              "SourceString": "Watch your coinpurse - lots of pickpockets about!",
+              "LocalizedString": "Watch your coinpurse - lots of pickpockets about!"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'WatchYourCoinpurse_WiseWoman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/WiseWoman/WatchYourCoinpurse_WiseWoman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "B3E9F1D4404975606A5E93B1C744708A",
+              "SourceString": "What?",
+              "LocalizedString": "What?"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'What_WiseWoman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/WiseWoman/What_WiseWoman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "B700A3284F5E214DA907E28DADD95AE5",
+              "SourceString": "What can I do for you?",
+              "LocalizedString": "What can I do for you?"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'WhatCanIDoForYou_WiseWoman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/WiseWoman/WhatCanIDoForYou_WiseWoman.0"
+            }
+          },
+          {
+            "VoiceLineText_2_E9331CA94946514F7D8AC690DC3D2DB6": {
+              "Namespace": "",
+              "Key": "19DC8AD242B28E0410662AB2FDE31F95",
+              "SourceString": "Yes?",
+              "LocalizedString": "Yes?"
+            },
+            "VoiceLineWav_5_BAD9496B4DF61C95BA6D839102FE2297": {
+              "ObjectName": "SoundWave'Yes_WiseWoman'",
+              "ObjectPath": "TheBloodline/Content/Character_Voices/Wav_Files/Mumble_talk/Male_3/WiseWoman/Yes_WiseWoman.0"
+            }
+          }
+        ]
+      }
+    }
+  }
+]

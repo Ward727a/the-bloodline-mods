@@ -1,0 +1,60 @@
+[
+    {
+      "Type": "DataTable",
+      "Name": "MagesCollgeRankTable",
+      "Class": "UScriptClass'DataTable'",
+      "Properties": {
+        "RowStruct": {
+          "ObjectName": "UserDefinedStruct'GuildDataTableStruct'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/UI/CharacterSheet/GuildDataTableStruct.0"
+        }
+      },
+      "Rows": {
+        "Novice": {
+          "Guild_2_5BBA0772438092A6358DDB9326D2885B": "Guilds::NewEnumerator2",
+          "RequiredEXP_29_CD65C6B244396D2DF4D837821D6651F3": 250,
+          "Rank_5_EE2F438F4F9E4CC719D52FA559E75684": 1,
+          "RankTitle_18_061D874F403FCDD4559F5C935B23D484": {
+            "Namespace": "",
+            "Key": "7080872543D70EF6348C8683BC5C733C",
+            "SourceString": "Novice",
+            "LocalizedString": "Novice"
+          },
+          "RewardItems_11_9746A7A8404854431EB4E8975D46C93C": [],
+          "RewardGold_15_E84FF4944A5097719DE374A0BD5D8448": 0,
+          "AvailableQuests_23_4589F4E94E5BA961737A1692BCB8BB80": [],
+          "SkillReward_25_ADE2803A4B6C2AE7BCBBACBEB7CFEFF3": []
+        },
+        "Apprentice": {
+          "Guild_2_5BBA0772438092A6358DDB9326D2885B": "Guilds::NewEnumerator2",
+          "RequiredEXP_29_CD65C6B244396D2DF4D837821D6651F3": 350,
+          "Rank_5_EE2F438F4F9E4CC719D52FA559E75684": 2,
+          "RankTitle_18_061D874F403FCDD4559F5C935B23D484": {
+            "Namespace": "",
+            "Key": "964E2C11499EB8703F046AA11743FB12",
+            "SourceString": "Apprentice",
+            "LocalizedString": "Apprentice"
+          },
+          "RewardItems_11_9746A7A8404854431EB4E8975D46C93C": [],
+          "RewardGold_15_E84FF4944A5097719DE374A0BD5D8448": 150,
+          "AvailableQuests_23_4589F4E94E5BA961737A1692BCB8BB80": [],
+          "SkillReward_25_ADE2803A4B6C2AE7BCBBACBEB7CFEFF3": []
+        },
+        "Acolyte": {
+          "Guild_2_5BBA0772438092A6358DDB9326D2885B": "Guilds::NewEnumerator2",
+          "RequiredEXP_29_CD65C6B244396D2DF4D837821D6651F3": 500,
+          "Rank_5_EE2F438F4F9E4CC719D52FA559E75684": 3,
+          "RankTitle_18_061D874F403FCDD4559F5C935B23D484": {
+            "Namespace": "",
+            "Key": "09C0CFF94270CA34DC771095D2ABF11A",
+            "SourceString": "Acolyte",
+            "LocalizedString": "Acolyte"
+          },
+          "RewardItems_11_9746A7A8404854431EB4E8975D46C93C": [],
+          "RewardGold_15_E84FF4944A5097719DE374A0BD5D8448": 250,
+          "AvailableQuests_23_4589F4E94E5BA961737A1692BCB8BB80": [],
+          "SkillReward_25_ADE2803A4B6C2AE7BCBBACBEB7CFEFF3": []
+        }
+      }
+    }
+  ]

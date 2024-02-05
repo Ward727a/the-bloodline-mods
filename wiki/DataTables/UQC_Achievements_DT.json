@@ -1,0 +1,332 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_UQC_Achievements",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "UserDefinedStruct'S_UQC_AchievementStatic'",
+        "ObjectPath": "TheBloodline/Content/UltimateQuestsComp/Structures/S_UQC_AchievementStatic.0"
+      }
+    },
+    "Rows": {
+      "Collect_Box_A": {
+        "ID_19_3197D12143DB81A941BAD981129341F1": "Collect_Box_A",
+        "DisplayName_6_0358FD924EE779DFA7B3749C1196B2E1": {
+          "Namespace": "",
+          "Key": "FABE5E4A49C79FFA1438E8937C3B974B",
+          "SourceString": "Box Beginner",
+          "LocalizedString": "Box Beginner"
+        },
+        "Description_7_3E83967C48CE4B4B5A8E0C80D58138A2": {
+          "Namespace": "",
+          "Key": "A06FF7684292985B272952BD1B68DB1A",
+          "SourceString": "Collect 10 boxes of any color.",
+          "LocalizedString": "Collect 10 boxes of any color."
+        },
+        "ObjectiveType_21_A62E53954B3DBE81CD63F9B494AF93EB": "E_UQC_AchievementObjective::NewEnumerator1",
+        "RequiredProgress_10_3F89468A484CF7FC6FE5FDA217233DEB": 10,
+        "Reward_14_9BF539F34F17701A29235BBC61C747C8": {
+          "XP_4_8B380C6445003689F8C23A9DC5ECF5E0": 30,
+          "Gold_5_E5F1B626441DA3D73ED053861CF5FA1B": 60
+        },
+        "VisibleByDefault_16_710D80F240E9C8F32E2086ABDA0B852D": true,
+        "AchievementsToShowOnFinished_27_7D383CB24D4BC29B9ED57BA33D906A2F": [
+          "Collect_Box_B"
+        ]
+      },
+      "Collect_Box_B": {
+        "ID_19_3197D12143DB81A941BAD981129341F1": "Collect_Box_B",
+        "DisplayName_6_0358FD924EE779DFA7B3749C1196B2E1": {
+          "Namespace": "",
+          "Key": "0C0340E249067771B88C6BBCCCF02E2C",
+          "SourceString": "Box Collector",
+          "LocalizedString": "Box Collector"
+        },
+        "Description_7_3E83967C48CE4B4B5A8E0C80D58138A2": {
+          "Namespace": "",
+          "Key": "F0DA73764C15DD02145668B0A415FCDD",
+          "SourceString": "Collect 30 boxes of any color.",
+          "LocalizedString": "Collect 30 boxes of any color."
+        },
+        "ObjectiveType_21_A62E53954B3DBE81CD63F9B494AF93EB": "E_UQC_AchievementObjective::NewEnumerator1",
+        "RequiredProgress_10_3F89468A484CF7FC6FE5FDA217233DEB": 30,
+        "Reward_14_9BF539F34F17701A29235BBC61C747C8": {
+          "XP_4_8B380C6445003689F8C23A9DC5ECF5E0": 50,
+          "Gold_5_E5F1B626441DA3D73ED053861CF5FA1B": 120
+        },
+        "VisibleByDefault_16_710D80F240E9C8F32E2086ABDA0B852D": false,
+        "AchievementsToShowOnFinished_27_7D383CB24D4BC29B9ED57BA33D906A2F": [
+          "Collect_Box_C"
+        ]
+      },
+      "Collect_Box_C": {
+        "ID_19_3197D12143DB81A941BAD981129341F1": "Collect_Box_C",
+        "DisplayName_6_0358FD924EE779DFA7B3749C1196B2E1": {
+          "Namespace": "",
+          "Key": "060F0D8642957DD43A3E48AFCF61025D",
+          "SourceString": "Box Maniac",
+          "LocalizedString": "Box Maniac"
+        },
+        "Description_7_3E83967C48CE4B4B5A8E0C80D58138A2": {
+          "Namespace": "",
+          "Key": "69CE66644CB8DDE3F88A9DBDB1D5E937",
+          "SourceString": "Collect 75 boxes of any color.",
+          "LocalizedString": "Collect 75 boxes of any color."
+        },
+        "ObjectiveType_21_A62E53954B3DBE81CD63F9B494AF93EB": "E_UQC_AchievementObjective::NewEnumerator1",
+        "RequiredProgress_10_3F89468A484CF7FC6FE5FDA217233DEB": 75,
+        "Reward_14_9BF539F34F17701A29235BBC61C747C8": {
+          "XP_4_8B380C6445003689F8C23A9DC5ECF5E0": 110,
+          "Gold_5_E5F1B626441DA3D73ED053861CF5FA1B": 200
+        },
+        "VisibleByDefault_16_710D80F240E9C8F32E2086ABDA0B852D": false,
+        "AchievementsToShowOnFinished_27_7D383CB24D4BC29B9ED57BA33D906A2F": [
+          "Collect_Box_D"
+        ]
+      },
+      "Collect_Box_D": {
+        "ID_19_3197D12143DB81A941BAD981129341F1": "Collect_Box_D",
+        "DisplayName_6_0358FD924EE779DFA7B3749C1196B2E1": {
+          "Namespace": "",
+          "Key": "200BC02A4E7A187E240804AFE41914C4",
+          "SourceString": "Box Madness",
+          "LocalizedString": "Box Madness"
+        },
+        "Description_7_3E83967C48CE4B4B5A8E0C80D58138A2": {
+          "Namespace": "",
+          "Key": "20DD32A4493120BA936ABE97CC585217",
+          "SourceString": "Collect 200 boxes of any color.",
+          "LocalizedString": "Collect 200 boxes of any color."
+        },
+        "ObjectiveType_21_A62E53954B3DBE81CD63F9B494AF93EB": "E_UQC_AchievementObjective::NewEnumerator1",
+        "RequiredProgress_10_3F89468A484CF7FC6FE5FDA217233DEB": 200,
+        "Reward_14_9BF539F34F17701A29235BBC61C747C8": {
+          "XP_4_8B380C6445003689F8C23A9DC5ECF5E0": 2500,
+          "Gold_5_E5F1B626441DA3D73ED053861CF5FA1B": 4000
+        },
+        "VisibleByDefault_16_710D80F240E9C8F32E2086ABDA0B852D": false,
+        "AchievementsToShowOnFinished_27_7D383CB24D4BC29B9ED57BA33D906A2F": []
+      },
+      "Use_Teleport_A": {
+        "ID_19_3197D12143DB81A941BAD981129341F1": "Use_Teleport_A",
+        "DisplayName_6_0358FD924EE779DFA7B3749C1196B2E1": {
+          "Namespace": "",
+          "Key": "CC4461AF43ED31B2051711AF8F6DCBF3",
+          "SourceString": "Try it out!",
+          "LocalizedString": "Try it out!"
+        },
+        "Description_7_3E83967C48CE4B4B5A8E0C80D58138A2": {
+          "Namespace": "",
+          "Key": "FD5FEF0E469E17DA0E34A8B3C1817453",
+          "SourceString": "Use teleporter 5 times.",
+          "LocalizedString": "Use teleporter 5 times."
+        },
+        "ObjectiveType_21_A62E53954B3DBE81CD63F9B494AF93EB": "E_UQC_AchievementObjective::NewEnumerator4",
+        "RequiredProgress_10_3F89468A484CF7FC6FE5FDA217233DEB": 5,
+        "Reward_14_9BF539F34F17701A29235BBC61C747C8": {
+          "XP_4_8B380C6445003689F8C23A9DC5ECF5E0": 10,
+          "Gold_5_E5F1B626441DA3D73ED053861CF5FA1B": 20
+        },
+        "VisibleByDefault_16_710D80F240E9C8F32E2086ABDA0B852D": true,
+        "AchievementsToShowOnFinished_27_7D383CB24D4BC29B9ED57BA33D906A2F": [
+          "Use_Teleport_B"
+        ]
+      },
+      "Use_Teleport_B": {
+        "ID_19_3197D12143DB81A941BAD981129341F1": "Use_Teleport_B",
+        "DisplayName_6_0358FD924EE779DFA7B3749C1196B2E1": {
+          "Namespace": "",
+          "Key": "C4E1C50A4EE1A3D1ED4433AD514E2EC7",
+          "SourceString": "Where am I?",
+          "LocalizedString": "Where am I?"
+        },
+        "Description_7_3E83967C48CE4B4B5A8E0C80D58138A2": {
+          "Namespace": "",
+          "Key": "F05DF17441DF0EFE98FEC58F04246E00",
+          "SourceString": "Use teleporter 15 times.",
+          "LocalizedString": "Use teleporter 15 times."
+        },
+        "ObjectiveType_21_A62E53954B3DBE81CD63F9B494AF93EB": "E_UQC_AchievementObjective::NewEnumerator4",
+        "RequiredProgress_10_3F89468A484CF7FC6FE5FDA217233DEB": 15,
+        "Reward_14_9BF539F34F17701A29235BBC61C747C8": {
+          "XP_4_8B380C6445003689F8C23A9DC5ECF5E0": 50,
+          "Gold_5_E5F1B626441DA3D73ED053861CF5FA1B": 100
+        },
+        "VisibleByDefault_16_710D80F240E9C8F32E2086ABDA0B852D": false,
+        "AchievementsToShowOnFinished_27_7D383CB24D4BC29B9ED57BA33D906A2F": [
+          "Use_Teleport_C"
+        ]
+      },
+      "Use_Teleport_C": {
+        "ID_19_3197D12143DB81A941BAD981129341F1": "Use_Teleport_C",
+        "DisplayName_6_0358FD924EE779DFA7B3749C1196B2E1": {
+          "Namespace": "",
+          "Key": "CEBBF1214BDCE3A07D9BACACAB122AA3",
+          "SourceString": "Is it another dimension, already?",
+          "LocalizedString": "Is it another dimension, already?"
+        },
+        "Description_7_3E83967C48CE4B4B5A8E0C80D58138A2": {
+          "Namespace": "",
+          "Key": "F45AEEE944ED72D961F4C6A93E5AA113",
+          "SourceString": "Use teleporter 30 times.",
+          "LocalizedString": "Use teleporter 30 times."
+        },
+        "ObjectiveType_21_A62E53954B3DBE81CD63F9B494AF93EB": "E_UQC_AchievementObjective::NewEnumerator4",
+        "RequiredProgress_10_3F89468A484CF7FC6FE5FDA217233DEB": 30,
+        "Reward_14_9BF539F34F17701A29235BBC61C747C8": {
+          "XP_4_8B380C6445003689F8C23A9DC5ECF5E0": 100,
+          "Gold_5_E5F1B626441DA3D73ED053861CF5FA1B": 200
+        },
+        "VisibleByDefault_16_710D80F240E9C8F32E2086ABDA0B852D": false,
+        "AchievementsToShowOnFinished_27_7D383CB24D4BC29B9ED57BA33D906A2F": [
+          "Use_Teleport_D"
+        ]
+      },
+      "Use_Teleport_D": {
+        "ID_19_3197D12143DB81A941BAD981129341F1": "Use_Teleport_D",
+        "DisplayName_6_0358FD924EE779DFA7B3749C1196B2E1": {
+          "Namespace": "",
+          "Key": "ED7398374876BAA1721AFCBF42F1DB55",
+          "SourceString": "Through the time and space!",
+          "LocalizedString": "Through the time and space!"
+        },
+        "Description_7_3E83967C48CE4B4B5A8E0C80D58138A2": {
+          "Namespace": "",
+          "Key": "C5DC2B944D77798024BB17A074AEFC4B",
+          "SourceString": "Use teleporter 100 times.",
+          "LocalizedString": "Use teleporter 100 times."
+        },
+        "ObjectiveType_21_A62E53954B3DBE81CD63F9B494AF93EB": "E_UQC_AchievementObjective::NewEnumerator4",
+        "RequiredProgress_10_3F89468A484CF7FC6FE5FDA217233DEB": 100,
+        "Reward_14_9BF539F34F17701A29235BBC61C747C8": {
+          "XP_4_8B380C6445003689F8C23A9DC5ECF5E0": 1000,
+          "Gold_5_E5F1B626441DA3D73ED053861CF5FA1B": 2000
+        },
+        "VisibleByDefault_16_710D80F240E9C8F32E2086ABDA0B852D": false,
+        "AchievementsToShowOnFinished_27_7D383CB24D4BC29B9ED57BA33D906A2F": []
+      },
+      "Finish_Quest_A": {
+        "ID_19_3197D12143DB81A941BAD981129341F1": "Finish_Quest_A",
+        "DisplayName_6_0358FD924EE779DFA7B3749C1196B2E1": {
+          "Namespace": "",
+          "Key": "3F7895A84654AC6190DA0FA919C0E2A9",
+          "SourceString": "Apprentice",
+          "LocalizedString": "Apprentice"
+        },
+        "Description_7_3E83967C48CE4B4B5A8E0C80D58138A2": {
+          "Namespace": "",
+          "Key": "C9DAED974093B69C3026B5BA069A05D9",
+          "SourceString": "Finish 1 quest.",
+          "LocalizedString": "Finish 1 quest."
+        },
+        "ObjectiveType_21_A62E53954B3DBE81CD63F9B494AF93EB": "E_UQC_AchievementObjective::NewEnumerator2",
+        "RequiredProgress_10_3F89468A484CF7FC6FE5FDA217233DEB": 1,
+        "Reward_14_9BF539F34F17701A29235BBC61C747C8": {
+          "XP_4_8B380C6445003689F8C23A9DC5ECF5E0": 15,
+          "Gold_5_E5F1B626441DA3D73ED053861CF5FA1B": 30
+        },
+        "VisibleByDefault_16_710D80F240E9C8F32E2086ABDA0B852D": true,
+        "AchievementsToShowOnFinished_27_7D383CB24D4BC29B9ED57BA33D906A2F": [
+          "Finish_Quest_B"
+        ]
+      },
+      "Finish_Quest_B": {
+        "ID_19_3197D12143DB81A941BAD981129341F1": "Finish_Quest_B",
+        "DisplayName_6_0358FD924EE779DFA7B3749C1196B2E1": {
+          "Namespace": "",
+          "Key": "9ABB606D42098032396B2D95667EB65F",
+          "SourceString": "Scholar",
+          "LocalizedString": "Scholar"
+        },
+        "Description_7_3E83967C48CE4B4B5A8E0C80D58138A2": {
+          "Namespace": "",
+          "Key": "A27565C94A4F577F07D13AB438A374BD",
+          "SourceString": "Finish 3 quests.",
+          "LocalizedString": "Finish 3 quests."
+        },
+        "ObjectiveType_21_A62E53954B3DBE81CD63F9B494AF93EB": "E_UQC_AchievementObjective::NewEnumerator2",
+        "RequiredProgress_10_3F89468A484CF7FC6FE5FDA217233DEB": 3,
+        "Reward_14_9BF539F34F17701A29235BBC61C747C8": {
+          "XP_4_8B380C6445003689F8C23A9DC5ECF5E0": 30,
+          "Gold_5_E5F1B626441DA3D73ED053861CF5FA1B": 30
+        },
+        "VisibleByDefault_16_710D80F240E9C8F32E2086ABDA0B852D": false,
+        "AchievementsToShowOnFinished_27_7D383CB24D4BC29B9ED57BA33D906A2F": [
+          "Finish_Quest_C"
+        ]
+      },
+      "Finish_Quest_C": {
+        "ID_19_3197D12143DB81A941BAD981129341F1": "Finish_Quest_C",
+        "DisplayName_6_0358FD924EE779DFA7B3749C1196B2E1": {
+          "Namespace": "",
+          "Key": "6AE95C3644A19AFDF96FA7B94E56F11A",
+          "SourceString": "Erudite",
+          "LocalizedString": "Erudite"
+        },
+        "Description_7_3E83967C48CE4B4B5A8E0C80D58138A2": {
+          "Namespace": "",
+          "Key": "AAF378D2427F76D4853A4F8FC8C92599",
+          "SourceString": "Finish 6 quests.",
+          "LocalizedString": "Finish 6 quests."
+        },
+        "ObjectiveType_21_A62E53954B3DBE81CD63F9B494AF93EB": "E_UQC_AchievementObjective::NewEnumerator2",
+        "RequiredProgress_10_3F89468A484CF7FC6FE5FDA217233DEB": 6,
+        "Reward_14_9BF539F34F17701A29235BBC61C747C8": {
+          "XP_4_8B380C6445003689F8C23A9DC5ECF5E0": 300,
+          "Gold_5_E5F1B626441DA3D73ED053861CF5FA1B": 150
+        },
+        "VisibleByDefault_16_710D80F240E9C8F32E2086ABDA0B852D": false,
+        "AchievementsToShowOnFinished_27_7D383CB24D4BC29B9ED57BA33D906A2F": []
+      },
+      "Finish_RepeatableQuest_A": {
+        "ID_19_3197D12143DB81A941BAD981129341F1": "Finish_RepeatableQuest_A",
+        "DisplayName_6_0358FD924EE779DFA7B3749C1196B2E1": {
+          "Namespace": "",
+          "Key": "DC9ADEA74AB02C489A1D168DA2B93B6F",
+          "SourceString": "On repeat.",
+          "LocalizedString": "On repeat."
+        },
+        "Description_7_3E83967C48CE4B4B5A8E0C80D58138A2": {
+          "Namespace": "",
+          "Key": "BA223C4448A5695852DC40BAB986C071",
+          "SourceString": "Finish 10 repeatable quests.",
+          "LocalizedString": "Finish 10 repeatable quests."
+        },
+        "ObjectiveType_21_A62E53954B3DBE81CD63F9B494AF93EB": "E_UQC_AchievementObjective::NewEnumerator3",
+        "RequiredProgress_10_3F89468A484CF7FC6FE5FDA217233DEB": 10,
+        "Reward_14_9BF539F34F17701A29235BBC61C747C8": {
+          "XP_4_8B380C6445003689F8C23A9DC5ECF5E0": 40,
+          "Gold_5_E5F1B626441DA3D73ED053861CF5FA1B": 160
+        },
+        "VisibleByDefault_16_710D80F240E9C8F32E2086ABDA0B852D": true,
+        "AchievementsToShowOnFinished_27_7D383CB24D4BC29B9ED57BA33D906A2F": [
+          "Finish_RepeatableQuest_B"
+        ]
+      },
+      "Finish_RepeatableQuest_B": {
+        "ID_19_3197D12143DB81A941BAD981129341F1": "Finish_RepeatableQuest_B",
+        "DisplayName_6_0358FD924EE779DFA7B3749C1196B2E1": {
+          "Namespace": "",
+          "Key": "C80D803249B8F7AA2651FBBE30F69FD9",
+          "SourceString": "Over and over again.",
+          "LocalizedString": "Over and over again."
+        },
+        "Description_7_3E83967C48CE4B4B5A8E0C80D58138A2": {
+          "Namespace": "",
+          "Key": "0D6A10CD4426B33D086C9390DFDF627D",
+          "SourceString": "Finish 20 repeatable quests.",
+          "LocalizedString": "Finish 20 repeatable quests."
+        },
+        "ObjectiveType_21_A62E53954B3DBE81CD63F9B494AF93EB": "E_UQC_AchievementObjective::NewEnumerator3",
+        "RequiredProgress_10_3F89468A484CF7FC6FE5FDA217233DEB": 20,
+        "Reward_14_9BF539F34F17701A29235BBC61C747C8": {
+          "XP_4_8B380C6445003689F8C23A9DC5ECF5E0": 400,
+          "Gold_5_E5F1B626441DA3D73ED053861CF5FA1B": 650
+        },
+        "VisibleByDefault_16_710D80F240E9C8F32E2086ABDA0B852D": false,
+        "AchievementsToShowOnFinished_27_7D383CB24D4BC29B9ED57BA33D906A2F": []
+      }
+    }
+  }
+]

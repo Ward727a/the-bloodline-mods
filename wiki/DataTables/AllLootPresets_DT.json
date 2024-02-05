@@ -1,0 +1,519 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "AllLootPresets",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "UserDefinedStruct'GenericLootPresets'",
+        "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/GenericLootPresets.0"
+      }
+    },
+    "Rows": {
+      "CopperUltrasword": {
+        "Item_2_79F7B3D94DA7BF469E4B399920119669": {
+          "ObjectName": "BlueprintGeneratedClass'CopperUltrasword_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Weapons/Copper1HWeapons/CopperUltrasword.7"
+        },
+        "CustomTransform_5_E0E790794D57612996E6AE95A9872BC7": {
+          "Rotation": {
+            "X": -0.61972135,
+            "Y": -0.19301791,
+            "Z": -0.10636981,
+            "W": 0.75324297,
+            "IsNormalized": true,
+            "Size": 0.99999994,
+            "SizeSquared": 0.99999994
+          },
+          "Translation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "Material_8_3C387CE04639D1C890AE73B3B9880685": null
+      },
+      "CopperDaggers": {
+        "Item_2_79F7B3D94DA7BF469E4B399920119669": {
+          "ObjectName": "BlueprintGeneratedClass'CopperDaggers_Fixed_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Weapons/Copper1HWeapons/CopperDaggers_Fixed.4"
+        },
+        "CustomTransform_5_E0E790794D57612996E6AE95A9872BC7": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 25.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "Material_8_3C387CE04639D1C890AE73B3B9880685": null
+      },
+      "InfantryArmingSword": {
+        "Item_2_79F7B3D94DA7BF469E4B399920119669": {
+          "ObjectName": "BlueprintGeneratedClass'1HSWORD_InfatryArmingSword_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Weapons/1HandedWeapons/1HSWORD_InfatryArmingSword.2"
+        },
+        "CustomTransform_5_E0E790794D57612996E6AE95A9872BC7": {
+          "Rotation": {
+            "X": -0.7071067,
+            "Y": -0.0,
+            "Z": 0.0,
+            "W": 0.7071068,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "Material_8_3C387CE04639D1C890AE73B3B9880685": null
+      },
+      "FootmanShortspatha": {
+        "Item_2_79F7B3D94DA7BF469E4B399920119669": {
+          "ObjectName": "BlueprintGeneratedClass'1HSWORD_FootmanShortSpatha_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Weapons/1HandedWeapons/1HSWORD_FootmanShortSpatha.7"
+        },
+        "CustomTransform_5_E0E790794D57612996E6AE95A9872BC7": {
+          "Rotation": {
+            "X": -0.7071067,
+            "Y": -0.0,
+            "Z": 0.0,
+            "W": 0.7071068,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "Material_8_3C387CE04639D1C890AE73B3B9880685": null
+      },
+      "BasicIronSpatha": {
+        "Item_2_79F7B3D94DA7BF469E4B399920119669": {
+          "ObjectName": "BlueprintGeneratedClass'1HSWORD_BasicIronSpatha_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Weapons/1HandedWeapons/1HSWORD_BasicIronSpatha.8"
+        },
+        "CustomTransform_5_E0E790794D57612996E6AE95A9872BC7": {
+          "Rotation": {
+            "X": -0.49999982,
+            "Y": -0.5000001,
+            "Z": -0.49999985,
+            "W": 0.50000006,
+            "IsNormalized": true,
+            "Size": 0.9999999,
+            "SizeSquared": 0.9999998
+          },
+          "Translation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "Material_8_3C387CE04639D1C890AE73B3B9880685": null
+      },
+      "PrayerStones": {
+        "Item_2_79F7B3D94DA7BF469E4B399920119669": {
+          "ObjectName": "BlueprintGeneratedClass'PrayerStones_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Generic_Loot/PrayerStones.0"
+        },
+        "CustomTransform_5_E0E790794D57612996E6AE95A9872BC7": {
+          "Rotation": {
+            "X": -0.7071067,
+            "Y": -0.0,
+            "Z": 0.0,
+            "W": 0.7071068,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "Material_8_3C387CE04639D1C890AE73B3B9880685": null
+      },
+      "Apple": {
+        "Item_2_79F7B3D94DA7BF469E4B399920119669": {
+          "ObjectName": "BlueprintGeneratedClass'Apple_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Apple.0"
+        },
+        "CustomTransform_5_E0E790794D57612996E6AE95A9872BC7": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "Material_8_3C387CE04639D1C890AE73B3B9880685": null
+      },
+      "BronzeKey": {
+        "Item_2_79F7B3D94DA7BF469E4B399920119669": {
+          "ObjectName": "BlueprintGeneratedClass'BronzeKey_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/BronzeKey.3"
+        },
+        "CustomTransform_5_E0E790794D57612996E6AE95A9872BC7": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.70710677,
+            "Z": 0.0,
+            "W": 0.7071067,
+            "IsNormalized": true,
+            "Size": 0.99999994,
+            "SizeSquared": 0.9999999
+          },
+          "Translation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "Material_8_3C387CE04639D1C890AE73B3B9880685": null
+      },
+      "Baguette": {
+        "Item_2_79F7B3D94DA7BF469E4B399920119669": {
+          "ObjectName": "BlueprintGeneratedClass'Baguette_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Baguette.0"
+        },
+        "CustomTransform_5_E0E790794D57612996E6AE95A9872BC7": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "Material_8_3C387CE04639D1C890AE73B3B9880685": null
+      },
+      "RollOfLeather": {
+        "Item_2_79F7B3D94DA7BF469E4B399920119669": {
+          "ObjectName": "BlueprintGeneratedClass'RollOfLeather_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/RollOfLeather.0"
+        },
+        "CustomTransform_5_E0E790794D57612996E6AE95A9872BC7": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "Material_8_3C387CE04639D1C890AE73B3B9880685": null
+      },
+      "IronIngot": {
+        "Item_2_79F7B3D94DA7BF469E4B399920119669": {
+          "ObjectName": "BlueprintGeneratedClass'IronIngot_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Ore_And_Ingots/IronIngot.0"
+        },
+        "CustomTransform_5_E0E790794D57612996E6AE95A9872BC7": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "Material_8_3C387CE04639D1C890AE73B3B9880685": null
+      },
+      "CopperIngot": {
+        "Item_2_79F7B3D94DA7BF469E4B399920119669": {
+          "ObjectName": "BlueprintGeneratedClass'CopperIngot_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Ore_And_Ingots/CopperIngot.0"
+        },
+        "CustomTransform_5_E0E790794D57612996E6AE95A9872BC7": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "Material_8_3C387CE04639D1C890AE73B3B9880685": null
+      },
+      "Pickaxe": {
+        "Item_2_79F7B3D94DA7BF469E4B399920119669": {
+          "ObjectName": "BlueprintGeneratedClass'MiningPickaxe_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Weapons/2H_Weapons/TwoHanded_Tool_Weapons/MiningPickaxe.5"
+        },
+        "CustomTransform_5_E0E790794D57612996E6AE95A9872BC7": {
+          "Rotation": {
+            "X": -0.7071067,
+            "Y": -0.0,
+            "Z": 0.0,
+            "W": 0.7071068,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "Material_8_3C387CE04639D1C890AE73B3B9880685": null
+      },
+      "CopperOre": {
+        "Item_2_79F7B3D94DA7BF469E4B399920119669": {
+          "ObjectName": "BlueprintGeneratedClass'CopperOre_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Ore_And_Ingots/CopperOre.0"
+        },
+        "CustomTransform_5_E0E790794D57612996E6AE95A9872BC7": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "Material_8_3C387CE04639D1C890AE73B3B9880685": null
+      },
+      "IronOre": {
+        "Item_2_79F7B3D94DA7BF469E4B399920119669": {
+          "ObjectName": "BlueprintGeneratedClass'IronOre_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Ore_And_Ingots/IronOre.0"
+        },
+        "CustomTransform_5_E0E790794D57612996E6AE95A9872BC7": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "Material_8_3C387CE04639D1C890AE73B3B9880685": null
+      },
+      "Stone": {
+        "Item_2_79F7B3D94DA7BF469E4B399920119669": {
+          "ObjectName": "BlueprintGeneratedClass'Stone_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/Ore_And_Ingots/Stone.0"
+        },
+        "CustomTransform_5_E0E790794D57612996E6AE95A9872BC7": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "Material_8_3C387CE04639D1C890AE73B3B9880685": null
+      },
+      "Sausage": {
+        "Item_2_79F7B3D94DA7BF469E4B399920119669": {
+          "ObjectName": "BlueprintGeneratedClass'Sausage_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/Sausage.0"
+        },
+        "CustomTransform_5_E0E790794D57612996E6AE95A9872BC7": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "Material_8_3C387CE04639D1C890AE73B3B9880685": null
+      },
+      "HunkOfMeat": {
+        "Item_2_79F7B3D94DA7BF469E4B399920119669": {
+          "ObjectName": "BlueprintGeneratedClass'HunkOfMeat_C'",
+          "ObjectPath": "TheBloodline/Content/BloodlinesAlpha/Interactables/Crafting_Items/GeneralFoodItems/HunkOfMeat.0"
+        },
+        "CustomTransform_5_E0E790794D57612996E6AE95A9872BC7": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "Material_8_3C387CE04639D1C890AE73B3B9880685": null
+      }
+    }
+  }
+]

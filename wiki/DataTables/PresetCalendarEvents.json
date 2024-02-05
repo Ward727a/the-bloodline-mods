@@ -1,0 +1,67 @@
+[
+    {
+      "Type": "DataTable",
+      "Name": "PresetCalendarEvents",
+      "Class": "UScriptClass'DataTable'",
+      "Properties": {
+        "RowStruct": {
+          "ObjectName": "UserDefinedStruct'CalendarEventStruct'",
+          "ObjectPath": "TheBloodline/Content/Overworld/OpenWorldAreas/CalendarEventStruct.0"
+        }
+      },
+      "Rows": {
+        "TheDayOfTheDruids": {
+          "EventName_20_188AD1114ADBE72F27E0D4BF1A1D0B20": {
+            "Namespace": "",
+            "Key": "5FABE6E5406F6B72387892A59CFCE11E",
+            "SourceString": "The Day of the Druids",
+            "LocalizedString": "The Day of the Druids"
+          },
+          "EventDescription_19_21D7B4204B5E478338ECE8BE2B93ED40": {
+            "Namespace": "",
+            "Key": "06E8456D4734A126CE0FF6938E9CD3A4",
+            "SourceString": "The Day of the Druids is a annual holiday that is celebrated in Millshade. The day is dedicated to those who use druidic magic to help maintain the balance of nature and helping those in need of healing. Events will be held in the village of Millshade and offer various rewards for those who participate.",
+            "LocalizedString": "The Day of the Druids is a annual holiday that is celebrated in Millshade. The day is dedicated to those who use druidic magic to help maintain the balance of nature and helping those in need of healing. Events will be held in the village of Millshade and offer various rewards for those who participate."
+          },
+          "DateTime_2_128ACA05425C35757191F4A7D4C625BC": {
+            "Year_8_2DA6278843395AEA53D2BDBE940A7866": 874,
+            "Month_9_E9F01F994BFD743990206C8CE7058118": "Months::NewEnumerator0",
+            "Day_10_293D800145292275B0ACE88C1DE22A9E": "Days::NewEnumerator0",
+            "Hour_16_5CD5C8CB4B4545E10E3DCC881A4A915E": 0,
+            "Minute_18_FA892A6F47DD826B4C53FBBAB926DDD5": 0,
+            "Dayofthemonth_20_4E88A9B148F5F943728BD9958861D5B2": 25
+          },
+          "EventType_5_2DA2BB684A7C2EB67C764BA79196A96A": "CalendarEventType::NewEnumerator7",
+          "WorldLocation_8_2959D85B4B677568524427BFCCDE413B": "WorldLocations::NewEnumerator21",
+          "Theme_11_2D67DA824AD6EFC0E73C639C89E08F8E": "RepeatableDungeonThemes::NewEnumerator0",
+          "NameofRandomCitizen_14_98E51E694C233C67EA1CA4A15DB4FC16": ""
+        },
+        "SoulfaringNight": {
+          "EventName_20_188AD1114ADBE72F27E0D4BF1A1D0B20": {
+            "Namespace": "",
+            "Key": "A2EDA1C4490BBAA6979945A9641B3B50",
+            "SourceString": "Soulfaring Night",
+            "LocalizedString": "Soulfaring Night"
+          },
+          "EventDescription_19_21D7B4204B5E478338ECE8BE2B93ED40": {
+            "Namespace": "",
+            "Key": "32F0369C44341388D9851FA6507F4B11",
+            "SourceString": "On this strange night, the Elderglen Woods seems to collide with the Betwixt Realm, allowing communication with lost souls roaming in the Betwixt planes. Taking advantage of the opportunity, this day has been dedicated to helping lost souls move on to the afterlife. This holiday is regarded as one of, if not the most important holiday of the year. Visit the Elderglen Woods on this day to participate in the event.",
+            "LocalizedString": "On this strange night, the Elderglen Woods seems to collide with the Betwixt Realm, allowing communication with lost souls roaming in the Betwixt planes. Taking advantage of the opportunity, this day has been dedicated to helping lost souls move on to the afterlife. This holiday is regarded as one of, if not the most important holiday of the year. Visit the Elderglen Woods on this day to participate in the event."
+          },
+          "DateTime_2_128ACA05425C35757191F4A7D4C625BC": {
+            "Year_8_2DA6278843395AEA53D2BDBE940A7866": 874,
+            "Month_9_E9F01F994BFD743990206C8CE7058118": "Months::NewEnumerator0",
+            "Day_10_293D800145292275B0ACE88C1DE22A9E": "Days::NewEnumerator0",
+            "Hour_16_5CD5C8CB4B4545E10E3DCC881A4A915E": 0,
+            "Minute_18_FA892A6F47DD826B4C53FBBAB926DDD5": 0,
+            "Dayofthemonth_20_4E88A9B148F5F943728BD9958861D5B2": 15
+          },
+          "EventType_5_2DA2BB684A7C2EB67C764BA79196A96A": "CalendarEventType::NewEnumerator7",
+          "WorldLocation_8_2959D85B4B677568524427BFCCDE413B": "WorldLocations::NewEnumerator5",
+          "Theme_11_2D67DA824AD6EFC0E73C639C89E08F8E": "RepeatableDungeonThemes::NewEnumerator0",
+          "NameofRandomCitizen_14_98E51E694C233C67EA1CA4A15DB4FC16": ""
+        }
+      }
+    }
+  ]
